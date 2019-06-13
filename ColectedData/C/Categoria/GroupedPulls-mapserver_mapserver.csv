@@ -1,0 +1,540 @@
+Repository,Pull number,Users,Test,Change,Type,,
+mapserver_mapserver.csv,5688,szekerest,TRUE,modified,Merged
+mapserver_mapserver.csv,5685,tomkralidis,TRUE,modified,Merged
+mapserver_mapserver.csv,5684,tomkralidis,TRUE,modified,Merged
+mapserver_mapserver.csv,5677,AlexanderGabriel,TRUE,added AND modified,Merged
+mapserver_mapserver.csv,5670,AlexanderGabriel,TRUE,modified AND removed,Merged
+mapserver_mapserver.csv,5660,rouault,TRUE,added AND modified,Merged
+mapserver_mapserver.csv,5657,rouault,TRUE,renamed AND removed AND modified,Merged
+mapserver_mapserver.csv,5645,gogglesguy,TRUE,modified AND removed AND added,Merged
+mapserver_mapserver.csv,5634,msmitherdc,TRUE,added AND modified,Merged
+mapserver_mapserver.csv,5631,geographika,TRUE,added AND modified,Merged
+mapserver_mapserver.csv,5620,geographika,TRUE,modified,Merged
+mapserver_mapserver.csv,5616,AlexanderGabriel,TRUE,modified AND added,Closed
+mapserver_mapserver.csv,5615,AlexanderGabriel,TRUE,modified,Merged
+mapserver_mapserver.csv,5614,rouault,TRUE,modified,Closed
+mapserver_mapserver.csv,5606,rouault,TRUE,added AND modified,Merged
+mapserver_mapserver.csv,5605,rouault,TRUE,added AND modified,Closed
+mapserver_mapserver.csv,5599,3x0dv5,TRUE,modified,Merged
+mapserver_mapserver.csv,5587,szekerest,TRUE,modified AND added,Merged
+mapserver_mapserver.csv,5572,rouault,TRUE,modified,Merged
+mapserver_mapserver.csv,5571,claudep,TRUE,added AND modified,Merged
+mapserver_mapserver.csv,5569,constantinius,TRUE,modified AND added,Merged
+mapserver_mapserver.csv,5568,geographika,TRUE,added AND modified,Closed
+mapserver_mapserver.csv,5566,constantinius,TRUE,added AND modified,Merged
+mapserver_mapserver.csv,5548,eric-peiffer,TRUE,modified AND added,Closed
+mapserver_mapserver.csv,5547,tlaczy,TRUE,added AND modified,Merged
+mapserver_mapserver.csv,5536,szekerest,TRUE,modified,Merged
+mapserver_mapserver.csv,5533,geographika,TRUE,modified AND added,Merged
+mapserver_mapserver.csv,5530,yjacolin,TRUE,modified AND added,Merged
+mapserver_mapserver.csv,5523,gberaudo,TRUE,modified,Merged
+mapserver_mapserver.csv,5513,micking,TRUE,modified,Merged
+mapserver_mapserver.csv,5489,szekerest,TRUE,added AND modified,Merged
+mapserver_mapserver.csv,5488,theduckylittle,TRUE,modified,Merged
+mapserver_mapserver.csv,5482,BernardBielecki,TRUE,modified,Merged
+mapserver_mapserver.csv,5480,geographika,TRUE,added AND modified,Merged
+mapserver_mapserver.csv,5479,dmorissette,TRUE,modified,Closed
+mapserver_mapserver.csv,5468,szekerest,TRUE,modified,Merged
+mapserver_mapserver.csv,5464,geographika,TRUE,added AND modified,Merged
+mapserver_mapserver.csv,5460,olt,TRUE,modified AND added,Closed
+mapserver_mapserver.csv,5457,micking,TRUE,modified,Merged
+mapserver_mapserver.csv,5430,szekerest,TRUE,modified,Merged
+mapserver_mapserver.csv,5417,szekerest,TRUE,added AND modified,Merged
+mapserver_mapserver.csv,5412,bjoernboldt,TRUE,modified AND added,Merged
+mapserver_mapserver.csv,5405,NathanW2,TRUE,added AND modified,Merged
+mapserver_mapserver.csv,5376,NathanW2,TRUE,modified AND added,Merged
+mapserver_mapserver.csv,5371,pmauduit,TRUE,modified AND added,Closed
+mapserver_mapserver.csv,5354,szekerest,TRUE,modified AND added,Merged
+mapserver_mapserver.csv,5353,rouault,TRUE,added AND modified,Merged
+mapserver_mapserver.csv,5332,tbonfort,TRUE,added,Closed
+mapserver_mapserver.csv,5327,gogglesguy,TRUE,modified,Closed
+mapserver_mapserver.csv,5277,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,5296,blazek,TRUE,modified,Merged
+mapserver_mapserver.csv,5261,geographika,TRUE,added AND modified,Closed
+mapserver_mapserver.csv,5207,msmitherdc,TRUE,added AND modified,Closed
+mapserver_mapserver.csv,5244,tbonfort,TRUE,modified AND added,Closed
+mapserver_mapserver.csv,5132,rouault,TRUE,modified,Closed
+mapserver_mapserver.csv,5106,rouault,TRUE,modified,Merged
+mapserver_mapserver.csv,5067,hobu,TRUE,modified AND removed,Closed
+mapserver_mapserver.csv,5010,constantinius,TRUE,modified,Merged
+mapserver_mapserver.csv,4988,rouault,TRUE,modified,Merged
+mapserver_mapserver.csv,4941,jisakiel,TRUE,modified,Merged
+mapserver_mapserver.csv,4898,fblackburn,TRUE,modified,Closed
+mapserver_mapserver.csv,4896,constantinius,TRUE,modified,Merged
+mapserver_mapserver.csv,4877,zidge,TRUE,modified,Merged
+mapserver_mapserver.csv,4875,zidge,TRUE,modified,Closed
+mapserver_mapserver.csv,4873,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4866,ruester,TRUE,modified,Closed
+mapserver_mapserver.csv,4857,tbonfort,TRUE,modified AND added,Merged
+mapserver_mapserver.csv,4839,cnieman,TRUE,modified,Merged
+mapserver_mapserver.csv,4837,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4817,szekerest,TRUE,modified AND added AND removed,Closed
+mapserver_mapserver.csv,4778,buildrz,TRUE,modified,Merged
+mapserver_mapserver.csv,4782,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4756,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4737,Schpidi,TRUE,modified,Merged
+mapserver_mapserver.csv,4728,unicolet,TRUE,modified AND added,Merged
+mapserver_mapserver.csv,4719,mkofahl,TRUE,modified,Merged
+mapserver_mapserver.csv,4718,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4703,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4715,tbonfort,TRUE,modified AND added,Closed
+mapserver_mapserver.csv,4713,tbonfort,TRUE,added AND modified,Closed
+mapserver_mapserver.csv,4710,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4698,luipir,TRUE,modified,Merged
+mapserver_mapserver.csv,4697,rouault,TRUE,modified AND added,Merged
+mapserver_mapserver.csv,4695,rouault,TRUE,modified,Closed
+mapserver_mapserver.csv,4694,rouault,TRUE,modified,Closed
+mapserver_mapserver.csv,4688,rouault,TRUE,modified,Closed
+mapserver_mapserver.csv,4687,rouault,TRUE,modified,Closed
+mapserver_mapserver.csv,4681,homme,TRUE,modified AND added,Closed
+mapserver_mapserver.csv,4679,rouault,TRUE,modified,Merged
+mapserver_mapserver.csv,4678,rouault,TRUE,modified,Closed
+mapserver_mapserver.csv,4671,homme,TRUE,modified,Closed
+mapserver_mapserver.csv,4670,rouault,TRUE,modified,Closed
+mapserver_mapserver.csv,4631,tbonfort,TRUE,added,Closed
+mapserver_mapserver.csv,4628,mkofahl,TRUE,modified,Closed
+mapserver_mapserver.csv,4614,mkofahl,TRUE,modified AND added,Merged
+mapserver_mapserver.csv,4579,akrherz,TRUE,modified,Merged
+mapserver_mapserver.csv,4538,jlarouche,TRUE,modified,Merged
+mapserver_mapserver.csv,4409,homme,TRUE,modified,Closed
+mapserver_mapserver.csv,4403,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4476,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4475,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4473,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4471,Schpidi,TRUE,modified,Merged
+mapserver_mapserver.csv,4469,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4468,tbonfort,TRUE,modified AND removed,Closed
+mapserver_mapserver.csv,4313,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,5692,NULL,TRUE,modified,Merged
+mapserver_mapserver.csv,5690,tomkralidis,TRUE,modified,Merged
+mapserver_mapserver.csv,5686,tomkralidis,TRUE,modified,Merged
+mapserver_mapserver.csv,5682,tomkralidis,TRUE,added AND removed AND modified,Closed
+mapserver_mapserver.csv,5679,AlexanderGabriel,TRUE,modified,Merged
+mapserver_mapserver.csv,5676,geographika,TRUE,modified,Merged
+mapserver_mapserver.csv,5675,ravhed,TRUE,modified AND added,Merged
+mapserver_mapserver.csv,5674,AlexanderGabriel,TRUE,modified,Merged
+mapserver_mapserver.csv,5673,geographika,TRUE,modified,Closed
+mapserver_mapserver.csv,5672,AlexanderGabriel,TRUE,modified,Closed
+mapserver_mapserver.csv,5664,geographika,TRUE,modified,Merged
+mapserver_mapserver.csv,5661,fredj,TRUE,modified,Merged
+mapserver_mapserver.csv,5659,rouault,TRUE,modified,Merged
+mapserver_mapserver.csv,5656,geographika,TRUE,modified,Closed
+mapserver_mapserver.csv,5655,geographika,TRUE,modified,Merged
+mapserver_mapserver.csv,5654,sdlime,TRUE,modified,Merged
+mapserver_mapserver.csv,5651,geographika,TRUE,modified,Merged
+mapserver_mapserver.csv,5650,gogglesguy,TRUE,modified,Merged
+mapserver_mapserver.csv,5649,gogglesguy,TRUE,modified,Merged
+mapserver_mapserver.csv,5648,gogglesguy,TRUE,modified,Merged
+mapserver_mapserver.csv,5647,gogglesguy,TRUE,modified,Merged
+mapserver_mapserver.csv,5642,geographika,TRUE,modified AND added,Closed
+mapserver_mapserver.csv,5641,AlexanderGabriel,TRUE,modified,Merged
+mapserver_mapserver.csv,5640,sdlime,TRUE,modified,Merged
+mapserver_mapserver.csv,5633,olt,TRUE,modified,Closed
+mapserver_mapserver.csv,5632,sebastic,TRUE,modified,Merged
+mapserver_mapserver.csv,5630,rouault,TRUE,renamed,Merged
+mapserver_mapserver.csv,5623,geographika,TRUE,modified AND added,Closed
+mapserver_mapserver.csv,5622,AlexanderGabriel,TRUE,modified,Merged
+mapserver_mapserver.csv,5619,geographika,TRUE,modified AND added,Closed
+mapserver_mapserver.csv,5611,geographika,TRUE,modified AND added,Closed
+mapserver_mapserver.csv,5610,AlexanderGabriel,TRUE,modified,Merged
+mapserver_mapserver.csv,5608,geographika,TRUE,modified,Closed
+mapserver_mapserver.csv,5603,rouault,TRUE,modified,Merged
+mapserver_mapserver.csv,5601,szekerest,TRUE,modified,Closed
+mapserver_mapserver.csv,5597,constantinius,TRUE,modified,Closed
+mapserver_mapserver.csv,5591,ravhed,TRUE,modified,Merged
+mapserver_mapserver.csv,5585,rouault,TRUE,modified,Merged
+mapserver_mapserver.csv,5583,szekerest,TRUE,modified,Merged
+mapserver_mapserver.csv,5581,geographika,TRUE,modified AND removed,Merged
+mapserver_mapserver.csv,5580,geographika,TRUE,modified,Merged
+mapserver_mapserver.csv,5574,cladisch,TRUE,modified,Merged
+mapserver_mapserver.csv,5561,constantinius,TRUE,modified,Merged
+mapserver_mapserver.csv,5555,claudep,TRUE,modified,Closed
+mapserver_mapserver.csv,5552,OmegaCar,TRUE,modified,Closed
+mapserver_mapserver.csv,5549,tlaczy,TRUE,modified,Merged
+mapserver_mapserver.csv,5545,ejn,TRUE,modified,Merged
+mapserver_mapserver.csv,5544,sebastic,TRUE,modified,Merged
+mapserver_mapserver.csv,5538,olt,TRUE,modified,Merged
+mapserver_mapserver.csv,5528,rouault,TRUE,modified,Closed
+mapserver_mapserver.csv,5527,gberaudo,TRUE,modified,Merged
+mapserver_mapserver.csv,5517,rouault,TRUE,modified,Merged
+mapserver_mapserver.csv,5516,micking,TRUE,modified,Merged
+mapserver_mapserver.csv,5498,rouault,TRUE,modified,Merged
+mapserver_mapserver.csv,5485,geographika,TRUE,modified,Merged
+mapserver_mapserver.csv,5478,geographika,TRUE,added,Merged
+mapserver_mapserver.csv,5472,geographika,TRUE,modified,Merged
+mapserver_mapserver.csv,5459,geographika,TRUE,modified,Merged
+mapserver_mapserver.csv,5454,geographika,TRUE,modified,Merged
+mapserver_mapserver.csv,5453,micking,TRUE,modified,Merged
+mapserver_mapserver.csv,5452,NULL,TRUE,modified,Merged
+mapserver_mapserver.csv,5451,micking,TRUE,modified,Merged
+mapserver_mapserver.csv,5450,micking,TRUE,modified,Closed
+mapserver_mapserver.csv,5447,kamilfrtk,TRUE,modified,Merged
+mapserver_mapserver.csv,5443,rouault,TRUE,modified,Merged
+mapserver_mapserver.csv,5439,szekerest,TRUE,modified,Merged
+mapserver_mapserver.csv,5429,juliensam,TRUE,modified,Merged
+mapserver_mapserver.csv,5414,rouault,TRUE,modified,Merged
+mapserver_mapserver.csv,5413,rouault,TRUE,modified,Closed
+mapserver_mapserver.csv,5411,tomkralidis,TRUE,modified,Merged
+mapserver_mapserver.csv,5410,sergmorev,TRUE,modified,Closed
+mapserver_mapserver.csv,5409,sergmorev,TRUE,modified AND added,Merged
+mapserver_mapserver.csv,5401,tomkralidis,TRUE,modified,Merged
+mapserver_mapserver.csv,5392,sdlime,TRUE,modified,Merged
+mapserver_mapserver.csv,5388,szekerest,TRUE,modified,Merged
+mapserver_mapserver.csv,5385,landryb,TRUE,modified,Merged
+mapserver_mapserver.csv,5384,ianturton,TRUE,modified AND added,Merged
+mapserver_mapserver.csv,5381,msmitherdc,TRUE,modified,Merged
+mapserver_mapserver.csv,5375,sdlime,TRUE,modified,Merged
+mapserver_mapserver.csv,5373,szekerest,TRUE,modified,Closed
+mapserver_mapserver.csv,5372,micking,TRUE,modified,Merged
+mapserver_mapserver.csv,5370,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,5362,sebastic,TRUE,modified,Merged
+mapserver_mapserver.csv,5360,sdlime,TRUE,modified,Merged
+mapserver_mapserver.csv,5357,dshorthouse,TRUE,modified,Merged
+mapserver_mapserver.csv,5356,AlexanderGabriel,TRUE,modified,Merged
+mapserver_mapserver.csv,5355,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,5346,rouault,TRUE,modified,Closed
+mapserver_mapserver.csv,5342,AlexanderGabriel,TRUE,modified,Closed
+mapserver_mapserver.csv,5338,geographika,TRUE,modified,Closed
+mapserver_mapserver.csv,5335,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,5331,astroidex,TRUE,modified,Closed
+mapserver_mapserver.csv,5326,gogglesguy,TRUE,modified,Closed
+mapserver_mapserver.csv,5329,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,5328,gogglesguy,TRUE,modified,Closed
+mapserver_mapserver.csv,5324,gogglesguy,TRUE,modified,Merged
+mapserver_mapserver.csv,5321,sebastic,TRUE,modified,Merged
+mapserver_mapserver.csv,5318,geographika,TRUE,modified,Closed
+mapserver_mapserver.csv,5313,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,5312,geographika,TRUE,modified,Closed
+mapserver_mapserver.csv,5012,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,5267,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,5268,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,5306,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,5303,szekerest,TRUE,modified,Merged
+mapserver_mapserver.csv,1715,sdlime,TRUE,modified,Closed
+mapserver_mapserver.csv,5297,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,5294,rouault,TRUE,modified AND added,Merged
+mapserver_mapserver.csv,5290,szekerest,TRUE,modified,Closed
+mapserver_mapserver.csv,5288,klassenjs,TRUE,modified,Merged
+mapserver_mapserver.csv,5285,szekerest,TRUE,modified,Merged
+mapserver_mapserver.csv,5284,szekerest,TRUE,modified,Merged
+mapserver_mapserver.csv,5282,szekerest,TRUE,modified,Merged
+mapserver_mapserver.csv,5279,szekerest,TRUE,modified,Merged
+mapserver_mapserver.csv,5272,szekerest,TRUE,modified,Merged
+mapserver_mapserver.csv,5269,jmckenna,TRUE,modified,Closed
+mapserver_mapserver.csv,5266,geographika,TRUE,modified,Merged
+mapserver_mapserver.csv,5264,edigiacomo,TRUE,modified,Merged
+mapserver_mapserver.csv,5262,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,5260,ruhri,TRUE,modified,Merged
+mapserver_mapserver.csv,5259,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,5257,tbonfort,TRUE,added,Merged
+mapserver_mapserver.csv,5256,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,5255,msmitherdc,TRUE,modified,Merged
+mapserver_mapserver.csv,5014,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,5208,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,5253,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,5251,Jenselme,TRUE,modified,Closed
+mapserver_mapserver.csv,5249,wraeth,TRUE,modified,Closed
+mapserver_mapserver.csv,5248,wraeth,TRUE,modified,Merged
+mapserver_mapserver.csv,5247,wraeth,TRUE,modified,Closed
+mapserver_mapserver.csv,5246,wraeth,TRUE,modified,Closed
+mapserver_mapserver.csv,5245,jmckenna,TRUE,modified,Merged
+mapserver_mapserver.csv,5239,wraeth,TRUE,modified,Merged
+mapserver_mapserver.csv,5237,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,5238,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,5235,pvalsecc,TRUE,modified,Closed
+mapserver_mapserver.csv,5233,sdlime,TRUE,modified,Merged
+mapserver_mapserver.csv,5230,sdlime,TRUE,modified,Closed
+mapserver_mapserver.csv,5228,sdlime,TRUE,modified,Closed
+mapserver_mapserver.csv,5227,sebastic,TRUE,modified,Merged
+mapserver_mapserver.csv,5226,sebastic,TRUE,modified,Closed
+mapserver_mapserver.csv,5220,pvalsecc,TRUE,modified,Closed
+mapserver_mapserver.csv,5215,rouault,TRUE,modified,Merged
+mapserver_mapserver.csv,5217,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,5213,NULL,TRUE,modified,Closed
+mapserver_mapserver.csv,5214,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,5209,kellyelton,TRUE,modified,Closed
+mapserver_mapserver.csv,5201,edigiacomo,TRUE,modified,Merged
+mapserver_mapserver.csv,5200,lydonchandra,TRUE,modified,Merged
+mapserver_mapserver.csv,5197,flaviommedeiros,TRUE,modified,Merged
+mapserver_mapserver.csv,5195,lydonchandra,TRUE,modified,Merged
+mapserver_mapserver.csv,4731,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,5194,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,5142,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,5182,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,5180,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,5179,tigerfoot,TRUE,modified,Closed
+mapserver_mapserver.csv,5178,tigerfoot,TRUE,modified,Closed
+mapserver_mapserver.csv,5177,tigerfoot,TRUE,modified,Closed
+mapserver_mapserver.csv,5176,tigerfoot,TRUE,modified,Closed
+mapserver_mapserver.csv,5175,tigerfoot,TRUE,modified,Closed
+mapserver_mapserver.csv,5171,tigerfoot,TRUE,modified,Closed
+mapserver_mapserver.csv,5169,sebastic,TRUE,modified,Closed
+mapserver_mapserver.csv,5166,mkofahl,TRUE,modified,Closed
+mapserver_mapserver.csv,5165,sebastic,TRUE,modified,Closed
+mapserver_mapserver.csv,5164,sebastic,TRUE,modified,Closed
+mapserver_mapserver.csv,5163,rouault,TRUE,modified,Closed
+mapserver_mapserver.csv,5161,rouault,TRUE,modified,Closed
+mapserver_mapserver.csv,5153,mkofahl,TRUE,modified,Merged
+mapserver_mapserver.csv,5152,rouault,TRUE,modified,Closed
+mapserver_mapserver.csv,5151,gogglesguy,TRUE,modified,Closed
+mapserver_mapserver.csv,5150,gogglesguy,TRUE,modified,Closed
+mapserver_mapserver.csv,5149,gogglesguy,TRUE,modified,Closed
+mapserver_mapserver.csv,5148,gogglesguy,TRUE,modified,Closed
+mapserver_mapserver.csv,5147,gogglesguy,TRUE,modified,Closed
+mapserver_mapserver.csv,5146,gogglesguy,TRUE,modified,Closed
+mapserver_mapserver.csv,5145,gogglesguy,TRUE,modified,Closed
+mapserver_mapserver.csv,5144,gogglesguy,TRUE,modified,Merged
+mapserver_mapserver.csv,5143,gogglesguy,TRUE,modified,Closed
+mapserver_mapserver.csv,5134,gogglesguy,TRUE,modified,Merged
+mapserver_mapserver.csv,5133,rouault,TRUE,modified,Closed
+mapserver_mapserver.csv,5129,rouault,TRUE,modified,Closed
+mapserver_mapserver.csv,5125,JuergenWeichand,TRUE,modified,Closed
+mapserver_mapserver.csv,5123,msmitherdc,TRUE,modified,Merged
+mapserver_mapserver.csv,5122,ejn,TRUE,modified,Merged
+mapserver_mapserver.csv,5107,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,5119,tbonfort,TRUE,modified AND added,Closed
+mapserver_mapserver.csv,5118,sebastic,TRUE,modified,Closed
+mapserver_mapserver.csv,5117,sebastic,TRUE,modified,Merged
+mapserver_mapserver.csv,5116,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,5113,sebastic,TRUE,modified,Merged
+mapserver_mapserver.csv,5112,nijikon,TRUE,modified,Closed
+mapserver_mapserver.csv,5105,constantinius,TRUE,modified,Merged
+mapserver_mapserver.csv,5100,rouault,TRUE,modified,Merged
+mapserver_mapserver.csv,5099,dmorissette,TRUE,modified,Closed
+mapserver_mapserver.csv,5098,mkofahl,TRUE,modified,Merged
+mapserver_mapserver.csv,5094,mkofahl,TRUE,modified,Merged
+mapserver_mapserver.csv,5089,aabhayas,TRUE,modified,Merged
+mapserver_mapserver.csv,5086,dmorissette,TRUE,modified,Merged
+mapserver_mapserver.csv,5085,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,5078,mkofahl,TRUE,modified,Merged
+mapserver_mapserver.csv,5064,ejn,TRUE,modified,Closed
+mapserver_mapserver.csv,5071,dmorissette,TRUE,modified AND added,Closed
+mapserver_mapserver.csv,5070,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,5069,msmitherdc,TRUE,modified,Closed
+mapserver_mapserver.csv,5068,aeichner,TRUE,modified AND removed,Closed
+mapserver_mapserver.csv,4928,hobu,TRUE,modified,Closed
+mapserver_mapserver.csv,5065,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,5062,msmitherdc,TRUE,modified,Merged
+mapserver_mapserver.csv,5061,szekerest,TRUE,modified,Closed
+mapserver_mapserver.csv,5058,rouault,TRUE,modified,Closed
+mapserver_mapserver.csv,5057,aeichner,TRUE,modified,Closed
+mapserver_mapserver.csv,5056,mkofahl,TRUE,modified,Merged
+mapserver_mapserver.csv,5055,rouault,TRUE,modified,Merged
+mapserver_mapserver.csv,5053,geonux,TRUE,modified,Closed
+mapserver_mapserver.csv,5052,seuros,TRUE,modified,Merged
+mapserver_mapserver.csv,5048,rouault,TRUE,modified,Closed
+mapserver_mapserver.csv,5044,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,5035,szekerest,TRUE,modified,Closed
+mapserver_mapserver.csv,5033,szekerest,TRUE,modified,Closed
+mapserver_mapserver.csv,5031,dgambin,TRUE,modified,Merged
+mapserver_mapserver.csv,5018,szekerest,TRUE,modified,Merged
+mapserver_mapserver.csv,5017,rouault,TRUE,modified,Closed
+mapserver_mapserver.csv,5013,phopfgartner,TRUE,modified,Merged
+mapserver_mapserver.csv,5011,pagameba,TRUE,modified,Merged
+mapserver_mapserver.csv,5006,rouault,TRUE,modified,Merged
+mapserver_mapserver.csv,5005,pmauduit,TRUE,modified,Closed
+mapserver_mapserver.csv,5002,thhomas,TRUE,modified,Closed
+mapserver_mapserver.csv,5000,fblackburn,TRUE,modified,Merged
+mapserver_mapserver.csv,4999,rouault,TRUE,modified,Merged
+mapserver_mapserver.csv,4997,rouault,TRUE,modified,Closed
+mapserver_mapserver.csv,4996,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4994,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4978,rouault,TRUE,modified,Closed
+mapserver_mapserver.csv,4972,sbrunner,TRUE,modified,Merged
+mapserver_mapserver.csv,4973,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4931,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4965,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4967,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4964,NULL,TRUE,modified,Closed
+mapserver_mapserver.csv,4963,aperi2007,TRUE,modified,Merged
+mapserver_mapserver.csv,4962,szekerest,TRUE,modified,Merged
+mapserver_mapserver.csv,4955,szekerest,TRUE,modified,Merged
+mapserver_mapserver.csv,4952,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4948,pmauduit,TRUE,modified,Closed
+mapserver_mapserver.csv,4940,rouault,TRUE,modified,Merged
+mapserver_mapserver.csv,4939,pagameba,TRUE,modified,Merged
+mapserver_mapserver.csv,4936,pagameba,TRUE,modified,Merged
+mapserver_mapserver.csv,4932,mathieudugal,TRUE,modified,Closed
+mapserver_mapserver.csv,4922,mkofahl,TRUE,modified,Closed
+mapserver_mapserver.csv,4921,yjacolin,TRUE,modified,Closed
+mapserver_mapserver.csv,4919,yjacolin,TRUE,modified,Closed
+mapserver_mapserver.csv,4917,eidng8,TRUE,modified,Closed
+mapserver_mapserver.csv,4914,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4912,szekerest,TRUE,modified,Closed
+mapserver_mapserver.csv,4910,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4905,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4900,fblackburn,TRUE,modified,Closed
+mapserver_mapserver.csv,4895,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4894,MaxKellermann,TRUE,modified,Merged
+mapserver_mapserver.csv,4892,szekerest,TRUE,modified,Closed
+mapserver_mapserver.csv,4891,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4890,szekerest,TRUE,modified,Closed
+mapserver_mapserver.csv,4889,msmitherdc,TRUE,modified,Closed
+mapserver_mapserver.csv,4862,gfenoy,TRUE,modified,Closed
+mapserver_mapserver.csv,4885,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4883,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4880,luipir,TRUE,modified,Closed
+mapserver_mapserver.csv,4876,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4871,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4867,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4861,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4858,pmauduit,TRUE,modified,Closed
+mapserver_mapserver.csv,4855,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4848,szekerest,TRUE,modified,Merged
+mapserver_mapserver.csv,4844,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4843,cnieman,TRUE,modified,Closed
+mapserver_mapserver.csv,4842,cnieman,TRUE,modified,Closed
+mapserver_mapserver.csv,4841,luipir,TRUE,modified,Closed
+mapserver_mapserver.csv,4838,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4836,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4833,luipir,TRUE,modified,Closed
+mapserver_mapserver.csv,4829,dakcarto,TRUE,modified,Merged
+mapserver_mapserver.csv,4827,constantinius,TRUE,modified AND added,Merged
+mapserver_mapserver.csv,4826,aboudreault,TRUE,modified,Closed
+mapserver_mapserver.csv,4825,dakcarto,TRUE,modified,Merged
+mapserver_mapserver.csv,4823,szekerest,TRUE,modified,Merged
+mapserver_mapserver.csv,4815,lehenbauer,TRUE,modified,Merged
+mapserver_mapserver.csv,4808,rouault,TRUE,modified,Closed
+mapserver_mapserver.csv,4811,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4810,takinwang,TRUE,modified,Merged
+mapserver_mapserver.csv,4805,takinwang,TRUE,modified,Closed
+mapserver_mapserver.csv,4803,gchang,TRUE,modified,Merged
+mapserver_mapserver.csv,4788,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4801,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4796,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4785,rouault,TRUE,modified,Merged
+mapserver_mapserver.csv,4791,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4790,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4789,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4781,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4779,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4773,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4769,szekerest,TRUE,modified,Merged
+mapserver_mapserver.csv,4765,markathomas,TRUE,modified AND added,Closed
+mapserver_mapserver.csv,4763,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4762,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4760,szekerest,TRUE,modified,Merged
+mapserver_mapserver.csv,4759,szekerest,TRUE,added AND modified,Closed
+mapserver_mapserver.csv,4751,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4754,sebastic,TRUE,modified,Merged
+mapserver_mapserver.csv,4750,sebastic,TRUE,modified,Merged
+mapserver_mapserver.csv,4749,sebastic,TRUE,modified,Merged
+mapserver_mapserver.csv,4747,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4554,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4744,fredj,TRUE,modified,Merged
+mapserver_mapserver.csv,4743,fredj,TRUE,modified,Merged
+mapserver_mapserver.csv,4740,fredj,TRUE,modified,Merged
+mapserver_mapserver.csv,4739,jlarouche,TRUE,modified,Merged
+mapserver_mapserver.csv,4730,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4738,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4732,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4729,unicolet,TRUE,modified,Merged
+mapserver_mapserver.csv,4723,NULL,TRUE,modified,Closed
+mapserver_mapserver.csv,4720,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4521,Schpidi,TRUE,modified AND added,Merged
+mapserver_mapserver.csv,4716,Schpidi,TRUE,modified,Closed
+mapserver_mapserver.csv,4714,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4654,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4675,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4684,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4709,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4708,mkofahl,TRUE,modified,Merged
+mapserver_mapserver.csv,4707,landryb,TRUE,modified,Merged
+mapserver_mapserver.csv,4699,luipir,TRUE,modified,Merged
+mapserver_mapserver.csv,4693,rouault,TRUE,modified,Merged
+mapserver_mapserver.csv,4692,rouault,TRUE,modified,Merged
+mapserver_mapserver.csv,4690,rouault,TRUE,modified,Merged
+mapserver_mapserver.csv,4689,rouault,TRUE,modified,Closed
+mapserver_mapserver.csv,4686,rouault,TRUE,modified,Closed
+mapserver_mapserver.csv,4685,rouault,TRUE,modified,Merged
+mapserver_mapserver.csv,4672,rouault,TRUE,modified,Closed
+mapserver_mapserver.csv,4667,rouault,TRUE,modified,Closed
+mapserver_mapserver.csv,4663,geekdenz,TRUE,modified,Closed
+mapserver_mapserver.csv,4661,sebastic,TRUE,modified,Closed
+mapserver_mapserver.csv,4659,jlarouche,TRUE,modified,Closed
+mapserver_mapserver.csv,4658,msmitherdc,TRUE,modified,Merged
+mapserver_mapserver.csv,4651,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4649,constantinius,TRUE,modified,Closed
+mapserver_mapserver.csv,4646,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4632,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4629,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4601,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4627,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4625,mkofahl,TRUE,modified,Closed
+mapserver_mapserver.csv,4623,tomkralidis,TRUE,modified,Closed
+mapserver_mapserver.csv,4105,ejn,TRUE,modified,Closed
+mapserver_mapserver.csv,4621,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4585,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4615,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4610,aboudreault,TRUE,modified,Merged
+mapserver_mapserver.csv,4608,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4600,homme,TRUE,modified,Closed
+mapserver_mapserver.csv,4599,homme,TRUE,modified,Closed
+mapserver_mapserver.csv,4165,mkofahl,TRUE,modified,Merged
+mapserver_mapserver.csv,4593,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4587,homme,TRUE,modified,Merged
+mapserver_mapserver.csv,4574,alexwells55,TRUE,modified,Merged
+mapserver_mapserver.csv,4573,unicolet,TRUE,modified AND added,Merged
+mapserver_mapserver.csv,4557,unicolet,TRUE,modified,Closed
+mapserver_mapserver.csv,4547,alexwells55,TRUE,modified,Merged
+mapserver_mapserver.csv,4546,jlarouche,TRUE,modified,Merged
+mapserver_mapserver.csv,4545,jlarouche,TRUE,modified,Closed
+mapserver_mapserver.csv,4544,jlarouche,TRUE,modified,Merged
+mapserver_mapserver.csv,4541,adube,TRUE,modified,Merged
+mapserver_mapserver.csv,4537,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4532,mkofahl,TRUE,modified,Merged
+mapserver_mapserver.csv,4523,unicolet,TRUE,modified,Closed
+mapserver_mapserver.csv,4522,homme,TRUE,modified,Closed
+mapserver_mapserver.csv,4520,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4502,mkofahl,TRUE,modified,Merged
+mapserver_mapserver.csv,4499,unicolet,TRUE,modified,Closed
+mapserver_mapserver.csv,4497,mkofahl,TRUE,modified,Closed
+mapserver_mapserver.csv,4145,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4486,tbonfort,TRUE,modified AND added,Closed
+mapserver_mapserver.csv,4484,tomkralidis,TRUE,modified,Merged
+mapserver_mapserver.csv,4481,tigerfoot,TRUE,modified,Closed
+mapserver_mapserver.csv,4325,olt,TRUE,modified,Merged
+mapserver_mapserver.csv,4479,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4470,Schpidi,TRUE,modified,Closed
+mapserver_mapserver.csv,4466,faegi,TRUE,modified,Merged
+mapserver_mapserver.csv,4467,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4461,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4044,NULL,TRUE,modified,Closed
+mapserver_mapserver.csv,4455,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4454,sbrunner,TRUE,modified,Closed
+mapserver_mapserver.csv,4452,faegi,TRUE,modified,Closed
+mapserver_mapserver.csv,4443,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4433,tbonfort,TRUE,modified,Closed
+mapserver_mapserver.csv,4432,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4079,unicolet,TRUE,modified,Merged
+mapserver_mapserver.csv,4426,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4425,jlarouche,TRUE,modified,Closed
+mapserver_mapserver.csv,4423,jlarouche,TRUE,modified,Closed
+mapserver_mapserver.csv,4402,jlarouche,TRUE,modified,Closed
+mapserver_mapserver.csv,4399,cnieman,TRUE,modified,Closed
+mapserver_mapserver.csv,4371,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4386,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4385,faegi,TRUE,modified,Merged
+mapserver_mapserver.csv,4381,faegi,TRUE,modified,Merged
+mapserver_mapserver.csv,4379,faegi,TRUE,modified,Closed
+mapserver_mapserver.csv,4376,faegi,TRUE,modified,Closed
+mapserver_mapserver.csv,4374,faegi,TRUE,modified,Closed
+mapserver_mapserver.csv,4373,faegi,TRUE,modified,Closed
+mapserver_mapserver.csv,4366,faegi,TRUE,modified,Merged
+mapserver_mapserver.csv,4358,havatv,TRUE,modified,Merged
+mapserver_mapserver.csv,4357,kalxas,TRUE,modified,Merged
+mapserver_mapserver.csv,4351,unicolet,TRUE,modified,Merged
+mapserver_mapserver.csv,4350,faegi,TRUE,modified,Merged
+mapserver_mapserver.csv,4344,jlarouche,TRUE,modified,Closed
+mapserver_mapserver.csv,4338,faegi,TRUE,modified,Closed
+mapserver_mapserver.csv,4327,havatv,TRUE,modified,Merged
+mapserver_mapserver.csv,4321,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4320,tbonfort,TRUE,modified,Merged
+mapserver_mapserver.csv,4317,unicolet,TRUE,modified,Merged
+mapserver_mapserver.csv,4302,unicolet,TRUE,modified,Merged
+mapserver_mapserver.csv,4297,szekerest,TRUE,modified,Merged
+mapserver_mapserver.csv,4289,bradh,TRUE,added AND modified,Merged
+mapserver_mapserver.csv,4288,Schpidi,TRUE,modified,Merged
+mapserver_mapserver.csv,4286,havatv,TRUE,modified,Merged
+mapserver_mapserver.csv,4281,szekerest,TRUE,modified,Merged
+mapserver_mapserver.csv,4280,unicolet,TRUE,modified,Merged

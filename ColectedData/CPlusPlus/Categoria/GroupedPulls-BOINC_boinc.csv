@@ -1,0 +1,839 @@
+Repository,Pull number,Users,Test,Change,Type,,
+BOINC_boinc.csv,2678,BryanQuigley,TRUE,removed AND modified,Open
+BOINC_boinc.csv,2457,davidpanderson,TRUE,added AND modified,Open
+BOINC_boinc.csv,2443,ChristianBeer,TRUE,added AND modified,Open
+BOINC_boinc.csv,2693,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2670,armstrdj,TRUE,modified,Merged
+BOINC_boinc.csv,2667,drshawnkwang,TRUE,added AND modified,Merged
+BOINC_boinc.csv,2653,TheAspens,TRUE,added,Closed
+BOINC_boinc.csv,2652,Uplinger,TRUE,added AND modified,Closed
+BOINC_boinc.csv,2648,drshawnkwang,TRUE,added AND modified,Closed
+BOINC_boinc.csv,2647,ChristianBeer,TRUE,added AND modified,Closed
+BOINC_boinc.csv,2645,davidpanderson,TRUE,modified AND removed AND added AND renamed,Closed
+BOINC_boinc.csv,2634,davidpanderson,TRUE,added AND modified,Closed
+BOINC_boinc.csv,2491,AenBleidd,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2474,drshawnkwang,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2472,RadicalErin,TRUE,modified AND added AND removed,Merged
+BOINC_boinc.csv,2453,NULL,TRUE,added AND modified,Merged
+BOINC_boinc.csv,2319,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2311,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2172,drshawnkwang,TRUE,modified,Closed
+BOINC_boinc.csv,2135,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2089,drshawnkwang,TRUE,modified,Closed
+BOINC_boinc.csv,2046,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,1922,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1916,drshawnkwang,TRUE,added,Merged
+BOINC_boinc.csv,1913,drshawnkwang,TRUE,added,Merged
+BOINC_boinc.csv,1751,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1649,m-ad,TRUE,modified,Closed
+BOINC_boinc.csv,1640,lfield,TRUE,added AND modified,Merged
+BOINC_boinc.csv,1618,brevilo,TRUE,modified,Merged
+BOINC_boinc.csv,1602,bema-aei,TRUE,added AND modified,Closed
+BOINC_boinc.csv,1562,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1561,ChristianBeer,TRUE,modified,Closed
+BOINC_boinc.csv,1502,marius311,TRUE,modified,Merged
+BOINC_boinc.csv,1456,jkutner,TRUE,modified,Merged
+BOINC_boinc.csv,2789,NULL,TRUE,modified,Open
+BOINC_boinc.csv,2788,davidpanderson,TRUE,modified,Open
+BOINC_boinc.csv,2786,CharlieFenton,TRUE,modified,Open
+BOINC_boinc.csv,2784,Peppernrino,TRUE,modified,Open
+BOINC_boinc.csv,2780,JuhaSointusalo,TRUE,modified AND added,Open
+BOINC_boinc.csv,2767,EvaSDK,TRUE,modified,Open
+BOINC_boinc.csv,2748,denravonska,TRUE,modified,Open
+BOINC_boinc.csv,2745,JuhaSointusalo,TRUE,modified,Open
+BOINC_boinc.csv,2743,AenBleidd,TRUE,modified,Open
+BOINC_boinc.csv,2742,davidpanderson,TRUE,modified,Open
+BOINC_boinc.csv,2737,davidpanderson,TRUE,modified,Open
+BOINC_boinc.csv,2732,lfield,TRUE,modified,Open
+BOINC_boinc.csv,2679,AenBleidd,TRUE,modified,Open
+BOINC_boinc.csv,2630,ChristianBeer,TRUE,modified,Open
+BOINC_boinc.csv,2624,davidpanderson,TRUE,modified,Open
+BOINC_boinc.csv,2561,marius311,TRUE,modified,Open
+BOINC_boinc.csv,2477,Michael-DHEP,TRUE,modified,Open
+BOINC_boinc.csv,2275,Uplinger,TRUE,modified,Open
+BOINC_boinc.csv,2208,nikolasgianna,TRUE,modified,Open
+BOINC_boinc.csv,2138,Holger-Will,TRUE,modified,Open
+BOINC_boinc.csv,2134,bema-aei,TRUE,modified AND added,Open
+BOINC_boinc.csv,2117,grctest,TRUE,modified,Open
+BOINC_boinc.csv,2060,jeremyhansen,TRUE,modified,Open
+BOINC_boinc.csv,2006,ChristianBeer,TRUE,modified,Open
+BOINC_boinc.csv,2783,NULL,TRUE,modified,Merged
+BOINC_boinc.csv,2782,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2781,EvaSDK,TRUE,modified,Merged
+BOINC_boinc.csv,2778,EvaSDK,TRUE,modified,Merged
+BOINC_boinc.csv,2777,AenBleidd,TRUE,modified,Closed
+BOINC_boinc.csv,2776,AenBleidd,TRUE,modified,Closed
+BOINC_boinc.csv,2775,AenBleidd,TRUE,modified,Closed
+BOINC_boinc.csv,2773,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2769,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2763,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2762,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,2761,CharlieFenton,TRUE,modified,Closed
+BOINC_boinc.csv,2760,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2759,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2758,armstrdj,TRUE,modified,Merged
+BOINC_boinc.csv,2749,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2747,AenBleidd,TRUE,modified,Closed
+BOINC_boinc.csv,2741,TheAspens,TRUE,modified,Merged
+BOINC_boinc.csv,2740,davidpanderson,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2738,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2736,TheAspens,TRUE,modified,Closed
+BOINC_boinc.csv,2735,TheAspens,TRUE,modified,Merged
+BOINC_boinc.csv,2734,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2733,timtheisen,TRUE,modified,Merged
+BOINC_boinc.csv,2730,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2729,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2727,timtheisen,TRUE,modified,Merged
+BOINC_boinc.csv,2726,TheAspens,TRUE,modified,Merged
+BOINC_boinc.csv,2725,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2724,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2723,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2720,drshawnkwang,TRUE,modified,Closed
+BOINC_boinc.csv,2719,CharlieFenton,TRUE,modified AND added,Closed
+BOINC_boinc.csv,2718,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2717,lfield,TRUE,modified AND added,Closed
+BOINC_boinc.csv,2716,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2713,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2712,JuhaSointusalo,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2710,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,2709,AenBleidd,TRUE,modified,Closed
+BOINC_boinc.csv,2708,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2707,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2705,RichardHaselgrove,TRUE,added AND modified,Merged
+BOINC_boinc.csv,2704,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,2703,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,2702,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2701,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2699,armstrdj,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2697,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2691,Uplinger,TRUE,added AND modified,Merged
+BOINC_boinc.csv,2689,seippel,TRUE,modified,Merged
+BOINC_boinc.csv,2686,RichardHaselgrove,TRUE,modified,Merged
+BOINC_boinc.csv,2685,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2684,AenBleidd,TRUE,modified AND removed AND added,Closed
+BOINC_boinc.csv,2683,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2682,drshawnkwang,TRUE,added,Merged
+BOINC_boinc.csv,2680,drshawnkwang,TRUE,modified AND removed,Merged
+BOINC_boinc.csv,2677,brevilo,TRUE,modified,Merged
+BOINC_boinc.csv,2676,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2675,brevilo,TRUE,modified,Closed
+BOINC_boinc.csv,2673,davidpanderson,TRUE,removed AND added AND modified AND renamed,Merged
+BOINC_boinc.csv,2672,armstrdj,TRUE,modified,Merged
+BOINC_boinc.csv,2671,armstrdj,TRUE,modified,Merged
+BOINC_boinc.csv,2669,armstrdj,TRUE,modified AND added,Closed
+BOINC_boinc.csv,2668,AenBleidd,TRUE,modified,Closed
+BOINC_boinc.csv,2666,ChristianBeer,TRUE,modified,Closed
+BOINC_boinc.csv,2665,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,2661,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2659,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,2658,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,2656,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2655,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2651,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,2650,AenBleidd,TRUE,modified,Closed
+BOINC_boinc.csv,2649,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2646,ChristianBeer,TRUE,modified,Closed
+BOINC_boinc.csv,2644,armstrdj,TRUE,modified,Merged
+BOINC_boinc.csv,2643,drshawnkwang,TRUE,modified AND added AND removed,Merged
+BOINC_boinc.csv,2640,RichardHaselgrove,TRUE,modified,Merged
+BOINC_boinc.csv,2639,lfield,TRUE,modified,Merged
+BOINC_boinc.csv,2637,timtheisen,TRUE,modified,Closed
+BOINC_boinc.csv,2635,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2632,ChristianBeer,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2631,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2629,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2627,davidpanderson,TRUE,added,Closed
+BOINC_boinc.csv,2626,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2625,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2623,CharlieFenton,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2621,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2616,xupiter,TRUE,modified,Merged
+BOINC_boinc.csv,2614,NULL,TRUE,modified,Merged
+BOINC_boinc.csv,2613,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2612,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2610,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2609,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2608,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2607,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2606,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2605,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2603,blackleg,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2602,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2601,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2599,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2598,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2597,LocutusOfBorg,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2596,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2593,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2592,JuhaSointusalo,TRUE,modified,Merged
+BOINC_boinc.csv,2591,TheAspens,TRUE,modified,Merged
+BOINC_boinc.csv,2590,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2589,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2588,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2586,marius311,TRUE,modified AND renamed,Merged
+BOINC_boinc.csv,2585,blackleg,TRUE,modified,Merged
+BOINC_boinc.csv,2582,RichardHaselgrove,TRUE,modified,Merged
+BOINC_boinc.csv,2581,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2580,RichardHaselgrove,TRUE,modified,Merged
+BOINC_boinc.csv,2576,drshawnkwang,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2575,armstrdj,TRUE,modified,Closed
+BOINC_boinc.csv,2572,pluskal,TRUE,modified,Merged
+BOINC_boinc.csv,2571,ChristianBeer,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2570,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,2569,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,2568,CharlieFenton,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2567,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2566,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2559,drshawnkwang,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2558,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2557,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2556,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2555,brevilo,TRUE,modified,Merged
+BOINC_boinc.csv,2554,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2553,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2552,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2551,drshawnkwang,TRUE,modified,Closed
+BOINC_boinc.csv,2547,bema-aei,TRUE,modified,Merged
+BOINC_boinc.csv,2545,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2544,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2543,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2541,drshawnkwang,TRUE,modified AND added,Closed
+BOINC_boinc.csv,2539,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2538,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2537,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2536,AenBleidd,TRUE,added,Closed
+BOINC_boinc.csv,2534,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2533,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2532,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2531,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2530,TheAspens,TRUE,modified,Merged
+BOINC_boinc.csv,2528,armstrdj,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2525,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2524,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2523,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2522,brevilo,TRUE,modified,Closed
+BOINC_boinc.csv,2521,brevilo,TRUE,modified,Merged
+BOINC_boinc.csv,2520,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2518,JamesMolson,TRUE,modified,Merged
+BOINC_boinc.csv,2517,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2516,davidpanderson,TRUE,modified AND removed AND added,Merged
+BOINC_boinc.csv,2513,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2512,lfield,TRUE,modified,Merged
+BOINC_boinc.csv,2511,lfield,TRUE,modified,Merged
+BOINC_boinc.csv,2509,lfield,TRUE,modified,Merged
+BOINC_boinc.csv,2505,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2504,davidpanderson,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2501,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2500,davidpanderson,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2497,Uplinger,TRUE,modified,Merged
+BOINC_boinc.csv,2494,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2489,AenBleidd,TRUE,added,Merged
+BOINC_boinc.csv,2488,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2487,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2486,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2484,CharlieFenton,TRUE,added,Merged
+BOINC_boinc.csv,2480,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2478,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2476,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2473,TheAspens,TRUE,modified,Closed
+BOINC_boinc.csv,2471,TheAspens,TRUE,modified,Merged
+BOINC_boinc.csv,2469,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2465,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2463,lfield,TRUE,modified,Merged
+BOINC_boinc.csv,2462,JuhaSointusalo,TRUE,modified,Merged
+BOINC_boinc.csv,2461,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2460,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2459,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2455,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2450,TheAspens,TRUE,modified,Merged
+BOINC_boinc.csv,2448,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2446,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2445,davidpanderson,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2441,davidpanderson,TRUE,modified,Closed
+BOINC_boinc.csv,2437,AenBleidd,TRUE,modified AND added,Closed
+BOINC_boinc.csv,2436,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2432,JuhaSointusalo,TRUE,modified,Closed
+BOINC_boinc.csv,2431,serval2412,TRUE,modified,Merged
+BOINC_boinc.csv,2430,serval2412,TRUE,modified AND added,Closed
+BOINC_boinc.csv,2429,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2428,TheAspens,TRUE,added,Merged
+BOINC_boinc.csv,2427,Ageless93,TRUE,modified,Merged
+BOINC_boinc.csv,2426,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2425,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2424,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2423,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2420,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2419,JuhaSointusalo,TRUE,modified,Merged
+BOINC_boinc.csv,2418,lfield,TRUE,modified,Merged
+BOINC_boinc.csv,2417,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2416,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2410,davidpanderson,TRUE,modified AND added,Closed
+BOINC_boinc.csv,2409,AenBleidd,TRUE,modified AND added,Closed
+BOINC_boinc.csv,2408,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2407,drshawnkwang,TRUE,added AND modified,Merged
+BOINC_boinc.csv,2406,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2405,versat,TRUE,modified,Merged
+BOINC_boinc.csv,2402,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2401,drshawnkwang,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2400,TheAspens,TRUE,modified,Merged
+BOINC_boinc.csv,2398,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2397,TheAspens,TRUE,added AND modified,Merged
+BOINC_boinc.csv,2396,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2395,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2394,TheAspens,TRUE,modified,Merged
+BOINC_boinc.csv,2388,davidpanderson,TRUE,modified,Closed
+BOINC_boinc.csv,2387,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2385,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2384,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2382,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2381,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2378,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2377,AenBleidd,TRUE,modified,Closed
+BOINC_boinc.csv,2376,nikolasgianna,TRUE,modified,Merged
+BOINC_boinc.csv,2375,marius311,TRUE,modified,Merged
+BOINC_boinc.csv,2374,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2373,CharlieFenton,TRUE,added,Closed
+BOINC_boinc.csv,2362,lfield,TRUE,modified,Merged
+BOINC_boinc.csv,2355,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2354,davidpanderson,TRUE,modified,Closed
+BOINC_boinc.csv,2351,davidpanderson,TRUE,added AND modified,Closed
+BOINC_boinc.csv,2349,davidpanderson,TRUE,modified,Closed
+BOINC_boinc.csv,2347,AenBleidd,TRUE,modified AND added,Closed
+BOINC_boinc.csv,2345,AenBleidd,TRUE,modified AND added,Closed
+BOINC_boinc.csv,2344,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2343,RichardHaselgrove,TRUE,modified,Merged
+BOINC_boinc.csv,2342,RichardHaselgrove,TRUE,modified,Merged
+BOINC_boinc.csv,2341,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2340,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,2338,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2336,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2334,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2331,drshawnkwang,TRUE,modified AND removed,Closed
+BOINC_boinc.csv,2330,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2329,alexander255,TRUE,modified,Merged
+BOINC_boinc.csv,2328,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2327,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2326,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2324,TheAspens,TRUE,modified,Merged
+BOINC_boinc.csv,2323,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2320,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2318,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2317,davidpanderson,TRUE,modified,Closed
+BOINC_boinc.csv,2316,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2314,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2313,progger,TRUE,modified,Merged
+BOINC_boinc.csv,2312,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2310,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2309,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2307,davidpanderson,TRUE,added AND modified,Merged
+BOINC_boinc.csv,2306,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,2305,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,2302,TheAspens,TRUE,modified,Merged
+BOINC_boinc.csv,2300,RichardHaselgrove,TRUE,modified,Merged
+BOINC_boinc.csv,2299,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2298,davidpanderson,TRUE,removed,Closed
+BOINC_boinc.csv,2295,TheAspens,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2294,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2293,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2289,lfield,TRUE,modified,Merged
+BOINC_boinc.csv,2288,N30dG,TRUE,modified,Merged
+BOINC_boinc.csv,2287,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2286,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2285,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2278,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2276,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2270,NULL,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2269,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2261,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2260,davidpanderson,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2254,BryanQuigley,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2253,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2252,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2251,AenBleidd,TRUE,modified,Closed
+BOINC_boinc.csv,2250,TheAspens,TRUE,modified,Merged
+BOINC_boinc.csv,2249,TheAspens,TRUE,modified,Closed
+BOINC_boinc.csv,2248,TheAspens,TRUE,modified,Merged
+BOINC_boinc.csv,2246,CharlieFenton,TRUE,modified AND added,Closed
+BOINC_boinc.csv,2245,nikolasgianna,TRUE,modified,Merged
+BOINC_boinc.csv,2244,TheAspens,TRUE,modified,Merged
+BOINC_boinc.csv,2243,drshawnkwang,TRUE,modified,Closed
+BOINC_boinc.csv,2234,nikolasgianna,TRUE,added AND modified,Merged
+BOINC_boinc.csv,2233,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2232,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2229,drshawnkwang,TRUE,added,Closed
+BOINC_boinc.csv,2228,Ageless93,TRUE,modified,Merged
+BOINC_boinc.csv,2227,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2225,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2223,TheAspens,TRUE,modified,Merged
+BOINC_boinc.csv,2222,ChristianBeer,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2221,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2220,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2218,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2217,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2207,TheAspens,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2206,davidpanderson,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2205,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2204,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2202,davidpanderson,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2200,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2198,progger,TRUE,modified,Merged
+BOINC_boinc.csv,2197,romw,TRUE,modified,Merged
+BOINC_boinc.csv,2196,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2195,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2194,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2193,JuhaSointusalo,TRUE,modified,Merged
+BOINC_boinc.csv,2192,brevilo,TRUE,modified,Merged
+BOINC_boinc.csv,2191,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2190,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,2189,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,2188,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2187,ChristianBeer,TRUE,modified,Closed
+BOINC_boinc.csv,2186,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2185,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2184,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2182,davidpanderson,TRUE,added,Closed
+BOINC_boinc.csv,2180,nikolasgianna,TRUE,modified,Merged
+BOINC_boinc.csv,2179,AenBleidd,TRUE,modified,Closed
+BOINC_boinc.csv,2177,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2175,CharlieFenton,TRUE,added AND modified,Closed
+BOINC_boinc.csv,2174,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,2173,CharlieFenton,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2171,TheAspens,TRUE,modified AND added,Closed
+BOINC_boinc.csv,2170,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2169,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2168,drshawnkwang,TRUE,modified AND added,Closed
+BOINC_boinc.csv,2167,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2164,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2162,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2161,war59312,TRUE,added AND modified,Merged
+BOINC_boinc.csv,2159,romw,TRUE,modified,Closed
+BOINC_boinc.csv,2158,drshawnkwang,TRUE,modified,Closed
+BOINC_boinc.csv,2157,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2154,drshawnkwang,TRUE,modified,Closed
+BOINC_boinc.csv,2152,nikolasgianna,TRUE,modified,Closed
+BOINC_boinc.csv,2151,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2149,davidpanderson,TRUE,added AND modified,Merged
+BOINC_boinc.csv,2148,CharlieFenton,TRUE,modified,Merged
+BOINC_boinc.csv,2146,davidpanderson,TRUE,modified,Closed
+BOINC_boinc.csv,2145,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2144,davidpanderson,TRUE,modified AND added,Merged
+BOINC_boinc.csv,2142,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2139,JuhaSointusalo,TRUE,modified,Merged
+BOINC_boinc.csv,2137,davidpanderson,TRUE,modified,Closed
+BOINC_boinc.csv,2133,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,2129,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2128,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2127,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2126,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2125,davidpanderson,TRUE,modified,Closed
+BOINC_boinc.csv,2124,davidpanderson,TRUE,modified,Closed
+BOINC_boinc.csv,2122,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2116,JuhaSointusalo,TRUE,removed,Merged
+BOINC_boinc.csv,2110,TheAspens,TRUE,modified,Merged
+BOINC_boinc.csv,2109,progger,TRUE,modified,Merged
+BOINC_boinc.csv,2108,RichardHaselgrove,TRUE,modified,Closed
+BOINC_boinc.csv,2104,RichardHaselgrove,TRUE,modified,Closed
+BOINC_boinc.csv,2100,AenBleidd,TRUE,modified,Closed
+BOINC_boinc.csv,2099,grctest,TRUE,modified,Closed
+BOINC_boinc.csv,2098,davidpanderson,TRUE,modified,Closed
+BOINC_boinc.csv,2097,grctest,TRUE,modified,Closed
+BOINC_boinc.csv,2096,davidpanderson,TRUE,modified AND added,Closed
+BOINC_boinc.csv,2095,davidpanderson,TRUE,modified AND added,Closed
+BOINC_boinc.csv,2094,davidpanderson,TRUE,modified AND added,Closed
+BOINC_boinc.csv,2093,NULL,TRUE,modified,Closed
+BOINC_boinc.csv,2092,jengelh,TRUE,modified,Merged
+BOINC_boinc.csv,2091,LocutusOfBorg,TRUE,modified,Merged
+BOINC_boinc.csv,2088,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,2083,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2082,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2081,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,2080,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2079,drshawnkwang,TRUE,modified,Closed
+BOINC_boinc.csv,2076,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2075,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2074,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2073,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2072,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2066,davidpanderson,TRUE,modified,Closed
+BOINC_boinc.csv,2065,drshawnkwang,TRUE,modified,Closed
+BOINC_boinc.csv,2062,RichardHaselgrove,TRUE,modified,Merged
+BOINC_boinc.csv,2059,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2058,bema-aei,TRUE,modified,Merged
+BOINC_boinc.csv,2057,progger,TRUE,modified,Merged
+BOINC_boinc.csv,2055,progger,TRUE,modified,Merged
+BOINC_boinc.csv,2053,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,2052,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2050,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2049,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2048,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2047,brevilo,TRUE,modified,Merged
+BOINC_boinc.csv,2043,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2042,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2039,davidpanderson,TRUE,modified,Closed
+BOINC_boinc.csv,2038,AndCycle,TRUE,modified,Closed
+BOINC_boinc.csv,2037,AndCycle,TRUE,modified,Merged
+BOINC_boinc.csv,2036,bema-aei,TRUE,modified,Merged
+BOINC_boinc.csv,2035,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2034,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2033,davidpanderson,TRUE,modified,Closed
+BOINC_boinc.csv,2032,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2031,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2030,bema-aei,TRUE,modified,Merged
+BOINC_boinc.csv,2027,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2026,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2025,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2023,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2022,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,2021,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,2020,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2019,davidpanderson,TRUE,modified,Closed
+BOINC_boinc.csv,2018,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,2016,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2015,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2014,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2013,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2012,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,2009,drshawnkwang,TRUE,modified AND added,Closed
+BOINC_boinc.csv,2008,grctest,TRUE,modified,Merged
+BOINC_boinc.csv,2007,JuhaSointusalo,TRUE,added AND modified,Merged
+BOINC_boinc.csv,2005,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2004,bema-aei,TRUE,modified,Merged
+BOINC_boinc.csv,2003,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,2002,bema-aei,TRUE,modified,Merged
+BOINC_boinc.csv,2000,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,1999,bema-aei,TRUE,modified,Merged
+BOINC_boinc.csv,1997,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1996,drshawnkwang,TRUE,added AND modified,Closed
+BOINC_boinc.csv,1995,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1993,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1992,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1987,marius311,TRUE,modified,Merged
+BOINC_boinc.csv,1986,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,1985,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1984,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1983,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1982,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1981,drshawnkwang,TRUE,modified AND added,Merged
+BOINC_boinc.csv,1980,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1979,JuhaSointusalo,TRUE,modified,Merged
+BOINC_boinc.csv,1978,JuhaSointusalo,TRUE,modified,Merged
+BOINC_boinc.csv,1977,JuhaSointusalo,TRUE,modified,Merged
+BOINC_boinc.csv,1976,JuhaSointusalo,TRUE,modified,Merged
+BOINC_boinc.csv,1973,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1971,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1969,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1968,drshawnkwang,TRUE,modified,Closed
+BOINC_boinc.csv,1967,bema-aei,TRUE,modified,Merged
+BOINC_boinc.csv,1966,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1965,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1962,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1956,drshawnkwang,TRUE,modified,Closed
+BOINC_boinc.csv,1954,ChristianBeer,TRUE,added AND modified,Closed
+BOINC_boinc.csv,1953,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1952,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1950,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1949,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,1948,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1947,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1946,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1945,nikolasgianna,TRUE,modified,Merged
+BOINC_boinc.csv,1944,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1943,NULL,TRUE,modified,Closed
+BOINC_boinc.csv,1942,iamtheghostlove,TRUE,modified,Merged
+BOINC_boinc.csv,1940,nikolasgianna,TRUE,modified,Closed
+BOINC_boinc.csv,1939,firone,TRUE,modified,Merged
+BOINC_boinc.csv,1938,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1933,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1932,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1931,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1928,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1923,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1921,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1919,drshawnkwang,TRUE,modified AND added,Merged
+BOINC_boinc.csv,1918,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1917,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1915,drshawnkwang,TRUE,added,Merged
+BOINC_boinc.csv,1914,drshawnkwang,TRUE,added,Merged
+BOINC_boinc.csv,1912,drshawnkwang,TRUE,modified,Closed
+BOINC_boinc.csv,1911,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1910,drshawnkwang,TRUE,added,Merged
+BOINC_boinc.csv,1902,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1899,drshawnkwang,TRUE,modified,Closed
+BOINC_boinc.csv,1897,adamradocz,TRUE,modified,Merged
+BOINC_boinc.csv,1895,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1893,AenBleidd,TRUE,modified,Closed
+BOINC_boinc.csv,1892,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,1891,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,1890,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,1889,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,1886,AenBleidd,TRUE,added,Merged
+BOINC_boinc.csv,1884,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,1878,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,1873,smoe,TRUE,modified,Merged
+BOINC_boinc.csv,1871,brevilo,TRUE,modified,Merged
+BOINC_boinc.csv,1869,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,1867,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,1866,brevilo,TRUE,modified,Merged
+BOINC_boinc.csv,1865,brevilo,TRUE,modified,Merged
+BOINC_boinc.csv,1863,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1862,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1861,ChristianBeer,TRUE,modified,Closed
+BOINC_boinc.csv,1860,davidekim,TRUE,modified,Merged
+BOINC_boinc.csv,1858,nikolasgianna,TRUE,modified,Closed
+BOINC_boinc.csv,1857,davidekim,TRUE,modified,Merged
+BOINC_boinc.csv,1855,progger,TRUE,modified,Merged
+BOINC_boinc.csv,1854,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1851,ChristianBeer,TRUE,modified,Closed
+BOINC_boinc.csv,1849,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1848,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,1845,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,1844,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1843,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1842,nikolasgianna,TRUE,modified,Closed
+BOINC_boinc.csv,1841,nikolasgianna,TRUE,modified,Merged
+BOINC_boinc.csv,1840,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,1839,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,1838,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,1837,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,1836,AenBleidd,TRUE,modified,Closed
+BOINC_boinc.csv,1835,drshawnkwang,TRUE,added,Merged
+BOINC_boinc.csv,1834,brevilo,TRUE,modified,Merged
+BOINC_boinc.csv,1833,drshawnkwang,TRUE,modified AND removed,Merged
+BOINC_boinc.csv,1830,brevilo,TRUE,modified,Merged
+BOINC_boinc.csv,1827,brevilo,TRUE,added,Merged
+BOINC_boinc.csv,1826,ChristianBeer,TRUE,modified AND added,Merged
+BOINC_boinc.csv,1825,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1824,drshawnkwang,TRUE,modified AND added,Merged
+BOINC_boinc.csv,1823,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1822,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1821,drshawnkwang,TRUE,modified AND added AND removed,Merged
+BOINC_boinc.csv,1820,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1819,ChristianBeer,TRUE,modified AND added AND removed,Merged
+BOINC_boinc.csv,1815,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1811,drshawnkwang,TRUE,added,Closed
+BOINC_boinc.csv,1810,nikolasgianna,TRUE,modified,Merged
+BOINC_boinc.csv,1808,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1806,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1805,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1803,nikolasgianna,TRUE,modified,Merged
+BOINC_boinc.csv,1802,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1801,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1800,UweBeckert,TRUE,modified,Merged
+BOINC_boinc.csv,1799,drshawnkwang,TRUE,modified AND added,Merged
+BOINC_boinc.csv,1798,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1797,ffontaine,TRUE,modified AND added AND removed,Closed
+BOINC_boinc.csv,1796,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1795,ffontaine,TRUE,modified AND added AND removed,Closed
+BOINC_boinc.csv,1793,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1792,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1791,daissi,TRUE,modified,Merged
+BOINC_boinc.csv,1790,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1789,ryd994,TRUE,modified,Merged
+BOINC_boinc.csv,1787,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1786,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1785,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1784,ChristianBeer,TRUE,modified,Closed
+BOINC_boinc.csv,1783,Claggy3,TRUE,modified,Merged
+BOINC_boinc.csv,1780,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1778,NULL,TRUE,modified,Closed
+BOINC_boinc.csv,1771,AndCycle,TRUE,modified,Merged
+BOINC_boinc.csv,1770,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1768,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,1765,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,1764,marius311,TRUE,modified,Closed
+BOINC_boinc.csv,1763,kyrsjo,TRUE,modified,Merged
+BOINC_boinc.csv,1762,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1761,obsproth,TRUE,added AND modified,Merged
+BOINC_boinc.csv,1760,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1755,drshawnkwang,TRUE,modified,Closed
+BOINC_boinc.csv,1750,mdspann,TRUE,modified,Merged
+BOINC_boinc.csv,1749,AenBleidd,TRUE,modified,Closed
+BOINC_boinc.csv,1746,adamradocz,TRUE,modified,Merged
+BOINC_boinc.csv,1745,drshawnkwang,TRUE,removed AND modified AND added,Merged
+BOINC_boinc.csv,1743,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1736,sirzooro,TRUE,modified,Closed
+BOINC_boinc.csv,1735,entibasse,TRUE,modified,Merged
+BOINC_boinc.csv,1734,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1733,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1732,drshawnkwang,TRUE,modified,Closed
+BOINC_boinc.csv,1731,UweBeckert,TRUE,modified AND added,Merged
+BOINC_boinc.csv,1725,davidpanderson,TRUE,modified,Merged
+BOINC_boinc.csv,1724,drshawnkwang,TRUE,removed AND modified AND added AND renamed,Merged
+BOINC_boinc.csv,1722,ChristianBeer,TRUE,modified,Closed
+BOINC_boinc.csv,1720,UweBeckert,TRUE,modified,Merged
+BOINC_boinc.csv,1718,chausner,TRUE,modified,Merged
+BOINC_boinc.csv,1716,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,1715,drshawnkwang,TRUE,modified,Closed
+BOINC_boinc.csv,1713,AenBleidd,TRUE,modified AND renamed AND removed,Merged
+BOINC_boinc.csv,1712,ChristianBeer,TRUE,renamed AND modified,Closed
+BOINC_boinc.csv,1711,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1710,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,1708,chausner,TRUE,modified,Merged
+BOINC_boinc.csv,1707,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1705,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1703,brevilo,TRUE,removed AND added AND renamed,Merged
+BOINC_boinc.csv,1701,denravonska,TRUE,modified,Closed
+BOINC_boinc.csv,1697,AenBleidd,TRUE,modified,Closed
+BOINC_boinc.csv,1696,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1695,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1694,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1693,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1691,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1690,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1685,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1684,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1683,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1682,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1681,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1680,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1679,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1678,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1676,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1674,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1671,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1670,davidfcalle,TRUE,modified,Closed
+BOINC_boinc.csv,1669,jusavard,TRUE,modified,Merged
+BOINC_boinc.csv,1668,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1666,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1665,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1664,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1663,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1660,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1658,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1656,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1655,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,1654,drshawnkwang,TRUE,modified AND added,Merged
+BOINC_boinc.csv,1653,drshawnkwang,TRUE,modified,Closed
+BOINC_boinc.csv,1650,drshawnkwang,TRUE,modified,Closed
+BOINC_boinc.csv,1648,vorot93,TRUE,modified,Merged
+BOINC_boinc.csv,1647,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1646,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1645,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1643,SamsonovAnton,TRUE,modified,Merged
+BOINC_boinc.csv,1642,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1639,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1638,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1637,ChristianBeer,TRUE,modified,Closed
+BOINC_boinc.csv,1636,bema-aei,TRUE,modified,Closed
+BOINC_boinc.csv,1635,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1634,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1632,bema-aei,TRUE,modified,Closed
+BOINC_boinc.csv,1631,SamsonovAnton,TRUE,modified,Merged
+BOINC_boinc.csv,1629,drshawnkwang,TRUE,modified,Closed
+BOINC_boinc.csv,1628,SamsonovAnton,TRUE,modified,Merged
+BOINC_boinc.csv,1627,drshawnkwang,TRUE,modified,Closed
+BOINC_boinc.csv,1626,drshawnkwang,TRUE,modified,Closed
+BOINC_boinc.csv,1623,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1621,SamsonovAnton,TRUE,modified,Merged
+BOINC_boinc.csv,1619,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1614,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1613,brevilo,TRUE,modified,Merged
+BOINC_boinc.csv,1608,brevilo,TRUE,modified,Closed
+BOINC_boinc.csv,1607,lfield,TRUE,modified,Merged
+BOINC_boinc.csv,1605,ChristianBeer,TRUE,modified,Closed
+BOINC_boinc.csv,1604,NULL,TRUE,modified,Merged
+BOINC_boinc.csv,1601,GITNE,TRUE,modified,Closed
+BOINC_boinc.csv,1598,GITNE,TRUE,modified,Merged
+BOINC_boinc.csv,1596,GITNE,TRUE,modified AND added,Merged
+BOINC_boinc.csv,1594,GITNE,TRUE,modified,Closed
+BOINC_boinc.csv,1593,lfield,TRUE,modified,Closed
+BOINC_boinc.csv,1592,GITNE,TRUE,modified,Merged
+BOINC_boinc.csv,1587,bema-aei,TRUE,modified,Merged
+BOINC_boinc.csv,1585,GITNE,TRUE,modified,Merged
+BOINC_boinc.csv,1584,GITNE,TRUE,modified,Merged
+BOINC_boinc.csv,1583,GITNE,TRUE,modified,Merged
+BOINC_boinc.csv,1579,GITNE,TRUE,modified,Merged
+BOINC_boinc.csv,1578,GITNE,TRUE,modified AND added,Merged
+BOINC_boinc.csv,1577,GITNE,TRUE,modified,Merged
+BOINC_boinc.csv,1575,GITNE,TRUE,modified,Merged
+BOINC_boinc.csv,1574,marius311,TRUE,modified,Merged
+BOINC_boinc.csv,1560,ChristianBeer,TRUE,added,Closed
+BOINC_boinc.csv,1558,GITNE,TRUE,modified,Merged
+BOINC_boinc.csv,1557,GITNE,TRUE,modified,Merged
+BOINC_boinc.csv,1549,GITNE,TRUE,modified,Merged
+BOINC_boinc.csv,1548,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1547,drshawnkwang,TRUE,added,Merged
+BOINC_boinc.csv,1545,drshawnkwang,TRUE,added AND modified,Merged
+BOINC_boinc.csv,1542,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1538,smoe,TRUE,modified,Merged
+BOINC_boinc.csv,1537,lfield,TRUE,modified,Merged
+BOINC_boinc.csv,1536,ChristianBeer,TRUE,modified,Closed
+BOINC_boinc.csv,1534,lfield,TRUE,modified,Merged
+BOINC_boinc.csv,1532,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1531,aggroskater,TRUE,modified,Closed
+BOINC_boinc.csv,1529,jengelh,TRUE,modified,Merged
+BOINC_boinc.csv,1527,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1525,drshawnkwang,TRUE,modified,Merged
+BOINC_boinc.csv,1524,aaronpuchert,TRUE,modified,Merged
+BOINC_boinc.csv,1522,aaronpuchert,TRUE,modified,Merged
+BOINC_boinc.csv,1514,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1513,JuhaSointusalo,TRUE,modified,Merged
+BOINC_boinc.csv,1512,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1509,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1508,vorot93,TRUE,modified,Merged
+BOINC_boinc.csv,1507,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1504,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1500,funkydude,TRUE,modified,Merged
+BOINC_boinc.csv,1499,whs,TRUE,modified,Merged
+BOINC_boinc.csv,1498,UweBeckert,TRUE,modified,Merged
+BOINC_boinc.csv,1497,whs,TRUE,modified,Merged
+BOINC_boinc.csv,1492,whs,TRUE,modified,Closed
+BOINC_boinc.csv,1490,formab,TRUE,modified,Merged
+BOINC_boinc.csv,1487,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1484,marius311,TRUE,modified,Merged
+BOINC_boinc.csv,1482,thirschbuechler,TRUE,modified,Merged
+BOINC_boinc.csv,1480,gchilders,TRUE,modified,Closed
+BOINC_boinc.csv,1478,thirschbuechler,TRUE,modified,Merged
+BOINC_boinc.csv,1469,aggroskater,TRUE,modified,Closed
+BOINC_boinc.csv,1465,Pablohn26,TRUE,modified,Merged
+BOINC_boinc.csv,1464,wmwong,TRUE,modified,Merged
+BOINC_boinc.csv,1461,brevilo,TRUE,modified,Merged
+BOINC_boinc.csv,1458,JuhaSointusalo,TRUE,modified,Closed
+BOINC_boinc.csv,1453,dimhotepus,TRUE,modified,Merged
+BOINC_boinc.csv,1449,aggroskater,TRUE,modified,Merged
+BOINC_boinc.csv,1448,DiablosOffens,TRUE,modified,Merged
+BOINC_boinc.csv,1447,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1446,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1445,ChristianBeer,TRUE,added AND modified,Merged
+BOINC_boinc.csv,1444,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1442,brevilo,TRUE,modified,Merged
+BOINC_boinc.csv,1441,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1440,JuhaSointusalo,TRUE,modified,Merged
+BOINC_boinc.csv,1436,JuhaSointusalo,TRUE,modified,Merged
+BOINC_boinc.csv,1435,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1431,ChristianBeer,TRUE,modified,Closed
+BOINC_boinc.csv,1430,informatorius,TRUE,modified,Merged
+BOINC_boinc.csv,1427,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1426,ChristianBeer,TRUE,modified,Closed
+BOINC_boinc.csv,1425,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,1422,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,1418,AenBleidd,TRUE,added AND modified,Merged
+BOINC_boinc.csv,1415,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1410,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1407,ChristianBeer,TRUE,modified,Closed
+BOINC_boinc.csv,1406,jokerdm,TRUE,modified,Merged
+BOINC_boinc.csv,1405,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1404,serval2412,TRUE,modified,Merged
+BOINC_boinc.csv,1403,serval2412,TRUE,modified,Merged
+BOINC_boinc.csv,1401,serval2412,TRUE,modified,Merged
+BOINC_boinc.csv,1396,ChristianBeer,TRUE,modified,Merged
+BOINC_boinc.csv,1395,LocutusOfBorg,TRUE,modified,Merged
+BOINC_boinc.csv,1394,LocutusOfBorg,TRUE,modified,Merged
+BOINC_boinc.csv,1393,AenBleidd,TRUE,modified,Merged
+BOINC_boinc.csv,1383,brevilo,TRUE,modified,Merged
+BOINC_boinc.csv,1382,marius311,TRUE,modified,Merged
+BOINC_boinc.csv,1380,brevilo,TRUE,modified,Merged
+BOINC_boinc.csv,1377,brevilo,TRUE,modified,Merged
+BOINC_boinc.csv,1374,mgorny,TRUE,modified,Merged
+BOINC_boinc.csv,1373,AenBleidd,TRUE,modified AND added,Merged
+BOINC_boinc.csv,1372,NULL,TRUE,modified,Merged
+BOINC_boinc.csv,1371,brevilo,TRUE,modified,Merged
+BOINC_boinc.csv,1369,marius311,TRUE,modified,Merged
+BOINC_boinc.csv,1367,brevilo,TRUE,modified,Merged
+BOINC_boinc.csv,1364,marius311,TRUE,modified,Closed
+BOINC_boinc.csv,1363,tmannerm,TRUE,modified,Closed
+BOINC_boinc.csv,1360,tmannerm,TRUE,modified,Merged
+BOINC_boinc.csv,1356,BenjiWiebe,TRUE,modified,Closed
+BOINC_boinc.csv,1354,JasonGroothuis,TRUE,modified AND added,Merged
+BOINC_boinc.csv,1353,ChristianBeer,TRUE,modified AND added,Closed
+BOINC_boinc.csv,1351,ChristianBeer,TRUE,modified AND added,Merged

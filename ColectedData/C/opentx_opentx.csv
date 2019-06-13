@@ -1,0 +1,166 @@
+Repository,Pull state,Pull number,sha,Filename,File status,Additions,Deletions,Users,DateCreated,DateUpdated,dateClosed,dateMerged
+opentx/opentx,open,4733,72bf1ba2aaf4c5a3a07130da1b257587366d4cf0,radio/src/tests/mixer.cpp,modified,28,0,mtwomey,2017-04-01T14:22:11Z,2018-07-05T18:02:37Z,NA,NA
+opentx/opentx,closed,6036,367f6db13c4048aa99f1534b624a87839266c43a,radio/src/tests/mixer.cpp,modified,16,1,mikeller,2018-07-11 22:41:16,2018-07-11 22:41:16,2018-07-12 09:40:09,2018-07-12 09:40:09
+opentx/opentx,closed,6035,97fa34a7155b197dbfad381b4b75ff31658ebbee,radio/src/tests/mixer.cpp,modified,1,81,bsongis,2018-07-11 16:55:45,2018-07-11 16:55:45,2018-07-11 20:39:27,2018-07-11 20:39:27
+opentx/opentx,closed,6035,46d69c69d4f4aed92c27d8590927acb439812b2b,radio/src/tests/switches.cpp,modified,0,12,bsongis,2018-07-11 16:55:45,2018-07-11 16:55:45,2018-07-11 20:39:27,2018-07-11 20:39:27
+opentx/opentx,closed,6033,9e4ba00c8956cfb27183a5f61736645d3f4749ff,radio/src/tests/frsky.cpp,modified,2,2,bsongis,2018-07-11 11:34:37,2018-07-11 11:34:37,2018-07-11 12:03:15,2018-07-11 12:03:15
+opentx/opentx,closed,6033,0b2dafa17abf1038739b8bb8e4c44b482e90ac31,radio/src/tests/gtests.h,modified,1,1,bsongis,2018-07-11 11:34:37,2018-07-11 11:34:37,2018-07-11 12:03:15,2018-07-11 12:03:15
+opentx/opentx,closed,6033,e31efdc87e836491bed7a4e7be2f569fde401d84,radio/src/tests/lcd.cpp,modified,1,1,bsongis,2018-07-11 11:34:37,2018-07-11 11:34:37,2018-07-11 12:03:15,2018-07-11 12:03:15
+opentx/opentx,closed,6002,486b601f2e9ea8e7797b5d0faeaf6205076a5d41,radio/src/tests/lcd_480x272.cpp,modified,5,1,raphaelcoeffic,2018-06-29 18:50:49,2018-06-29 18:50:49,2018-07-08 14:47:23,2018-07-08 14:47:23
+opentx/opentx,closed,5931,881adf0285f623db2851aa2e9db53d1b0809df9e,radio/src/tests/CMakeLists.txt,modified,1,2,mpaperno,2018-06-01 13:42:31,2018-06-01 13:42:31,2018-06-02 16:14:50,2018-06-02 16:14:50
+opentx/opentx,closed,5901,da2ac09d348e29885ecbe5cf34770c360c8115f6,radio/src/tests/fonts_480x272.png,modified,0,0,raphaelcoeffic,2018-05-21 10:06:47,2018-05-21 10:06:47,2018-05-21 17:03:15,2018-05-21 17:03:15
+opentx/opentx,closed,5901,ae3f0b94fee8e30b9badec1a6559ddb62dcab4f8,radio/src/tests/primitives_480x272.png,modified,0,0,raphaelcoeffic,2018-05-21 10:06:47,2018-05-21 10:06:47,2018-05-21 17:03:15,2018-05-21 17:03:15
+opentx/opentx,closed,5901,b8fec6660175215aa18f93dc4dd7f09d8030adc4,radio/src/tests/transparency_480x272.png,modified,0,0,raphaelcoeffic,2018-05-21 10:06:47,2018-05-21 10:06:47,2018-05-21 17:03:15,2018-05-21 17:03:15
+opentx/opentx,closed,5890,0b5bb6d1d39ea8900f094aecf3680a6fec5ae44c,radio/src/tests/fonts_480x272.png,modified,0,0,raphaelcoeffic,2018-05-15 22:04:33,2018-05-15 22:04:33,2018-05-21 08:06:00,NA
+opentx/opentx,closed,5890,de092e7afcf371b8970294864575200fec23e404,radio/src/tests/primitives_480x272.png,modified,0,0,raphaelcoeffic,2018-05-15 22:04:33,2018-05-15 22:04:33,2018-05-21 08:06:00,NA
+opentx/opentx,closed,5890,2d1d9f4359b289299b5e1fd6b5dc1545c038500a,radio/src/tests/transparency_480x272.png,modified,0,0,raphaelcoeffic,2018-05-15 22:04:33,2018-05-15 22:04:33,2018-05-21 08:06:00,NA
+opentx/opentx,closed,5555,ec5fd0066048e84defc11dcf3bfe722b77c5bf2a,radio/src/tests/CMakeLists.txt,modified,1,1,mpaperno,2017-12-20 17:36:18,2017-12-20 17:36:18,2017-12-21 17:25:28,2017-12-21 17:25:28
+opentx/opentx,closed,5555,845d49f45b37b54e45a0789590fc2a402d22de89,radio/src/tests/lua.cpp,modified,6,6,mpaperno,2017-12-20 17:36:18,2017-12-20 17:36:18,2017-12-21 17:25:28,2017-12-21 17:25:28
+opentx/opentx,closed,5388,38f5cb1e70ec2ed99a106eea59ce098d3d51015e,tools/commit-tests.sh,modified,1,10,mhotar,2017-11-19 14:50:39,2017-11-19 14:50:39,2017-11-19 22:49:38,2017-11-19 22:49:38
+opentx/opentx,closed,5371,9f0a67105cb321dbdb74787f12d1f2a53d30e780,tools/commit-tests.sh,modified,5,1,mhotar,2017-11-15 12:02:18,2017-11-15 12:02:18,2017-11-18 10:24:16,2017-11-18 10:24:16
+opentx/opentx,closed,5367,8fd97afc389460fb69b0f6c328616667bd89df1c,radio/src/tests/transparency_480x272.png,modified,0,0,raphaelcoeffic,2017-11-14 20:44:35,2017-11-14 20:44:35,2017-11-18 10:23:34,2017-11-18 10:23:34
+opentx/opentx,closed,5344,589c5617735c3427e0d4c63ce7c901b1e160000e,radio/src/tests/gtests.h,modified,3,0,bsongis,2017-11-11 10:17:41,2017-11-11 10:17:41,2017-11-12 13:15:20,2017-11-12 13:15:20
+opentx/opentx,closed,5344,9d3c439e5763b5b99dd9e32425b3e69637cb5897,radio/src/tests/mixer.cpp,modified,32,30,bsongis,2017-11-11 10:17:41,2017-11-11 10:17:41,2017-11-12 13:15:20,2017-11-12 13:15:20
+opentx/opentx,closed,5344,7ac31f700c787d34ea452ef763565fc8e0bfceae,radio/src/tests/switches.cpp,modified,3,3,bsongis,2017-11-11 10:17:41,2017-11-11 10:17:41,2017-11-12 13:15:20,2017-11-12 13:15:20
+opentx/opentx,closed,5214,347ed6641f2b572567fc7a91c36a0f7c80b8bd29,tools/commit-tests.sh,modified,10,1,rodericktaylor,2017-09-15 07:04:30,2017-09-15 07:04:30,2017-09-16 14:08:21,2017-09-16 14:08:21
+opentx/opentx,closed,4658,bbd77c3949f74f81e35f7aea039baf1e749d1605,radio/src/tests/fonts_480x272.png,added,0,0,mpaperno,2017-03-21 17:58:14,2017-03-21 17:58:14,2017-03-21 18:47:42,2017-03-21 18:47:42
+opentx/opentx,closed,4658,d96f116a7c0e05b73cae8ebd6e8e1866ed5c9730,radio/src/tests/lcd_480x272.cpp,modified,57,2,mpaperno,2017-03-21 17:58:14,2017-03-21 17:58:14,2017-03-21 18:47:42,2017-03-21 18:47:42
+opentx/opentx,closed,4658,18fa167cf1985e86aaae5abafe14faf71440516c,radio/src/tests/transparency_480x272.png,added,0,0,mpaperno,2017-03-21 17:58:14,2017-03-21 17:58:14,2017-03-21 18:47:42,2017-03-21 18:47:42
+opentx/opentx,closed,4464,75bd3a88cac8184f01448aeba817c2a21dba645f,radio/src/tests/lcd.cpp,modified,39,29,3djc,2017-02-15 21:57:56,2017-02-15 21:57:56,2017-02-15 23:23:43,2017-02-15 23:23:43
+opentx/opentx,closed,4464,6be31ec7fd4a2796beb5a6ce4b598dcfaca169f6,radio/src/tests/lcdDrawLine_128x64.png,added,0,0,3djc,2017-02-15 21:57:56,2017-02-15 21:57:56,2017-02-15 23:23:43,2017-02-15 23:23:43
+opentx/opentx,closed,4464,8f14d69729012bea719f1b7935cb3ee7f025a104,radio/src/tests/lcdDrawLine_212x64.png,modified,0,0,3djc,2017-02-15 21:57:56,2017-02-15 21:57:56,2017-02-15 23:23:43,2017-02-15 23:23:43
+opentx/opentx,closed,4263,8f2eb1c41ff79f5e071a8af703981302a339d6a6,tools/commit-tests.sh,modified,151,103,3djc,2017-01-20 17:42:32,2017-01-20 17:42:32,2017-01-21 16:18:42,2017-01-21 16:18:42
+opentx/opentx,closed,4231,a8b0941e29e7abce8de330d5c751fdc1e928d6f2,radio/src/tests/CMakeLists.txt,modified,2,1,projectkk2glider,2017-01-14 11:15:15,2017-01-14 11:15:15,2017-01-15 20:53:18,2017-01-15 20:53:18
+opentx/opentx,closed,4218,e48bff9b846e40b10b34551b7df5ca8049aa7b84,tools/commit-tests.sh,modified,23,15,projectkk2glider,2017-01-11 02:38:18,2017-01-11 02:38:18,2017-01-12 20:32:37,2017-01-12 20:32:37
+opentx/opentx,closed,4202,a3611ac49719458776508d4ae44ddada58babf4e,radio/src/tests/CMakeLists.txt,modified,41,33,mpaperno,2017-01-06 14:11:00,2017-01-06 14:11:00,2017-01-08 08:44:34,2017-01-08 08:44:34
+opentx/opentx,closed,4202,98493ade7bf4d6fa10b37e5d434e1a75c4d7ead6,radio/src/tests/gtests.cpp,modified,111,1,mpaperno,2017-01-06 14:11:00,2017-01-06 14:11:00,2017-01-08 08:44:34,2017-01-08 08:44:34
+opentx/opentx,closed,4202,a276add84dee0386984d1f89dd385df510aa0a87,tools/commit-tests.sh,modified,7,7,mpaperno,2017-01-06 14:11:00,2017-01-06 14:11:00,2017-01-08 08:44:34,2017-01-08 08:44:34
+opentx/opentx,closed,4199,59d83c9e14fa2c24ec9107ae9595ceb14446a462,radio/src/tests/colorlcd.cpp,added,54,0,3djc,2017-01-04 22:33:17,2017-01-04 22:33:17,2017-01-05 20:45:00,2017-01-05 20:45:00
+opentx/opentx,closed,4157,d160cfced20071bca6fe672148926a065d38ca57,radio/src/tests/prec1_dblsize_invers_212x64.png,modified,0,0,3djc,2016-12-22 18:04:54,2016-12-22 18:04:54,2016-12-23 22:57:33,2016-12-23 22:57:33
+opentx/opentx,closed,4151,f9d828fd37122e17738105fd6bfe2dcf6fea6e58,radio/src/tests/frsky.cpp,modified,4,4,PTDreamer,2016-12-18 19:00:30,2016-12-18 19:00:30,2016-12-23 23:04:12,2016-12-23 23:04:12
+opentx/opentx,closed,4075,a23568c84c7e7f513a7a2cebd6a5c3192798eba8,radio/src/tests/lua.cpp,modified,5,5,schwabe,2016-11-26 19:12:18,2016-11-26 19:12:18,2016-11-28 22:08:18,2016-11-28 22:08:18
+opentx/opentx,closed,4040,b535cf8ee5b06f00d8e5e64036cdccf46ab42374,radio/sdcard/horus/THEMES/Darkblue/mask_opentx_testmode.png,added,0,0,3djc,2016-11-18 09:24:21,2016-11-18 09:24:21,2016-11-18 17:43:14,2016-11-18 17:43:14
+opentx/opentx,closed,3980,1f51cfebf187019aa66156ce904dd809aae20f48,radio/src/tests/CMakeLists.txt,modified,3,3,3djc,2016-11-02 08:29:43,2016-11-02 08:29:43,2016-11-02 12:05:13,2016-11-02 12:05:13
+opentx/opentx,closed,3978,38111434ee06bf45e4cc75d02d0b4771bf4d64b9,radio/src/tests/frsky.cpp,modified,16,0,schwabe,2016-11-01 22:03:11,2016-11-01 22:03:11,2016-11-02 21:03:45,2016-11-02 21:03:45
+opentx/opentx,closed,3978,fc8c48159d847466b67290241da37822ce28774b,radio/src/tests/functions.cpp,modified,5,9,schwabe,2016-11-01 22:03:11,2016-11-01 22:03:11,2016-11-02 21:03:45,2016-11-02 21:03:45
+opentx/opentx,closed,3978,4592b0140b0db69ba70a600396996a0a98e16b10,radio/src/tests/gtests.h,modified,22,1,schwabe,2016-11-01 22:03:11,2016-11-01 22:03:11,2016-11-02 21:03:45,2016-11-02 21:03:45
+opentx/opentx,closed,3978,30ffef10f4972443f4553b5076c8c4d47f7ab9de,radio/src/tests/mixer.cpp,modified,69,104,schwabe,2016-11-01 22:03:11,2016-11-01 22:03:11,2016-11-02 21:03:45,2016-11-02 21:03:45
+opentx/opentx,closed,3978,2a87f7b1d128187a59a9a5c5a12b045866359f1b,radio/src/tests/switches.cpp,modified,6,3,schwabe,2016-11-01 22:03:11,2016-11-01 22:03:11,2016-11-02 21:03:45,2016-11-02 21:03:45
+opentx/opentx,closed,3978,66f28414d0f900f3628527fb7e8656a261e70088,tools/commit-tests.sh,modified,12,12,schwabe,2016-11-01 22:03:11,2016-11-01 22:03:11,2016-11-02 21:03:45,2016-11-02 21:03:45
+opentx/opentx,closed,3947,84befb04f1a265f70f25c68fa1559640e7e7baff,tools/commit-tests.sh,modified,4,3,schwabe,2016-10-23 08:56:56,2016-10-23 08:56:56,2016-10-23 11:18:26,2016-10-23 11:18:26
+opentx/opentx,closed,3942,f10d16da9a23e244c3d9a2646a88d375bafb3bd6,radio/src/tests/functions.cpp,modified,6,8,schwabe,2016-10-21 08:16:59,2016-10-21 08:16:59,2016-10-21 10:16:33,2016-10-21 10:16:33
+opentx/opentx,closed,3921,1c059a433d7e160e1b7387b6ed243a24b2204ae5,radio/src/tests/functions.cpp,added,126,0,rcbebo82,2016-10-17 10:17:08,2016-10-17 10:17:08,2016-10-18 16:19:12,2016-10-18 16:19:12
+opentx/opentx,closed,3856,10f0b3922f44e00bf7167d67ce2a67a8c8ccd77f,radio/src/tests/frsky.cpp,modified,21,0,kabturek,2016-09-25 20:05:19,2016-09-25 20:05:19,2016-10-05 15:57:03,2016-10-05 15:57:03
+opentx/opentx,closed,3818,5c2b221e1723a5f7dd7d6eae03843dca85ca7e56,radio/src/tests/mixer.cpp,modified,1,1,3djc,2016-09-17 09:19:02,2016-09-17 09:19:02,2016-09-17 19:49:52,2016-09-17 19:49:52
+opentx/opentx,closed,3818,197c56a398dae486f71349266fc14ff2ec5ffe10,radio/src/tests/switches.cpp,modified,10,3,3djc,2016-09-17 09:19:02,2016-09-17 09:19:02,2016-09-17 19:49:52,2016-09-17 19:49:52
+opentx/opentx,closed,3818,d2a019a7669eec3fb2c7b6460cf3672d2b35d5ad,tools/commit-tests.sh,modified,5,5,3djc,2016-09-17 09:19:02,2016-09-17 09:19:02,2016-09-17 19:49:52,2016-09-17 19:49:52
+opentx/opentx,closed,3800,9b97059a85b7a107e1216368434cf51d82cf7cd9,tools/commit-tests.sh,modified,60,41,3djc,2016-09-14 06:47:37,2016-09-14 06:47:37,2016-09-14 16:55:37,2016-09-14 16:55:37
+opentx/opentx,closed,3713,7b5bf8db228217af3f52a8e972c02c981f36c4c8,radio/src/tests/CMakeLists.txt,modified,1,1,jtaylor2,2016-08-22 17:06:31,2016-08-22 17:06:31,2016-08-23 05:14:44,2016-08-23 05:14:44
+opentx/opentx,closed,3713,7dce423c7e8d2170c01a598cef29bc0c3e9eb7c2,radio/src/tests/eeprom.cpp,modified,2,0,jtaylor2,2016-08-22 17:06:31,2016-08-22 17:06:31,2016-08-23 05:14:44,2016-08-23 05:14:44
+opentx/opentx,closed,3671,4703c6c88365716bc6709ca2f7e5803faa4d1d58,tools/commit-tests.sh,modified,3,3,3djc,2016-07-30 07:01:44,2016-07-30 07:01:44,2016-07-30 08:27:42,2016-07-30 08:27:42
+opentx/opentx,closed,3666,8db70d9b318754300745d5af3442516fae963823,radio/util/commit-tests.sh,modified,7,0,bsongis,2016-07-25 15:39:07,2016-07-25 15:39:07,2016-08-01 05:17:35,2016-08-01 05:17:35
+opentx/opentx,closed,3515,2ddd8738dc8b93c2a7f800486449b8938831e663,radio/util/commit-tests.sh,modified,10,10,projectkk2glider,2016-05-20 05:24:07,2016-05-20 05:24:07,2016-05-25 19:21:51,2016-05-25 19:21:51
+opentx/opentx,closed,3493,3856c2b4ad26a186be55f522cc0f78fa3d93dac2,radio/src/tests/timers.cpp,modified,4,4,3djc,2016-05-14 09:29:28,2016-05-14 09:29:28,2016-05-14 09:33:02,2016-05-14 09:33:02
+opentx/opentx,closed,3452,1f05531112c72fe799db6bf1e56ef3ff6c2da085,radio/src/tests/CMakeLists.txt,modified,9,0,projectkk2glider,2016-04-28 20:40:12,2016-04-28 20:40:12,2016-05-02 17:26:09,2016-05-02 17:26:09
+opentx/opentx,closed,3452,fec215f3f7569de08ebd138c018ff6c7d9f8c3ef,radio/src/tests/gtests.cpp,modified,5,0,projectkk2glider,2016-04-28 20:40:12,2016-04-28 20:40:12,2016-05-02 17:26:09,2016-05-02 17:26:09
+opentx/opentx,closed,3426,d550ef40f4479714750c643e569065c8c8a5deca,radio/src/tests/frsky.cpp,modified,8,5,schwabe,2016-04-17 20:08:22,2016-04-17 20:08:22,2016-04-29 16:44:25,2016-04-29 16:44:25
+opentx/opentx,closed,3364,790e83f42732f77e9e8529bd61fb371083e8d4f1,radio/src/tests/SmlsizeDecimalPoint_128x64.png,added,0,0,kilrah,2016-03-16 21:33:18,2016-03-16 21:33:18,2016-03-16 22:06:56,2016-03-16 22:06:56
+opentx/opentx,closed,3364,ce13667dcfabcbe109963993e1647e4b2c21cb65,radio/src/tests/SmlsizeDecimalPoint_212x64.png,added,0,0,kilrah,2016-03-16 21:33:18,2016-03-16 21:33:18,2016-03-16 22:06:56,2016-03-16 22:06:56
+opentx/opentx,closed,3364,2e064b5545ab2d097412a2b8d90c0ac1290f64c6,radio/src/tests/lcd.cpp,modified,10,0,kilrah,2016-03-16 21:33:18,2016-03-16 21:33:18,2016-03-16 22:06:56,2016-03-16 22:06:56
+opentx/opentx,closed,3363,790e83f42732f77e9e8529bd61fb371083e8d4f1,radio/src/tests/SmlsizeDecimalPoint_128x64.png,added,0,0,floaledm,2016-03-16 20:29:19,2016-03-16 20:29:19,2016-03-16 22:07:14,2016-03-16 22:07:14
+opentx/opentx,closed,3363,ce13667dcfabcbe109963993e1647e4b2c21cb65,radio/src/tests/SmlsizeDecimalPoint_212x64.png,added,0,0,floaledm,2016-03-16 20:29:19,2016-03-16 20:29:19,2016-03-16 22:07:14,2016-03-16 22:07:14
+opentx/opentx,closed,3363,926fe07f69002655940e9cef1f9e3bd042327a9f,radio/src/tests/lcd.cpp,modified,10,0,floaledm,2016-03-16 20:29:19,2016-03-16 20:29:19,2016-03-16 22:07:14,2016-03-16 22:07:14
+opentx/opentx,closed,3212,8ee086fe3ee3686fec754350fb151593b2bf12b2,radio/src/tests/switches.cpp,modified,173,0,projectkk2glider,2016-01-07 09:43:14,2016-01-07 09:43:14,2016-01-07 18:29:30,2016-01-07 18:29:30
+opentx/opentx,closed,3165,8862c0683ea628da83baa92cbd16de2f69c8bda4,radio/src/tests/crossfire.cpp,added,55,0,projectkk2glider,2015-12-20 16:15:40,2015-12-20 16:15:40,2015-12-20 22:44:10,2015-12-20 22:44:10
+opentx/opentx,closed,3114,8862c0683ea628da83baa92cbd16de2f69c8bda4,radio/src/tests/crossfire.cpp,added,55,0,HakanBastedt,2015-11-27 20:37:07,2015-11-27 20:37:07,2015-11-27 20:39:01,2015-11-27 20:39:01
+opentx/opentx,closed,3068,906a9acf0be41c7eaf9aff7dc8c6ed35c8dcc7fc,radio/src/tests/lua.cpp,modified,0,4,projectkk2glider,2015-11-15 12:37:31,2015-11-15 12:37:31,2015-11-15 18:44:48,2015-11-15 18:44:48
+opentx/opentx,closed,2977,a3bafa1494da0711ec990750262ccca50d70b180,radio/src/tests/one_sensor_votages_screen_212x64.png,modified,0,0,projectkk2glider,2015-10-17 18:42:06,2015-10-17 18:42:06,2015-10-17 21:02:36,2015-10-17 21:02:36
+opentx/opentx,closed,2977,2d2486d0b27e7f5902b0684c785d8d48e58a6ab9,radio/src/tests/two_sensor_votages_screen_212x64.png,modified,0,0,projectkk2glider,2015-10-17 18:42:06,2015-10-17 18:42:06,2015-10-17 21:02:36,2015-10-17 21:02:36
+opentx/opentx,closed,2910,081f19942556ad04bae9f3111a34082c0e354f75,radio/util/commit-tests.sh,modified,15,15,bsongis,2015-09-20 11:45:41,2015-09-20 11:45:41,2015-09-20 18:38:18,2015-09-20 18:38:18
+opentx/opentx,closed,2909,8aa8abaad9a2d0ce892f54d91b560c592805ddb7,radio/util/commit-tests.sh,modified,7,0,projectkk2glider,2015-09-20 09:50:43,2015-09-20 09:50:43,2015-09-20 10:02:35,2015-09-20 10:02:35
+opentx/opentx,closed,2907,a73bd08932166a0da4cd24d056b1a35c4dd545a2,radio/src/tests/gtests.h,modified,1,1,projectkk2glider,2015-09-20 08:15:11,2015-09-20 08:15:11,2015-09-20 08:33:02,2015-09-20 08:33:02
+opentx/opentx,closed,2907,e252ad6f73e2e99b9ac6f48fc4452de63582fa01,radio/src/tests/mixer.cpp,modified,1,0,projectkk2glider,2015-09-20 08:15:11,2015-09-20 08:15:11,2015-09-20 08:33:02,2015-09-20 08:33:02
+opentx/opentx,closed,2907,a7747c651a202ad6e6dc4355fd4fbeddab1a172b,radio/src/tests/switches.cpp,modified,0,4,projectkk2glider,2015-09-20 08:15:11,2015-09-20 08:15:11,2015-09-20 08:33:02,2015-09-20 08:33:02
+opentx/opentx,closed,2907,3310e26fe5baa44a2ccd0fb4e5c5c351b741eba5,radio/util/commit-tests.sh,renamed,0,4,projectkk2glider,2015-09-20 08:15:11,2015-09-20 08:15:11,2015-09-20 08:33:02,2015-09-20 08:33:02
+opentx/opentx,closed,2900,e7725cf39213e9640cdf35cc31b8ce7651624884,radio/util/commit-tests.sh,renamed,0,5,projectkk2glider,2015-09-19 08:52:30,2015-09-19 08:52:30,2015-09-20 09:40:12,2015-09-20 09:40:12
+opentx/opentx,closed,2853,be077f777716cad35619208da7a41d0ba9b28a0f,radio/src/tests/gtests.h,modified,2,0,dsbeach,2015-09-08 20:53:58,2015-09-08 20:53:58,2015-09-13 22:16:15,2015-09-13 22:16:15
+opentx/opentx,closed,2853,231e875fe7a9b810c96f4d8e6903d580c3235a3e,radio/util/jenkins-commit-tests.sh,added,56,0,dsbeach,2015-09-08 20:53:58,2015-09-08 20:53:58,2015-09-13 22:16:15,2015-09-13 22:16:15
+opentx/opentx,closed,2832,c82109319ab0dfe808695e16191f993c7731eed6,radio/src/tests/frsky.cpp,modified,4,0,jtaylor2,2015-09-05 09:46:34,2015-09-05 09:46:34,2015-09-06 09:25:32,2015-09-06 09:25:32
+opentx/opentx,closed,2820,dbba72798ad0c5017e84a5980480de4b566e9723,radio/src/tests/lcd.cpp,modified,1,1,bsongis,2015-08-31 18:49:18,2015-08-31 18:49:18,2015-09-06 07:17:23,2015-09-06 07:17:23
+opentx/opentx,closed,2751,5b526afb2dbc99b7ed9a7173e607043125bbfdd2,radio/src/tests/timers.cpp,modified,0,36,bsongis,2015-08-23 07:55:16,2015-08-23 07:55:16,2015-09-05 18:33:54,2015-09-05 18:33:54
+opentx/opentx,closed,2735,c73c405620ac1d6fb1b30706504225189cc8aa70,radio/src/tests/frsky.cpp,modified,6,6,bsongis,2015-08-19 19:57:44,2015-08-19 19:57:44,2017-03-02 18:07:09,NA
+opentx/opentx,closed,2686,0278c8cd15c3960aaafcd9e0ae06fb443936262e,radio/src/tests/frsky.cpp,modified,33,0,bsongis,2015-08-09 20:26:15,2015-08-09 20:26:15,2015-08-09 20:48:25,2015-08-09 20:48:25
+opentx/opentx,closed,2606,c9476fa0a7104c9da3cf89833d30b102d23ceff1,radio/src/tests/mixer.cpp,modified,2,2,raphaelcoeffic,2015-07-30 20:04:39,2015-07-30 20:04:39,2015-08-01 06:41:50,2015-08-01 06:41:50
+opentx/opentx,closed,2322,d10e2519c2894936c5fcf076d89dad9ea6971cd2,radio/src/tests/big_numbers.png,renamed,0,0,bsongis,2015-05-19 21:15:20,2015-05-19 21:15:20,2017-05-13 17:29:23,NA
+opentx/opentx,closed,2322,0fcbc72536a64399515a8ee0096d367eab886916,radio/src/tests/big_numbers_212x64.png,removed,0,0,bsongis,2015-05-19 21:15:20,2015-05-19 21:15:20,2017-05-13 17:29:23,NA
+opentx/opentx,closed,2322,925840094377d18a9e3eca725eb5134552b9f1e4,radio/src/tests/dblsize.png,renamed,0,0,bsongis,2015-05-19 21:15:20,2015-05-19 21:15:20,2017-05-13 17:29:23,NA
+opentx/opentx,closed,2322,fff9e7fc8725f85bd40802e15e346098df1e504f,radio/src/tests/dblsize_212x64.png,removed,0,0,bsongis,2015-05-19 21:15:20,2015-05-19 21:15:20,2017-05-13 17:29:23,NA
+opentx/opentx,closed,2322,df1ac1db48328dfdfca5a95131c65dede5a5cfaa,radio/src/tests/invers_0_0_128x64.png,removed,0,0,bsongis,2015-05-19 21:15:20,2015-05-19 21:15:20,2017-05-13 17:29:23,NA
+opentx/opentx,closed,2322,95867bff68a4471bc5531336be609a52baf4a746,radio/src/tests/invers_0_0_212x64.png,removed,0,0,bsongis,2015-05-19 21:15:20,2015-05-19 21:15:20,2017-05-13 17:29:23,NA
+opentx/opentx,closed,2322,c831a5236086f21b074abdc0f963eedc44128622,radio/src/tests/invers_0_1_128x64.png,removed,0,0,bsongis,2015-05-19 21:15:20,2015-05-19 21:15:20,2017-05-13 17:29:23,NA
+opentx/opentx,closed,2322,2e014fd35104bfbdfe8b6c4eb773e9fc96618b9f,radio/src/tests/invers_0_1_212x64.png,removed,0,0,bsongis,2015-05-19 21:15:20,2015-05-19 21:15:20,2017-05-13 17:29:23,NA
+opentx/opentx,closed,2322,a2fba01b51fbbbec9d711f71162c2ea6fe45f8df,radio/src/tests/invers_steps.png,added,0,0,bsongis,2015-05-19 21:15:20,2015-05-19 21:15:20,2017-05-13 17:29:23,NA
+opentx/opentx,closed,2322,075d7dad1f50257cbd0c2290281854832b9a2e8a,radio/src/tests/lcd.cpp,modified,37,27,bsongis,2015-05-19 21:15:20,2015-05-19 21:15:20,2017-05-13 17:29:23,NA
+opentx/opentx,closed,2322,213c92c4d01d71160e726e95022fb404808265fc,radio/src/tests/midsize.png,renamed,0,0,bsongis,2015-05-19 21:15:20,2015-05-19 21:15:20,2017-05-13 17:29:23,NA
+opentx/opentx,closed,2322,71da8b3ef8a92ce1b3c66e330a57b837df0592c8,radio/src/tests/midsize_212x64.png,removed,0,0,bsongis,2015-05-19 21:15:20,2015-05-19 21:15:20,2017-05-13 17:29:23,NA
+opentx/opentx,closed,2322,8043fc6e0b62b9698559c61303e5e8cc236f4c1c,radio/src/tests/prec2_left.png,renamed,0,0,bsongis,2015-05-19 21:15:20,2015-05-19 21:15:20,2017-05-13 17:29:23,NA
+opentx/opentx,closed,2322,a017f7ea8a29ba1eccdeb491fd7b4ad79c55d33d,radio/src/tests/prec2_left_212x64.png,removed,0,0,bsongis,2015-05-19 21:15:20,2015-05-19 21:15:20,2017-05-13 17:29:23,NA
+opentx/opentx,closed,2322,47b9f207a5cff2bb358bc363642c8ef10457d16a,radio/src/tests/smlsize.png,renamed,0,0,bsongis,2015-05-19 21:15:20,2015-05-19 21:15:20,2017-05-13 17:29:23,NA
+opentx/opentx,closed,2322,465d4fe5fd013cddc300cee298f15bfcc5c1b783,radio/src/tests/smlsize_212x64.png,removed,0,0,bsongis,2015-05-19 21:15:20,2015-05-19 21:15:20,2017-05-13 17:29:23,NA
+opentx/opentx,closed,2322,5caf95f3aaaf6fa64e109ab185cfb9881e013b1d,radio/src/tests/smlsize_putsstridx.png,renamed,0,0,bsongis,2015-05-19 21:15:20,2015-05-19 21:15:20,2017-05-13 17:29:23,NA
+opentx/opentx,closed,2322,6bca7494c97106c43352b029386c7b15663db240,radio/src/tests/smlsize_putsstridx_212x64.png,removed,0,0,bsongis,2015-05-19 21:15:20,2015-05-19 21:15:20,2017-05-13 17:29:23,NA
+opentx/opentx,closed,2322,c07424c5f2df1f4900c1cf93025c2f11575bd477,radio/src/tests/stdsize.png,renamed,0,0,bsongis,2015-05-19 21:15:20,2015-05-19 21:15:20,2017-05-13 17:29:23,NA
+opentx/opentx,closed,2322,1275355cc72ace5b8bbfcb82674db5b480c94cab,radio/src/tests/stdsize_212x64.png,removed,0,0,bsongis,2015-05-19 21:15:20,2015-05-19 21:15:20,2017-05-13 17:29:23,NA
+opentx/opentx,closed,2322,af38ca1344266494170d53e2a54c3cbced6f2d92,radio/src/tests/unsigned.png,renamed,0,0,bsongis,2015-05-19 21:15:20,2015-05-19 21:15:20,2017-05-13 17:29:23,NA
+opentx/opentx,closed,2322,f747a08e1b2e241bb5b023369577e284ab005fae,radio/src/tests/unsigned_212x64.png,removed,0,0,bsongis,2015-05-19 21:15:20,2015-05-19 21:15:20,2017-05-13 17:29:23,NA
+opentx/opentx,closed,2322,6cd120f848d121a811eb297f2778b33be209d566,radio/src/tests/vline.png,renamed,0,0,bsongis,2015-05-19 21:15:20,2015-05-19 21:15:20,2017-05-13 17:29:23,NA
+opentx/opentx,closed,2270,70ac5bd1a7f292b41afaa0267cb839e3eb7c97e4,radio/src/tests/gtests.cpp,modified,1,0,bsongis,2015-05-07 01:19:23,2015-05-07 01:19:23,2015-05-07 04:39:20,2015-05-07 04:39:20
+opentx/opentx,closed,2264,c4e027f6910337f19e1843be820580709c30144b,radio/src/tests/lua.cpp,modified,2,4,xmxwx,2015-05-05 18:03:48,2015-05-05 18:03:48,2015-05-08 09:28:58,2015-05-08 09:28:58
+opentx/opentx,closed,2209,0a032ae254c8821c16ec580c218f7a1262627fed,radio/src/tests/eeprom.cpp,modified,5,5,xmxwx,2015-04-18 13:13:10,2015-04-18 13:13:10,2015-04-21 04:40:16,2015-04-21 04:40:16
+opentx/opentx,closed,2170,109fb6d32bb1032b6e3b49630a101bfb3380d446,radio/src/tests/mixer.cpp,modified,3,0,mpaperno,2015-03-27 20:56:07,2015-03-27 20:56:07,2015-03-28 08:38:41,2015-03-28 08:38:41
+opentx/opentx,closed,2048,ae198740904795e92d9ba68b56364e59b3195b1f,radio/src/tests/timers.cpp,added,284,0,bsongis,2015-01-29 18:28:18,2015-01-29 18:28:18,2015-01-29 20:40:49,2015-01-29 20:40:49
+opentx/opentx,closed,2021,ae198740904795e92d9ba68b56364e59b3195b1f,radio/src/tests/timers.cpp,added,284,0,projectkk2glider,2015-01-17 16:21:07,2015-01-17 16:21:07,2015-01-28 18:38:42,2015-01-28 18:38:42
+opentx/opentx,closed,1989,b5e863ba16308003315a133fc609edc301c15805,radio/src/tests/4b_20x20.bmp,added,0,0,MicheleVilla,2015-01-09 17:35:58,2015-01-09 17:35:58,2015-01-09 17:59:28,2015-01-09 17:59:28
+opentx/opentx,closed,1989,a1121c1548cd1f7b170b4d70c18bebce9ab66d34,radio/src/tests/lcd.cpp,modified,6,0,MicheleVilla,2015-01-09 17:35:58,2015-01-09 17:35:58,2015-01-09 17:59:28,2015-01-09 17:59:28
+opentx/opentx,closed,1989,f56f32900c72ff99d748795950cadc202a0651f0,radio/src/tests/lcd_bmpLoadAndDisplay_212x64.png,modified,0,0,MicheleVilla,2015-01-09 17:35:58,2015-01-09 17:35:58,2015-01-09 17:59:28,2015-01-09 17:59:28
+opentx/opentx,closed,1929,925840094377d18a9e3eca725eb5134552b9f1e4,radio/src/tests/dblsize_128x64.png,modified,0,0,projectkk2glider,2014-12-13 20:31:30,2014-12-13 20:31:30,2014-12-13 21:01:58,2014-12-13 21:01:58
+opentx/opentx,closed,1929,fff9e7fc8725f85bd40802e15e346098df1e504f,radio/src/tests/dblsize_212x64.png,modified,0,0,projectkk2glider,2014-12-13 20:31:30,2014-12-13 20:31:30,2014-12-13 21:01:58,2014-12-13 21:01:58
+opentx/opentx,closed,1929,9a8e67d740c47ed6d774da129d2976d9af04b575,radio/src/tests/lcd.cpp,modified,28,0,projectkk2glider,2014-12-13 20:31:30,2014-12-13 20:31:30,2014-12-13 21:01:58,2014-12-13 21:01:58
+opentx/opentx,closed,1929,213c92c4d01d71160e726e95022fb404808265fc,radio/src/tests/midsize_128x64.png,modified,0,0,projectkk2glider,2014-12-13 20:31:30,2014-12-13 20:31:30,2014-12-13 21:01:58,2014-12-13 21:01:58
+opentx/opentx,closed,1929,71da8b3ef8a92ce1b3c66e330a57b837df0592c8,radio/src/tests/midsize_212x64.png,modified,0,0,projectkk2glider,2014-12-13 20:31:30,2014-12-13 20:31:30,2014-12-13 21:01:58,2014-12-13 21:01:58
+opentx/opentx,closed,1929,47b9f207a5cff2bb358bc363642c8ef10457d16a,radio/src/tests/smlsize_128x64.png,modified,0,0,projectkk2glider,2014-12-13 20:31:30,2014-12-13 20:31:30,2014-12-13 21:01:58,2014-12-13 21:01:58
+opentx/opentx,closed,1929,465d4fe5fd013cddc300cee298f15bfcc5c1b783,radio/src/tests/smlsize_212x64.png,modified,0,0,projectkk2glider,2014-12-13 20:31:30,2014-12-13 20:31:30,2014-12-13 21:01:58,2014-12-13 21:01:58
+opentx/opentx,closed,1929,c07424c5f2df1f4900c1cf93025c2f11575bd477,radio/src/tests/stdsize_128x64.png,modified,0,0,projectkk2glider,2014-12-13 20:31:30,2014-12-13 20:31:30,2014-12-13 21:01:58,2014-12-13 21:01:58
+opentx/opentx,closed,1929,1275355cc72ace5b8bbfcb82674db5b480c94cab,radio/src/tests/stdsize_212x64.png,modified,0,0,projectkk2glider,2014-12-13 20:31:30,2014-12-13 20:31:30,2014-12-13 21:01:58,2014-12-13 21:01:58
+opentx/opentx,closed,1893,eff8915d7c23df189aca9e041b172c35dbe5f2f9,radio/src/tests/gtests.h,modified,2,0,adriano65,2014-12-04 20:35:23,2014-12-04 20:35:23,2014-12-08 17:53:43,2014-12-08 17:53:43
+opentx/opentx,closed,1893,625a51960f10236bf13834d9754fe7cf0f5fe1fb,radio/src/tests/lua.cpp,modified,1,0,adriano65,2014-12-04 20:35:23,2014-12-04 20:35:23,2014-12-08 17:53:43,2014-12-08 17:53:43
+opentx/opentx,closed,1843,1730b7bd5ff75d28c982b806c5a5181090cd0e05,radio/src/tests/1b_39x32.bmp,added,0,0,kylemanna,2014-11-12 18:53:30,2014-11-12 18:53:30,2014-11-15 09:09:58,2014-11-15 09:09:58
+opentx/opentx,closed,1843,f130b9986dced34e21f1819991886d48bab36b6e,radio/src/tests/1b_6x32.bmp,added,0,0,kylemanna,2014-11-12 18:53:30,2014-11-12 18:53:30,2014-11-15 09:09:58,2014-11-15 09:09:58
+opentx/opentx,closed,1843,f4fe798af7ead302191329132871c874be155300,radio/src/tests/4b_31x31.bmp,added,0,0,kylemanna,2014-11-12 18:53:30,2014-11-12 18:53:30,2014-11-15 09:09:58,2014-11-15 09:09:58
+opentx/opentx,closed,1843,5de76c4b69b258a547c90ad26a0f1bbaa3a6a1cd,radio/src/tests/4b_7x32.bmp,added,0,0,kylemanna,2014-11-12 18:53:30,2014-11-12 18:53:30,2014-11-15 09:09:58,2014-11-15 09:09:58
+opentx/opentx,closed,1843,47131b5783d4a7c96d5fdb38a5db88ca9e030da1,radio/src/tests/lcd.cpp,modified,71,0,kylemanna,2014-11-12 18:53:30,2014-11-12 18:53:30,2014-11-15 09:09:58,2014-11-15 09:09:58
+opentx/opentx,closed,1843,70fab5d38c6f3e15879900c384e79395892ad40e,radio/src/tests/lcd_bmpLoadAndDisplay_212x64.png,added,0,0,kylemanna,2014-11-12 18:53:30,2014-11-12 18:53:30,2014-11-15 09:09:58,2014-11-15 09:09:58
+opentx/opentx,closed,1648,db4b64a25834d9b167078bb10f17aad741f6ab90,radio/src/tests/mixer.cpp,modified,28,0,projectkk2glider,2014-08-28 12:57:49,2014-08-28 12:57:49,2014-08-29 06:30:09,NA
+opentx/opentx,closed,1477,11e482b73e336f4e86646529c12e9719bd96c558,radio/src/tests/frsky.cpp,modified,223,11,projectkk2glider,2014-07-09 12:26:20,2014-07-09 12:26:20,2014-07-10 07:56:11,2014-07-10 07:56:11
+opentx/opentx,closed,1477,e394794ab566537c2793ef849549be537cc74fdf,radio/src/tests/one_sensor_votages_screen_212x64.png,added,0,0,projectkk2glider,2014-07-09 12:26:20,2014-07-09 12:26:20,2014-07-10 07:56:11,2014-07-10 07:56:11
+opentx/opentx,closed,1477,ab5e080b32333c8154dfea6a51ff6c06878b337e,radio/src/tests/two_sensor_votages_screen_212x64.png,added,0,0,projectkk2glider,2014-07-09 12:26:20,2014-07-09 12:26:20,2014-07-10 07:56:11,2014-07-10 07:56:11
+opentx/opentx,closed,1465,f6ae8e8738df8617c76116fb6f37b43eca23f52c,radio/src/tests/frsky.cpp,added,133,0,projectkk2glider,2014-07-07 17:39:11,2014-07-07 17:39:11,2014-07-08 06:26:32,2014-07-08 06:26:32
+opentx/opentx,closed,1465,90a1e3b86ff9ed799076ad6b9aba8724f666cbf2,radio/src/tests/gtests.cpp,modified,0,1089,projectkk2glider,2014-07-07 17:39:11,2014-07-07 17:39:11,2014-07-08 06:26:32,2014-07-08 06:26:32
+opentx/opentx,closed,1465,917b1cdddb0a6d78514ce4368371c2d31332d067,radio/src/tests/lcd.cpp,added,193,0,projectkk2glider,2014-07-07 17:39:11,2014-07-07 17:39:11,2014-07-08 06:26:32,2014-07-08 06:26:32
+opentx/opentx,closed,1465,b08e98ffe1cf5e9b60b07e129772dc2399d1c24e,radio/src/tests/mixer.cpp,added,689,0,projectkk2glider,2014-07-07 17:39:11,2014-07-07 17:39:11,2014-07-08 06:26:32,2014-07-08 06:26:32
+opentx/opentx,closed,1465,b9c1446216ce0b8609e3bd8270cad44f642d7da0,radio/src/tests/switches.cpp,added,346,0,projectkk2glider,2014-07-07 17:39:11,2014-07-07 17:39:11,2014-07-08 06:26:32,2014-07-08 06:26:32
+opentx/opentx,closed,1460,d10e2519c2894936c5fcf076d89dad9ea6971cd2,radio/src/tests/big_numbers_128x64.png,added,0,0,projectkk2glider,2014-07-06 06:53:25,2014-07-06 06:53:25,2014-07-06 11:23:08,2014-07-06 11:23:08
+opentx/opentx,closed,1460,0fcbc72536a64399515a8ee0096d367eab886916,radio/src/tests/big_numbers_212x64.png,added,0,0,projectkk2glider,2014-07-06 06:53:25,2014-07-06 06:53:25,2014-07-06 11:23:08,2014-07-06 11:23:08
+opentx/opentx,closed,1460,9f3757c17302cb12eceab6401df711e2b63479b0,radio/src/tests/gtests.cpp,modified,13,11,projectkk2glider,2014-07-06 06:53:25,2014-07-06 06:53:25,2014-07-06 11:23:08,2014-07-06 11:23:08
+opentx/opentx,closed,1460,af38ca1344266494170d53e2a54c3cbced6f2d92,radio/src/tests/unsigned_128x64.png,added,0,0,projectkk2glider,2014-07-06 06:53:25,2014-07-06 06:53:25,2014-07-06 11:23:08,2014-07-06 11:23:08
+opentx/opentx,closed,1460,f747a08e1b2e241bb5b023369577e284ab005fae,radio/src/tests/unsigned_212x64.png,added,0,0,projectkk2glider,2014-07-06 06:53:25,2014-07-06 06:53:25,2014-07-06 11:23:08,2014-07-06 11:23:08
+opentx/opentx,closed,1455,7bb96c6879cfbcbfc1c248790d06e4aa54a73261,radio/src/tests/gtests.cpp,modified,32,0,projectkk2glider,2014-07-05 17:15:28,2014-07-05 17:15:28,2014-07-05 17:22:42,2014-07-05 17:22:42
+opentx/opentx,closed,1446,d78fe35299171b08353f7432d1ea7f34b34c3cf5,radio/src/tests/gtests.cpp,modified,6,6,projectkk2glider,2014-07-04 13:31:53,2014-07-04 13:31:53,2014-07-04 13:33:35,2014-07-04 13:33:35
+opentx/opentx,closed,1444,6b29b79889a096fac11e3a9f46fb94870c9145ff,radio/src/tests/gtests.cpp,modified,219,0,bsongis,2014-07-03 22:10:53,2014-07-03 22:10:53,2014-07-08 09:41:59,NA
+opentx/opentx,closed,1444,e394794ab566537c2793ef849549be537cc74fdf,radio/src/tests/one_sensor_votages_screen_212x64.png,added,0,0,bsongis,2014-07-03 22:10:53,2014-07-03 22:10:53,2014-07-08 09:41:59,NA
+opentx/opentx,closed,1444,e05a06bf784556f6428bc1d96e01eab70595f45a,radio/src/tests/two_sensor_votages_screen_212x64.png,added,0,0,bsongis,2014-07-03 22:10:53,2014-07-03 22:10:53,2014-07-08 09:41:59,NA
+opentx/opentx,closed,1439,70a41ff6c96d270b224dc4817378a5c290bc5077,radio/src/tests/gtests.cpp,modified,132,0,projectkk2glider,2014-07-03 10:11:21,2014-07-03 10:11:21,2014-07-04 05:56:01,NA
+opentx/opentx,closed,1119,ddfff10adc6e5f072c9734a54ef09d7e9aedc7d0,radio/src/gtests.cpp,modified,27,12,aaronchch,2014-05-19 13:17:08,2014-05-19 13:17:08,2014-05-19 20:04:30,2014-05-19 20:04:30
+opentx/opentx,closed,1104,281ecc8e655dac508f7a7d6935154e4adf26d3ba,radio/src/gtests.cpp,modified,11,11,openfsguruh,2014-05-15 19:28:18,2014-05-15 19:28:18,2014-05-16 14:56:31,2014-05-16 14:56:31
+opentx/opentx,closed,630,fe6cb1a0a964ac6441e90960c24aae18e6503fa6,radio/src/gtests.cpp,modified,2,2,driver33,2014-01-31 21:02:10,2014-01-31 21:02:10,2014-02-01 09:24:21,2014-02-01 09:24:21
+opentx/opentx,closed,188,2b8d8f2e843171e4395c2240b3454d62f1edcf22,src/gtests.cpp,modified,4,4,kilrah,2013-11-30 11:23:29,2013-11-30 11:23:29,2013-11-30 11:27:17,NA

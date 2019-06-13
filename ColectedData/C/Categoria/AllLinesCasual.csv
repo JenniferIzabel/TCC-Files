@@ -1,0 +1,724 @@
+Repository,Pull state,Pull number,sha,Filename,File status,Additions,Deletions,Users,DateCreated,DateUpdated,dateClosed,dateMerged,,
+D-Programming-Language/dmd,closed,413,0aee395d8392a2679e1c1b54edd335b06d292716,test/runnable/iasm64.d,modified,36,0,Abscissa,2011-09-27 12:33:37,2011-09-27 12:33:37,2011-09-29 02:40:44,2011-09-29 02:40:44
+D-Programming-Language/dmd,closed,8194,72de65835ee7711ab86f085e3d3d212d151d3b8f,test/compilable/test12807.d,added,16,0,Biotronic,2018-04-19 10:44:34,2018-04-19 10:44:34,2018-04-23 07:55:34,2018-04-23 07:55:33
+D-Programming-Language/dmd,closed,8194,9cf1b3ed163f086b734f0b335651d7c9adc85c15,test/compilable/test18775.d,added,20,0,Biotronic,2018-04-19 10:44:34,2018-04-19 10:44:34,2018-04-23 07:55:34,2018-04-23 07:55:33
+D-Programming-Language/dmd,closed,5687,7764a81049e14813231965df5a11d170fd468e56,test/runnable/testxmm.d,modified,2,1,Biotronic,2016-04-20 08:59:06,2016-04-20 08:59:06,2016-04-20 11:52:53,2016-04-20 11:52:53
+D-Programming-Language/dmd,closed,5507,f1923525104d588e09e1f4c65e14a5977929b28e,test/compilable/ddoc15475.d,added,12,0,calexHG,2016-03-08 20:39:49,2016-03-08 20:39:49,2016-03-09 05:37:02,2016-03-09 05:37:02
+D-Programming-Language/dmd,closed,5507,6d20808fb2e6b67ca4273ba96454fe5c5ad60be4,test/compilable/extra-files/ddoc15475.html,added,14,0,calexHG,2016-03-08 20:39:49,2016-03-08 20:39:49,2016-03-09 05:37:02,2016-03-09 05:37:02
+D-Programming-Language/dmd,closed,8809,b3562cc32653c8033ea6a9d75f7ad7f7855ca070,test/compilable/test19292.d,modified,3,2,dhasenan,2018-10-08 07:08:54,2018-10-08 07:08:54,2018-10-09 03:04:04,2018-10-09 03:04:04
+D-Programming-Language/dmd,closed,8809,6b0e89803ed9e5325fc129775dfbe6a1de19f509,test/fail_compilation/ice12497.d,removed,0,18,dhasenan,2018-10-08 07:08:54,2018-10-08 07:08:54,2018-10-09 03:04:04,2018-10-09 03:04:04
+D-Programming-Language/dmd,closed,8622,2ace6329dceaead744b132b0ad232452c8a1bc23,test/runnable/extra-files/cppb.h,modified,30,30,dhasenan,2018-08-27 06:14:12,2018-08-27 06:14:12,2018-08-27 09:35:34,2018-08-27 09:35:34
+D-Programming-Language/dmd,closed,8680,cbc2a99eb080e02395fd5ad994a0a6e1c6d970ba,test/compilable/test5227.d,modified,7,0,dkgroot,2018-09-10 09:54:31,2018-09-10 09:54:31,2018-09-10 15:04:57,2018-09-10 15:04:57
+D-Programming-Language/dmd,closed,7800,33f0448651faf7e8e48128540224455a8ef228a7,test/dub_package/frontend.d,modified,0,1,dkgroot,2018-01-28 13:50:19,2018-01-28 13:50:19,2018-09-20 04:20:28,NA
+D-Programming-Language/dmd,closed,7800,59f5c3e29af493a5ca902a5915355e551923f79d,test/dub_package/frontend_file.d,modified,0,1,dkgroot,2018-01-28 13:50:19,2018-01-28 13:50:19,2018-09-20 04:20:28,NA
+D-Programming-Language/dmd,closed,1070,a16f2ac04612d33502a0a8ad453993b3a5669b68,test/runnable/test42.d,modified,8,0,edmccard,2012-07-29 06:41:12,2012-07-29 06:41:12,2012-07-29 20:15:05,2012-07-29 20:15:05
+D-Programming-Language/dmd,closed,1063,8146fe754e130053838e928b4eaa018637313a13,test/runnable/declaration.d,modified,13,0,edmccard,2012-07-24 04:11:47,2012-07-24 04:11:47,2012-08-24 13:06:33,2012-08-24 13:06:33
+D-Programming-Language/dmd,closed,1886,54c8fa4029558669ae82869ca9062a5c607a2094,test/compilable/nogc.d,added,97,0,eskimor,2013-04-11 13:24:31,2013-04-11 13:24:31,2014-03-28 01:32:19,2014-03-28 01:32:19
+D-Programming-Language/dmd,closed,1886,1978cc4b244c0585e6181f33f6b753c0375e2c23,test/compilable/nogc_warn.d,added,121,0,eskimor,2013-04-11 13:24:31,2013-04-11 13:24:31,2014-03-28 01:32:19,2014-03-28 01:32:19
+D-Programming-Language/dmd,closed,1838,d3c7a593db27d0698d168afc59976e18538f8534,test/fail_compilation/fail9346.d,added,28,0,eskimor,2013-04-04 14:10:11,2013-04-04 14:10:11,2013-04-06 04:58:30,2013-04-06 04:58:30
+D-Programming-Language/dmd,closed,633,25eb3effe2547506bf35c7e72a051cf1f9f670e8,test/compilable/interpret3.d,modified,46,0,jcd,2012-01-21 10:21:04,2012-01-21 10:21:04,2012-01-21 23:02:23,2012-01-21 23:02:23
+D-Programming-Language/dmd,closed,5326,a6d73722e4750b3967454dd911099299bed8a271,test/runnable/variadic.d,modified,50,0,landaire,2015-12-30 08:41:57,2015-12-30 08:41:57,2015-12-30 20:54:41,2015-12-30 20:54:41
+D-Programming-Language/dmd,closed,5310,58ec0cead895735ca397d88ce63333b8f511b020,test/runnable/interpret.d,modified,35,0,landaire,2015-12-15 04:15:06,2015-12-15 04:15:06,2016-01-31 16:05:25,2016-01-31 16:05:25
+D-Programming-Language/dmd,closed,8666,bbb825159f268e2286a00df4b439a74c7cb57fbb,test/fail_compilation/diag19225.d,added,15,0,look-at-me,2018-09-05 17:23:17,2018-09-05 17:23:17,2018-09-07 13:11:09,2018-09-07 13:11:09
+D-Programming-Language/dmd,closed,1102,7a33a042b0b9b33db06a920e6a7c21103f132b8e,test/fail_compilation/fail3866.d,removed,0,10,p0nce,2012-09-06 00:30:24,2012-09-06 00:30:24,2013-07-04 10:03:35,2013-07-04 10:03:35
+D-Programming-Language/dmd,closed,1102,ba1ae57e636b409f222c2211034044be64908c0a,test/runnable/functype.d,added,263,0,p0nce,2012-09-06 00:30:24,2012-09-06 00:30:24,2013-07-04 10:03:35,2013-07-04 10:03:35
+D-Programming-Language/dmd,closed,789,d46742fe91d4319bef401221f5991060d38dc1c3,test/runnable/funclit.d,modified,119,0,p0nce,2012-03-05 14:28:37,2012-03-05 14:28:37,2012-03-05 19:29:09,2012-03-05 19:29:09
+D-Programming-Language/dmd,closed,812,473c2c65e97135f79889480b06030f752f785cf0,test/fail_compilation/fail213.d,modified,1,1,ricochet1k,2012-03-14 15:32:39,2012-03-14 15:32:39,2012-03-15 23:18:08,2012-03-15 23:18:08
+D-Programming-Language/dmd,closed,812,2292716bc9cc556d103bf21e8139c1f4f9788770,test/fail_compilation/fail5733.d,added,6,0,ricochet1k,2012-03-14 15:32:39,2012-03-14 15:32:39,2012-03-15 23:18:08,2012-03-15 23:18:08
+D-Programming-Language/dmd,closed,812,8b7ae21cb89fa7dffa2854d5d98318a6428cb5a5,test/fail_compilation/fail7702.d,added,9,0,ricochet1k,2012-03-14 15:32:39,2012-03-14 15:32:39,2012-03-15 23:18:08,2012-03-15 23:18:08
+D-Programming-Language/dmd,closed,812,02d08f9e08d5bf316c44205d5122c09f7ac4e355,test/runnable/ufcs.d,modified,143,0,ricochet1k,2012-03-14 15:32:39,2012-03-14 15:32:39,2012-03-15 23:18:08,2012-03-15 23:18:08
+D-Programming-Language/dmd,closed,1213,d1f160bb8e6f7f74295a9a646110d8ab6975f36e,test/runnable/declaration.d,modified,39,0,shoo,2012-10-24 14:17:59,2012-10-24 14:17:59,2012-11-11 08:01:01,2012-11-11 08:01:01
+D-Programming-Language/dmd,closed,1191,0d7ab8c4e3e0922f381b503fe4582f00cf10f072,test/runnable/testgc2.d,modified,7,11,shoo,2012-10-17 21:55:53,2012-10-17 21:55:53,2012-11-19 08:37:27,2012-11-19 08:37:27
+D-Programming-Language/dmd,closed,8165,99bb6eb91c45edd94227c7c30a19cfd786dd6d14,test/README.md,modified,2,0,stefan-koch-sociomantic,2018-04-11 17:53:03,2018-04-11 17:53:03,2018-05-24 12:38:05,NA
+D-Programming-Language/dmd,closed,8165,75eac7655194816fc9630def5918b465911f2038,test/fail_compilation/imports/import18517a.d,added,1,0,stefan-koch-sociomantic,2018-04-11 17:53:03,2018-04-11 17:53:03,2018-05-24 12:38:05,NA
+D-Programming-Language/dmd,closed,8165,8a408540754d4282a2ed87c6b12a6b47aada5159,test/fail_compilation/imports/import18517b.d,added,1,0,stefan-koch-sociomantic,2018-04-11 17:53:03,2018-04-11 17:53:03,2018-05-24 12:38:05,NA
+D-Programming-Language/dmd,closed,8165,95c2e9ec69ea63cd692ed61d2c97a34ddd81054c,test/fail_compilation/imports/import18517c.d,added,1,0,stefan-koch-sociomantic,2018-04-11 17:53:03,2018-04-11 17:53:03,2018-05-24 12:38:05,NA
+D-Programming-Language/dmd,closed,8165,4aa53a3ea15a30afff9204f9ba1831616a908913,test/fail_compilation/imports/import18517d.d,added,1,0,stefan-koch-sociomantic,2018-04-11 17:53:03,2018-04-11 17:53:03,2018-05-24 12:38:05,NA
+D-Programming-Language/dmd,closed,8165,620cba1905ed8e6fd132fe5ad1abc0c36ee5baf2,test/fail_compilation/test18517a.d,added,19,0,stefan-koch-sociomantic,2018-04-11 17:53:03,2018-04-11 17:53:03,2018-05-24 12:38:05,NA
+D-Programming-Language/dmd,closed,8165,99122c68c40a3042c2d459dee4ea4de095ba6f5b,test/fail_compilation/test18517b.d,added,19,0,stefan-koch-sociomantic,2018-04-11 17:53:03,2018-04-11 17:53:03,2018-05-24 12:38:05,NA
+D-Programming-Language/dmd,closed,8165,21a8e38df997c1693c1f4ae4d9a3c16d36f8c494,test/fail_compilation/test18517c.d,added,10,0,stefan-koch-sociomantic,2018-04-11 17:53:03,2018-04-11 17:53:03,2018-05-24 12:38:05,NA
+D-Programming-Language/dmd,closed,8165,de32cde18ade328c5cf1d2b36919f01d8dd9bc3b,test/fail_compilation/test18517d.d,added,10,0,stefan-koch-sociomantic,2018-04-11 17:53:03,2018-04-11 17:53:03,2018-05-24 12:38:05,NA
+D-Programming-Language/dmd,closed,8165,4b0d7668851e8736bbfc66a9b01c3b1a58805cfb,test/tools/d_do_test.d,modified,17,2,stefan-koch-sociomantic,2018-04-11 17:53:03,2018-04-11 17:53:03,2018-05-24 12:38:05,NA
+D-Programming-Language/dmd,closed,8162,27f8e82aacc934a2bbd5c462bc42f7b829a3df61,test/README.md,modified,4,4,stefan-koch-sociomantic,2018-04-11 11:34:55,2018-04-11 11:34:55,2018-05-07 01:00:57,2018-05-07 01:00:57
+D-Programming-Language/dmd,closed,8162,7e61a5ef16b016fed336b35dc42af6f4fafcbf7a,test/run.d,added,342,0,stefan-koch-sociomantic,2018-04-11 11:34:55,2018-04-11 11:34:55,2018-05-07 01:00:57,2018-05-07 01:00:57
+D-Programming-Language/dmd,closed,8162,14bb664b1488089084504fd57b7c68e6d3f93a20,test/run_individual_tests.d,removed,0,44,stefan-koch-sociomantic,2018-04-11 11:34:55,2018-04-11 11:34:55,2018-05-07 01:00:57,2018-05-07 01:00:57
+D-Programming-Language/dmd,closed,8162,84f2ee95e7479ea5d70a1b3c11d21fa66d2e1dee,test/tools/d_do_test.d,modified,4,2,stefan-koch-sociomantic,2018-04-11 11:34:55,2018-04-11 11:34:55,2018-05-07 01:00:57,2018-05-07 01:00:57
+D-Programming-Language/dmd,closed,3747,3d9383189a53377a478376c9bc45a619414a8e21,test/compilable/diag11066.d,removed,0,13,teufelsmangagirl,2014-07-12 11:19:42,2014-07-12 11:19:42,2014-07-13 12:20:22,NA
+D-Programming-Language/dmd,closed,3746,70e351e8154c013a35f33d2df4ba75fab34ae1ff,test/runnable/bug7068.d,added,11,0,teufelsmangagirl,2014-07-11 23:20:04,2014-07-11 23:20:04,2014-07-12 05:20:57,2014-07-12 05:20:57
+mapserver/mapserver,closed,5571,d407b0b5c2c228b96442f66624584addc1707e82,msautotest/wxs/expected/wcs_20_cap_inspire_embed.xml,added,177,0,claudep,2018-03-21 16:20:19,2018-03-21 16:20:19,2018-03-21 16:47:03,2018-03-21 16:47:03
+mapserver/mapserver,closed,5571,d407b0b5c2c228b96442f66624584addc1707e82,msautotest/wxs/expected/wcs_20_cap_inspire_embed_acceptlanguage_default.xml,added,177,0,claudep,2018-03-21 16:20:19,2018-03-21 16:20:19,2018-03-21 16:47:03,2018-03-21 16:47:03
+mapserver/mapserver,closed,5571,47bba0c6ab51b522adf255fccffe366c496e31fd,msautotest/wxs/expected/wcs_20_cap_inspire_embed_acceptlanguage_multiple.xml,added,177,0,claudep,2018-03-21 16:20:19,2018-03-21 16:20:19,2018-03-21 16:47:03,2018-03-21 16:47:03
+mapserver/mapserver,closed,5571,47bba0c6ab51b522adf255fccffe366c496e31fd,msautotest/wxs/expected/wcs_20_cap_inspire_embed_acceptlanguage_secondary.xml,added,177,0,claudep,2018-03-21 16:20:19,2018-03-21 16:20:19,2018-03-21 16:47:03,2018-03-21 16:47:03
+mapserver/mapserver,closed,5571,d407b0b5c2c228b96442f66624584addc1707e82,msautotest/wxs/expected/wcs_20_cap_inspire_embed_acceptlanguage_unknown.xml,added,177,0,claudep,2018-03-21 16:20:19,2018-03-21 16:20:19,2018-03-21 16:47:03,2018-03-21 16:47:03
+mapserver/mapserver,closed,5571,f62b736af1675e76f4f2078117d318d8b678b000,msautotest/wxs/expected/wcs_20_cap_inspire_url.xml,added,158,0,claudep,2018-03-21 16:20:19,2018-03-21 16:20:19,2018-03-21 16:47:03,2018-03-21 16:47:03
+mapserver/mapserver,closed,5571,f62b736af1675e76f4f2078117d318d8b678b000,msautotest/wxs/expected/wcs_20_cap_inspire_url_acceptlanguage_default.xml,added,158,0,claudep,2018-03-21 16:20:19,2018-03-21 16:20:19,2018-03-21 16:47:03,2018-03-21 16:47:03
+mapserver/mapserver,closed,5571,6c7c516d3a72d62184218a56cce64f6e6b4a06bf,msautotest/wxs/expected/wcs_20_cap_inspire_url_acceptlanguage_multiple.xml,added,158,0,claudep,2018-03-21 16:20:19,2018-03-21 16:20:19,2018-03-21 16:47:03,2018-03-21 16:47:03
+mapserver/mapserver,closed,5571,6c7c516d3a72d62184218a56cce64f6e6b4a06bf,msautotest/wxs/expected/wcs_20_cap_inspire_url_acceptlanguage_secondary.xml,added,158,0,claudep,2018-03-21 16:20:19,2018-03-21 16:20:19,2018-03-21 16:47:03,2018-03-21 16:47:03
+mapserver/mapserver,closed,5571,f62b736af1675e76f4f2078117d318d8b678b000,msautotest/wxs/expected/wcs_20_cap_inspire_url_acceptlanguage_unknown.xml,added,158,0,claudep,2018-03-21 16:20:19,2018-03-21 16:20:19,2018-03-21 16:47:03,2018-03-21 16:47:03
+mapserver/mapserver,closed,5571,6c6c829964fb2bd2584803b1ae87e22687e7ff5e,msautotest/wxs/wcs_inspire_scenario1.map,added,148,0,claudep,2018-03-21 16:20:19,2018-03-21 16:20:19,2018-03-21 16:47:03,2018-03-21 16:47:03
+mapserver/mapserver,closed,5571,9be566ddd0018b47502e21b9ec24987a436ff23a,msautotest/wxs/wcs_inspire_scenario2.map,added,152,0,claudep,2018-03-21 16:20:19,2018-03-21 16:20:19,2018-03-21 16:47:03,2018-03-21 16:47:03
+mapserver/mapserver,closed,5523,5cbaa11c3e26e24d31482a39fde322b58386b301,msautotest/wxs/expected/wcs_10_getcov_bands_name_new.dat,modified,0,0,gberaudo,2017-11-21 14:01:30,2017-11-21 14:01:30,2017-11-30 16:35:02,2017-11-30 16:35:02
+mapserver/mapserver,closed,5523,a6807df945f1b30f2fa88b180ab2c30158d34774,msautotest/wxs/expected/wcs_20_desc.txt,modified,1,1,gberaudo,2017-11-21 14:01:30,2017-11-21 14:01:30,2017-11-30 16:35:02,2017-11-30 16:35:02
+mapserver/mapserver,closed,5523,cc106829553aacbc82216aac4ef4fde538f62cc6,msautotest/wxs/expected/wcs_20_desc.xml,modified,1,1,gberaudo,2017-11-21 14:01:30,2017-11-21 14:01:30,2017-11-30 16:35:02,2017-11-30 16:35:02
+mapserver/mapserver,closed,5523,cd29e475a7de6b623abac1e75481299d91f7710c,msautotest/wxs/expected/wcs_20_desc_bands.xml,modified,1,1,gberaudo,2017-11-21 14:01:30,2017-11-21 14:01:30,2017-11-30 16:35:02,2017-11-30 16:35:02
+mapserver/mapserver,closed,5523,fa9862930b3f7a0290361da02b3e0763979bc69a,msautotest/wxs/expected/wcs_20_getcov_bands_name_new.dat,modified,0,0,gberaudo,2017-11-21 14:01:30,2017-11-21 14:01:30,2017-11-30 16:35:02,2017-11-30 16:35:02
+mapserver/mapserver,closed,5523,73d2ac5a873fd70a3c9bc6f007ebb612b1d61f76,msautotest/wxs/expected/wcs_20_getcov_bands_name_new_reproject.dat,modified,0,0,gberaudo,2017-11-21 14:01:30,2017-11-21 14:01:30,2017-11-30 16:35:02,2017-11-30 16:35:02
+mapserver/mapserver,closed,5523,54cbeb80e2490af84a01610ede8b2947a8a0197a,msautotest/wxs/expected/wcs_20_getcov_full.dat,modified,0,0,gberaudo,2017-11-21 14:01:30,2017-11-21 14:01:30,2017-11-30 16:35:02,2017-11-30 16:35:02
+mapserver/mapserver,closed,5523,6b5201e4380e452d9ada3161ce1e2efc8fff6b70,msautotest/wxs/expected/wcs_20_getcov_grd_mp.dat,modified,1,1,gberaudo,2017-11-21 14:01:30,2017-11-21 14:01:30,2017-11-30 16:35:02,2017-11-30 16:35:02
+mapserver/mapserver,closed,5523,5f89408dd5bf75d67f9cdb5160ce0f67318241d7,msautotest/wxs/expected/wcs_20_getcov_reproj.dat,modified,0,0,gberaudo,2017-11-21 14:01:30,2017-11-21 14:01:30,2017-11-30 16:35:02,2017-11-30 16:35:02
+mapserver/mapserver,closed,5523,fa9862930b3f7a0290361da02b3e0763979bc69a,msautotest/wxs/expected/wcs_20_post_bands_name_new.dat,modified,0,0,gberaudo,2017-11-21 14:01:30,2017-11-21 14:01:30,2017-11-30 16:35:02,2017-11-30 16:35:02
+mapserver/mapserver,closed,5523,6d3a863f9402cf829e5b9a902b9a34eaf81ca952,msautotest/wxs/expected/wcs_20_post_desc.xml,modified,1,1,gberaudo,2017-11-21 14:01:30,2017-11-21 14:01:30,2017-11-30 16:35:02,2017-11-30 16:35:02
+mapserver/mapserver,closed,5523,276c3f88fd5c8287018490fa93e8ef3b8e9fc3fe,msautotest/wxs/expected/wcs_20_post_getcov_full_multipart.dat,modified,0,0,gberaudo,2017-11-21 14:01:30,2017-11-21 14:01:30,2017-11-30 16:35:02,2017-11-30 16:35:02
+mapserver/mapserver,closed,5523,92a12141529779551cc8ef51d454b0230a2b3617,msautotest/wxs/expected/wcs_mask_20_getcov_full.dat,modified,0,0,gberaudo,2017-11-21 14:01:30,2017-11-21 14:01:30,2017-11-30 16:35:02,2017-11-30 16:35:02
+mapserver/mapserver,closed,5523,d85effa762aa2547ba2cb3585556c5ea9413b904,msautotest/wxs/expected/wcs_mask_20_getcov_grd_mp.dat,modified,1,1,gberaudo,2017-11-21 14:01:30,2017-11-21 14:01:30,2017-11-30 16:35:02,2017-11-30 16:35:02
+mapserver/mapserver,closed,5523,97ea6d78631d5ba067b6247693fd644d092a7c31,msautotest/wxs/expected/wcs_mask_20_getcov_reproj.dat,modified,0,0,gberaudo,2017-11-21 14:01:30,2017-11-21 14:01:30,2017-11-30 16:35:02,2017-11-30 16:35:02
+mapserver/mapserver,closed,5523,4cc4c0571257792b895dd607c02f3f87cdcb26d3,msautotest/wxs/wcs_multi.map,modified,9,8,gberaudo,2017-11-21 14:01:30,2017-11-21 14:01:30,2017-11-30 16:35:02,2017-11-30 16:35:02
+mapserver/mapserver,closed,5067,f8e06a82e84673251efba75cd787f24977c12614,xmlmapfile/tests/layerset.xml,modified,1,1,hobu,2015-02-11 19:20:08,2015-02-11 19:20:08,2015-02-11 19:52:16,NA
+mapserver/mapserver,closed,5405,5722b0460c45523bb31199cfafe605895df14ef8,msautotest/wxs/expected/ows_wms_rootlayer_name_capabilities.xml,added,103,0,NathanW2,2017-03-08 02:28:04,2017-03-08 02:28:04,2017-03-18 11:31:18,2017-03-18 11:31:18
+mapserver/mapserver,closed,5405,3fdcbb0ede6cd38f970528e97bb7905be5be9c72,msautotest/wxs/expected/ows_wms_rootlayer_name_empty_capabilities.xml,added,102,0,NathanW2,2017-03-08 02:28:04,2017-03-08 02:28:04,2017-03-18 11:31:18,2017-03-18 11:31:18
+mapserver/mapserver,closed,5405,75c21894ddce9303567b2eeb30be40b997568d09,msautotest/wxs/ows_wms_rootlayer_name.map,added,123,0,NathanW2,2017-03-08 02:28:04,2017-03-08 02:28:04,2017-03-18 11:31:18,2017-03-18 11:31:18
+mapserver/mapserver,closed,5405,db27f6cbeac32fed8327e693c8667c3d388f72ba,msautotest/wxs/ows_wms_rootlayer_name_empty.map,added,123,0,NathanW2,2017-03-08 02:28:04,2017-03-08 02:28:04,2017-03-18 11:31:18,2017-03-18 11:31:18
+mapserver/mapserver,closed,5376,709f1ebe08b4f561efc56d56bc15a0c7568a2287,msautotest/wxs/expected/ows_all_wms_capabilities.xml,modified,1,0,NathanW2,2017-01-24 04:44:23,2017-01-24 04:44:23,2018-03-27 20:36:40,2018-03-27 20:36:40
+mapserver/mapserver,closed,5376,709f1ebe08b4f561efc56d56bc15a0c7568a2287,msautotest/wxs/expected/ows_all_wms_capabilities_post.xml,modified,1,0,NathanW2,2017-01-24 04:44:23,2017-01-24 04:44:23,2018-03-27 20:36:40,2018-03-27 20:36:40
+mapserver/mapserver,closed,5376,a943fa0fcaac10f4acd18c77122c0576835a8982,msautotest/wxs/expected/ows_metadata_wms_capabilities111.xml,modified,1,0,NathanW2,2017-01-24 04:44:23,2017-01-24 04:44:23,2018-03-27 20:36:40,2018-03-27 20:36:40
+mapserver/mapserver,closed,5376,fdf282308b8ac83199d75155138ee09ba9d8dc33,msautotest/wxs/expected/ows_metadata_wms_capabilities130.xml,modified,1,0,NathanW2,2017-01-24 04:44:23,2017-01-24 04:44:23,2018-03-27 20:36:40,2018-03-27 20:36:40
+mapserver/mapserver,closed,5376,5e31243e6d813be112088b89b0ed8ce4e9cd3c02,msautotest/wxs/expected/ows_wms_capabilities.xml,modified,1,0,NathanW2,2017-01-24 04:44:23,2017-01-24 04:44:23,2018-03-27 20:36:40,2018-03-27 20:36:40
+mapserver/mapserver,closed,5376,128b8f49dde2b58d96cf3f9dab8c1fc28d309405,msautotest/wxs/expected/ows_wms_rootlayer_name_capabilities.xml,modified,1,0,NathanW2,2017-01-24 04:44:23,2017-01-24 04:44:23,2018-03-27 20:36:40,2018-03-27 20:36:40
+mapserver/mapserver,closed,5376,1c255c2d97398908b56ad59726505f21c4fa726b,msautotest/wxs/expected/ows_wms_rootlayer_name_empty_capabilities.xml,modified,1,0,NathanW2,2017-01-24 04:44:23,2017-01-24 04:44:23,2018-03-27 20:36:40,2018-03-27 20:36:40
+mapserver/mapserver,closed,5376,d662a309898fe25f26cb4674b92a4a6a7230b756,msautotest/wxs/expected/wms111_test_xml_escaping.xml,modified,1,0,NathanW2,2017-01-24 04:44:23,2017-01-24 04:44:23,2018-03-27 20:36:40,2018-03-27 20:36:40
+mapserver/mapserver,closed,5376,a6c8aacaeed3cd2304091d39461bb7ef7710e457,msautotest/wxs/expected/wms130_test_xml_escaping.xml,modified,1,0,NathanW2,2017-01-24 04:44:23,2017-01-24 04:44:23,2018-03-27 20:36:40,2018-03-27 20:36:40
+mapserver/mapserver,closed,5376,aa551c3e93543bef1c2ca09d40ddb455de765ec1,msautotest/wxs/expected/wms_dimension_cap.xml,modified,1,0,NathanW2,2017-01-24 04:44:23,2017-01-24 04:44:23,2018-03-27 20:36:40,2018-03-27 20:36:40
+mapserver/mapserver,closed,5376,0e76566beffa191fa68335add9d90d2a19c6c552,msautotest/wxs/expected/wms_dimension_cap130.xml,modified,1,0,NathanW2,2017-01-24 04:44:23,2017-01-24 04:44:23,2018-03-27 20:36:40,2018-03-27 20:36:40
+mapserver/mapserver,closed,5376,83efaf216b5c5993ecf45b55aeb8ce127128b07f,msautotest/wxs/expected/wms_empty_cap111.xml,modified,1,0,NathanW2,2017-01-24 04:44:23,2017-01-24 04:44:23,2018-03-27 20:36:40,2018-03-27 20:36:40
+mapserver/mapserver,closed,5376,cce1e1f07513878cd1bb38c388a37fad747f130b,msautotest/wxs/expected/wms_empty_cap130.xml,modified,1,0,NathanW2,2017-01-24 04:44:23,2017-01-24 04:44:23,2018-03-27 20:36:40,2018-03-27 20:36:40
+mapserver/mapserver,closed,5376,cce1e1f07513878cd1bb38c388a37fad747f130b,msautotest/wxs/expected/wms_empty_cap_latestversion.xml,modified,1,0,NathanW2,2017-01-24 04:44:23,2017-01-24 04:44:23,2018-03-27 20:36:40,2018-03-27 20:36:40
+mapserver/mapserver,closed,5376,81cc90b11ba6f6d5e23cf1f36c754140a99de60b,msautotest/wxs/expected/wms_get_capabilities_tileindexmixedsrs.xml,modified,1,0,NathanW2,2017-01-24 04:44:23,2017-01-24 04:44:23,2018-03-27 20:36:40,2018-03-27 20:36:40
+mapserver/mapserver,closed,5547,12e8f676875ebd9bcc8a01b7288057883aab7071,msautotest/wxs/expected/wms_client_111.html,added,27,0,tlaczy,2018-02-14 16:11:04,2018-02-14 16:11:04,2018-03-23 10:51:20,2018-03-23 10:51:20
+mapserver/mapserver,closed,5547,a49d1203ce2374731ab714f92b7f4cfc5ce7e462,msautotest/wxs/expected/wms_client_111.png,added,0,0,tlaczy,2018-02-14 16:11:04,2018-02-14 16:11:04,2018-03-23 10:51:20,2018-03-23 10:51:20
+mapserver/mapserver,closed,5547,844a971169c4b50126e6d41a421f083add94697c,msautotest/wxs/expected/wms_client_111_axis_fail.html,added,2,0,tlaczy,2018-02-14 16:11:04,2018-02-14 16:11:04,2018-03-23 10:51:20,2018-03-23 10:51:20
+mapserver/mapserver,closed,5547,e4d54b58dc691822f3075aa7cbe8674f78ae02b7,msautotest/wxs/expected/wms_client_111_axis_fail.png,added,0,0,tlaczy,2018-02-14 16:11:04,2018-02-14 16:11:04,2018-03-23 10:51:20,2018-03-23 10:51:20
+mapserver/mapserver,closed,5547,12e8f676875ebd9bcc8a01b7288057883aab7071,msautotest/wxs/expected/wms_client_130.html,added,27,0,tlaczy,2018-02-14 16:11:04,2018-02-14 16:11:04,2018-03-23 10:51:20,2018-03-23 10:51:20
+mapserver/mapserver,closed,5547,a49d1203ce2374731ab714f92b7f4cfc5ce7e462,msautotest/wxs/expected/wms_client_130.png,added,0,0,tlaczy,2018-02-14 16:11:04,2018-02-14 16:11:04,2018-03-23 10:51:20,2018-03-23 10:51:20
+mapserver/mapserver,closed,5547,844a971169c4b50126e6d41a421f083add94697c,msautotest/wxs/expected/wms_client_130_axis_fail.html,added,2,0,tlaczy,2018-02-14 16:11:04,2018-02-14 16:11:04,2018-03-23 10:51:20,2018-03-23 10:51:20
+mapserver/mapserver,closed,5547,e4d54b58dc691822f3075aa7cbe8674f78ae02b7,msautotest/wxs/expected/wms_client_130_axis_fail.png,added,0,0,tlaczy,2018-02-14 16:11:04,2018-02-14 16:11:04,2018-03-23 10:51:20,2018-03-23 10:51:20
+mapserver/mapserver,closed,5547,3d06f8f207014a4a225779cf878f4cb4b4efeece,msautotest/wxs/wms_client_111.map,added,58,0,tlaczy,2018-02-14 16:11:04,2018-02-14 16:11:04,2018-03-23 10:51:20,2018-03-23 10:51:20
+mapserver/mapserver,closed,5547,783f6db4a0eb40b96b88661146c6383a0abfb514,msautotest/wxs/wms_client_111_axis_fail.map,added,59,0,tlaczy,2018-02-14 16:11:04,2018-02-14 16:11:04,2018-03-23 10:51:20,2018-03-23 10:51:20
+mapserver/mapserver,closed,5547,876cffef6ad0dcfd48f7bea121be369b575d219e,msautotest/wxs/wms_client_130.map,added,58,0,tlaczy,2018-02-14 16:11:04,2018-02-14 16:11:04,2018-03-23 10:51:20,2018-03-23 10:51:20
+mapserver/mapserver,closed,5547,529bec7ef829b6573e634ed4f55fca5fa74139d2,msautotest/wxs/wms_client_130_axis_fail.map,added,59,0,tlaczy,2018-02-14 16:11:04,2018-02-14 16:11:04,2018-03-23 10:51:20,2018-03-23 10:51:20
+mapserver/mapserver,closed,4877,cdb21a0e46a045d6fa15af7106777e78a7307997,msautotest,modified,1,1,zidge,2014-03-03 12:49:41,2014-03-03 12:49:41,2014-03-07 15:38:44,2014-03-07 15:38:44
+mapserver/mapserver,closed,4875,4e40228d290e0c3e0775183a26a9fefa1c8a2ac0,msautotest,modified,1,1,zidge,2014-02-25 14:15:17,2014-02-25 14:15:17,2014-02-25 15:21:22,NA
+mruby/mruby,closed,2488,2a32f493009533521fb623df71bda3157e9a24ab,test/init_mrbtest.c,modified,1,0,Ancurio,2014-07-23 14:16:07,2014-07-23 14:16:07,2014-07-23 15:05:37,2014-07-23 15:05:37
+mruby/mruby,closed,3251,903c08aca5b4be64f8cba22d18f651dbb6107f64,mrbgems/mruby-inline-struct/test/inline.c,added,83,0,BanzaiMan,2016-11-16 21:13:57,2016-11-16 21:13:57,2016-11-17 08:21:11,NA
+mruby/mruby,closed,3251,49585923216638f51bc6f4f6ef3ccf3ab5635d4e,mrbgems/mruby-inline-struct/test/inline.rb,added,151,0,BanzaiMan,2016-11-16 21:13:57,2016-11-16 21:13:57,2016-11-17 08:21:11,NA
+mruby/mruby,closed,573,5e825c6b550511e5729024328b966a925b6d8572,test/t/module.rb,modified,24,0,darashi,2012-11-27 08:38:40,2012-11-27 08:38:40,2012-12-01 03:16:48,2012-12-01 03:16:48
+mruby/mruby,closed,1484,79e4360b52f38f984817634d9c292128d128f660,mrbgems/mruby-string-ext/test/string.rb,modified,1,0,fjmilens3,2013-08-22 21:54:26,2013-08-22 21:54:26,2013-08-26 11:16:50,2013-08-26 11:16:50
+mruby/mruby,closed,3253,c542c8f065947816d0551968e7ae98c31572b151,test/t/range.rb,modified,2,0,herwinw,2016-11-17 06:05:08,2016-11-17 06:05:08,2016-11-17 07:44:58,2016-11-17 07:44:58
+mruby/mruby,closed,2828,ee6fe084869d07124c15f31ccc6f08ac05326795,test/t/string.rb,modified,18,0,hiroshiyui,2015-06-08 08:33:16,2015-06-08 08:33:16,2015-06-08 12:52:52,2015-06-08 12:52:52
+mruby/mruby,closed,4022,0515cb136603bad5e89b278cfe49161a446f837a,mrbgems/mruby-bin-mirb/bintest/mirb.rb,modified,15,0,iwamatsu,2018-05-07 09:23:51,2018-05-07 09:23:51,2018-05-09 10:31:34,2018-05-09 10:31:34
+mruby/mruby,closed,4022,a7fb63fa247bcdf0dc8e353162b6396f2f548f17,mrbgems/mruby-bin-mruby/bintest/mruby.rb,modified,23,0,iwamatsu,2018-05-07 09:23:51,2018-05-07 09:23:51,2018-05-09 10:31:34,2018-05-09 10:31:34
+mruby/mruby,closed,2335,576a97151cd4a1811dbd2c76e272d690d6f6e95a,mrbgems/mruby-time/test/time.rb,modified,5,6,katmutua,2014-05-31 13:20:48,2014-05-31 13:20:48,2018-02-16 14:43:12,NA
+mruby/mruby,closed,3932,4e7b94a7c9cc2ed7c0e0926aafeef8b90211bce1,mrbgems/mruby-time/test/time.rb,modified,8,0,ken-mu,2018-01-20 13:59:10,2018-01-20 13:59:10,2018-01-21 12:10:02,2018-01-21 12:10:02
+mruby/mruby,closed,627,f671982fd84c72a1ee967caaff0442a1be47936f,test/Makefile,modified,1,1,liancheng,2012-12-14 04:43:57,2012-12-14 04:43:57,2012-12-15 02:20:07,2012-12-15 02:20:07
+mruby/mruby,closed,1860,3d6dfe268c1ebc85692f1588fdd7fbf440cbf767,mrbgems/mruby-fiber/test/fiber.rb,modified,83,38,mitchellh,2014-03-14 19:41:39,2014-03-14 19:41:39,2014-03-15 06:24:29,NA
+mruby/mruby,open,3468,3bed9b31ead2e4112b4ea7230f04cebd0d1624a1,mrbgems/mruby-binding/test/binding.rb,added,17,0,palkan,2017-02-25T07:10:50Z,2018-03-27T01:01:25Z,NA,NA
+mruby/mruby,open,3468,4acf9fb410de7074fba22aae32b6f3eae12d8164,mrbgems/mruby-eval/test/eval.rb,modified,1,1,palkan,2017-02-25T07:10:50Z,2018-03-27T01:01:25Z,NA,NA
+mruby/mruby,open,3983,a76fba8b162ac1d7b6cca1b8fc085fe97267e8ea,mrbgems/mruby-test/mrbgem.rake,modified,2,2,pyama86,2018-03-25T09:15:54Z,2018-03-25T11:39:56Z,NA,NA
+mruby/mruby,closed,3115,db4f2eeaa89aafcaa296b684dfc7f8e7b76e31e2,mrbgems/mruby-struct/test/struct.rb,modified,5,0,rmalizia44,2016-02-19 02:40:42,2016-02-19 02:40:42,2016-02-19 02:50:15,NA
+mruby/mruby,closed,4081,6675392b8c1827ab83d75eed7769e677201f4905,mrbgems/mruby-bin-debugger/bintest/print.rb,modified,1,1,sbsoftware,2018-08-10 15:29:58,2018-08-10 15:29:58,2018-08-11 01:35:14,2018-08-11 01:35:14
+mruby/mruby,closed,4081,6344219aa3b65c8e77173714d5a1502ee5cbb392,test/t/literals.rb,modified,1,1,sbsoftware,2018-08-10 15:29:58,2018-08-10 15:29:58,2018-08-11 01:35:14,2018-08-11 01:35:14
+mruby/mruby,closed,4081,fb82fc934e7b161f607ce197207ff42de9d2ddc7,test/t/module.rb,modified,2,2,sbsoftware,2018-08-10 15:29:58,2018-08-10 15:29:58,2018-08-11 01:35:14,2018-08-11 01:35:14
+mruby/mruby,closed,579,0501608e51e2b0267c09cbcd63d63d61e43b42ad,test/t/syntax.rb,modified,11,0,shtirlic,2012-11-30 14:41:04,2012-11-30 14:41:04,2012-12-01 03:12:10,2012-12-01 03:12:10
+mruby/mruby,closed,3346,20dc49d9282a6785773adf80e025cdf4f11aa965,test/t/string.rb,modified,4,0,takjn,2016-12-15 14:44:04,2016-12-15 14:44:04,2016-12-17 03:18:35,2016-12-17 03:18:35
+mruby/mruby,open,2321,f292c08c889220ceb7d29db0f0c36b0903f23168,test/assert.rb,modified,3,0,windwiny,2014-05-25T13:26:59Z,2018-01-31T03:11:14Z,NA,NA
+mruby/mruby,open,2321,6d99d03155f0c72ad5a8d54c273e5f292a07ea99,test/iso.rb,added,350,0,windwiny,2014-05-25T13:26:59Z,2018-01-31T03:11:14Z,NA,NA
+mruby/mruby,open,2321,3f12751a301f349d6c49cff7a7c36088ec8451f0,test/mrbtest.rake,modified,1,1,windwiny,2014-05-25T13:26:59Z,2018-01-31T03:11:14Z,NA,NA
+neovim/neovim,closed,259,cb4abdba7eaca7551334903d5fb78219c686d2bc,test/unit/os/fs.moon,added,91,0,a13xb,2014-03-02 23:26:54,2014-03-02 23:26:54,2014-03-03 11:54:16,NA
+neovim/neovim,closed,4996,16b194dd7d77a78e1a0380227873113468941017,test/functional/ex_cmds/drop_spec.lua,added,80,0,akavel,2016-07-01 10:28:43,2016-07-01 10:28:43,2016-07-01 15:11:34,2016-07-01 15:11:34
+neovim/neovim,closed,8892,8baef4faf0524dbf64aa8b927c6076335718567d,src/nvim/testdir/Makefile,modified,1,0,alecbrooks,2018-08-23 16:02:14,2018-08-23 16:02:14,2018-08-23 17:13:06,2018-08-23 17:13:06
+neovim/neovim,closed,8892,4a8d59952e4510b7d77318ec533bd70162a6f67d,src/nvim/testdir/test_blockedit.vim,added,20,0,alecbrooks,2018-08-23 16:02:14,2018-08-23 16:02:14,2018-08-23 17:13:06,2018-08-23 17:13:06
+neovim/neovim,closed,2826,37d9ec85c46f24debf821762e42abaa834b8bc8f,src/nvim/testdir/Makefile,modified,1,2,alecbrooks,2015-06-11 11:32:34,2015-06-11 11:32:34,2015-06-12 16:52:22,NA
+neovim/neovim,open,7946,1144392609ff4a705c4bf5f8546a8104a48e7b45,src/nvim/testdir/test_autocmd.vim,modified,12,0,AlexandreDubray,2018-01-31T15:32:42Z,2018-09-08T11:03:15Z,NA,NA
+neovim/neovim,closed,7456,4cbd800da56ade06ae488680087794d2728ed693,src/nvim/testdir/test_profile.vim,modified,37,1,billyvg,2017-10-29 16:40:48,2017-10-29 16:40:48,2017-10-30 08:49:51,2017-10-30 08:49:51
+neovim/neovim,closed,6090,f525d39293e08cfead1a7953252615535d6a7388,test/functional/insert/last_inserted_spec.lua,added,24,0,BrusiRoy,2017-02-10 17:27:41,2017-02-10 17:27:41,2017-02-28 00:20:18,NA
+neovim/neovim,closed,827,e63ff369f2a2d7126c5452fa01396b6047b7aeaf,test/unit/formatc.lua,modified,1,1,camponez,2014-06-08 18:55:51,2014-06-08 18:55:51,2014-06-13 00:29:40,NA
+neovim/neovim,closed,827,43fd663d9a057d6f539a8d3ab700cd7a40f1961d,test/unit/os/env.moon,modified,1,1,camponez,2014-06-08 18:55:51,2014-06-08 18:55:51,2014-06-13 00:29:40,NA
+neovim/neovim,closed,827,7f6114550131b6798e94df918310e2f24c29ff8c,test/unit/os/fs.moon,modified,4,4,camponez,2014-06-08 18:55:51,2014-06-08 18:55:51,2014-06-13 00:29:40,NA
+neovim/neovim,closed,827,762bad09a20706a3fe8d95c460bc3541c476a6ec,test/unit/path.moon,modified,5,5,camponez,2014-06-08 18:55:51,2014-06-08 18:55:51,2014-06-13 00:29:40,NA
+neovim/neovim,closed,827,aa74b8ce24af700a5e50469eba9471b7c54b3a2c,test/unit/preprocess.moon,modified,1,1,camponez,2014-06-08 18:55:51,2014-06-08 18:55:51,2014-06-13 00:29:40,NA
+neovim/neovim,closed,827,affbd5c29aeaadec6dd50a2d83ebbf8506d15d6f,test/unit/set.moon,modified,1,1,camponez,2014-06-08 18:55:51,2014-06-08 18:55:51,2014-06-13 00:29:40,NA
+neovim/neovim,closed,2044,6ffba02d219fd3ac2a97bfdf3c190ef5f57239cd,test/functional/ui/screen_basic_spec.lua,modified,93,0,carlosdcastillo,2015-02-22 23:21:56,2015-02-22 23:21:56,2015-02-23 16:47:07,NA
+neovim/neovim,closed,2044,259ae8bded68348f0aaff6bdd54cf28113ee0c72,test/functional/ui/syntax_conceal_spec.lua,added,128,0,carlosdcastillo,2015-02-22 23:21:56,2015-02-22 23:21:56,2015-02-23 16:47:07,NA
+neovim/neovim,closed,4808,2fba6dd563e1b69ca6c5d3e98e583726f60277c3,src/nvim/testdir/Makefile,modified,1,1,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,4808,5b34b4fc3179b721e41d06fad7a424321581dda1,src/nvim/testdir/runtest.vim,modified,0,3,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,4808,272500cd2596f766e58a6f84a97d5c1514a17fd4,src/nvim/testdir/test1.in,modified,0,34,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,4808,2178cf41ce2d1dcf745054a5a5479252a6b35fd7,src/nvim/testdir/test10.in,modified,0,3,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,4808,99a5a03db881d2f37dccd322efcaf3c4be2afda5,src/nvim/testdir/test10a.in,modified,0,1,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,4808,0c0623e5d4d67bb8f52003f6f078f6d0fc538866,src/nvim/testdir/test12.in,modified,0,1,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,4808,fa9ba312b70889d825d4cc007464d7fc2a1f1b4e,src/nvim/testdir/test13.in,modified,0,1,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,4808,bef2e45431f0920e93cda9ac4900052611a079b1,src/nvim/testdir/test14.in,modified,0,1,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,4808,83abe177705e2e9afd704d6363d200d28eb24530,src/nvim/testdir/test17.in,modified,0,1,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,4808,56d5d5c6c23719964ed4218332dd08f31c612d73,src/nvim/testdir/test30.in,modified,0,1,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,4808,76bd9be889f355bc30683f452e5f820048617249,src/nvim/testdir/test32.in,modified,0,1,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,4808,4cb7e9494a1daab5f367c382fa810ffff17b8829,src/nvim/testdir/test34.in,modified,0,1,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,4808,156bf74a10af4a0697b47db6f8e788ed698c1897,src/nvim/testdir/test37.in,modified,1,1,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,4808,b0285709e5778e71c4837cd3229aeea7b00f8dc4,src/nvim/testdir/test40.in,modified,0,1,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,4808,0ea0198d12e0effdc7655f6f320351a63ed96811,src/nvim/testdir/test42.in,modified,0,0,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,4808,c95c6a68508fe91edded3f0b4e8cf4891109f6c5,src/nvim/testdir/test47.in,modified,0,1,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,4808,1df5a3c46acead67e44eca78f7c10ab5dfe67704,src/nvim/testdir/test48.in,modified,0,1,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,4808,435e62765bb45076dd9af78e94cdeaa90fd345bd,src/nvim/testdir/test49.in,modified,0,1,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,4808,392177b808a3200ca2cd10f962d32a1a9b0f4f3f,src/nvim/testdir/test50.in,modified,0,1,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,4808,fa751291935625cb56635107ff0364ba9c963b3b,src/nvim/testdir/test52.in,modified,0,1,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,4808,f3778c5192b6c0359f921ec0d7d9258009cab497,src/nvim/testdir/test53.in,modified,0,1,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,4808,9a55eac6f6e076173811678131a6fc94c3629b00,src/nvim/testdir/test55.in,modified,0,1,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,4808,c4585ecbceb0acf928c31e8efb2724e94d535059,src/nvim/testdir/test64.in,modified,0,1,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,4808,39b360fc81e0558b8ad0b716ba6336180570a46e,src/nvim/testdir/test69.in,modified,1,1,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,4808,7d6c7287a5f90046b36bfcb9d7588136ca94789c,src/nvim/testdir/test73.in,modified,0,1,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,4808,a5e603478282c22b930ba939dfb9225aaaf051eb,src/nvim/testdir/test8.in,modified,0,3,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,4808,b5bac080eeda1b5e658526ac4668208831cc3214,src/nvim/testdir/test_listlbr.in,modified,0,1,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,4808,a194b5f44c4e9a8e926821604347859de04b98d4,test/benchmark/bench_re_freeze_spec.lua,modified,2,2,Clement0,2016-05-22 20:26:54,2016-05-22 20:26:54,2016-05-22 21:51:52,2016-05-22 21:51:52
+neovim/neovim,closed,5507,045bdb074909e31c8e18c4e4237650440562570e,test/functional/terminal/api_spec.lua,modified,11,1,cmcaine,2016-10-19 13:22:06,2016-10-19 13:22:06,2016-10-19 20:12:37,2016-10-19 20:12:37
+neovim/neovim,closed,45,8915328a8f0fcbb1c0315f63b024e2fc410fbf38,src/testdir/Makefile,modified,1,1,Coornail,2014-02-22 15:32:59,2014-02-22 15:32:59,2014-02-24 17:55:44,NA
+neovim/neovim,closed,45,f5e6d56bc3f6d9e884aca724375833295f638ec6,src/testdir/test49.vim,modified,1,1,Coornail,2014-02-22 15:32:59,2014-02-22 15:32:59,2014-02-24 17:55:44,NA
+neovim/neovim,closed,2383,30f37a74638b76f55f027ddeb34fe78ab14d899e,test/functional/ui/mouse_spec.lua,modified,64,0,critiqjo,2015-04-09 02:15:59,2015-04-09 02:15:59,2015-04-28 14:09:31,2015-04-28 14:09:31
+neovim/neovim,open,8952,0126fae406ba74182ecd703827584b490396acba,src/nvim/testdir/test_spell.vim,modified,71,0,danielBelenky,2018-09-03T14:41:45Z,2018-09-20T01:53:11Z,NA,NA
+neovim/neovim,closed,8958,f8488ca7a3457da4fc6bff7e8bdf8bff7a3d6794,test/functional/core/job_spec.lua,modified,1,1,danielBelenky,2018-09-05 06:55:35,2018-09-05 06:55:35,2018-09-05 20:06:00,NA
+neovim/neovim,closed,4972,325f41e50687cffd1fca7e008ae270f73aab868e,test/functional/helpers.lua,modified,12,2,danobi,2016-06-26 22:31:05,2016-06-26 22:31:05,2016-09-23 10:31:05,2016-09-23 10:31:05
+neovim/neovim,closed,4972,58d6c759401d6440682bcbb803b609387f582d1c,test/functional/terminal/api_spec.lua,added,60,0,danobi,2016-06-26 22:31:05,2016-06-26 22:31:05,2016-09-23 10:31:05,2016-09-23 10:31:05
+neovim/neovim,closed,5326,564ab53b0db4750a699df7f78bfa6a664399fff1,src/nvim/testdir/test_alot.vim,modified,1,0,davix,2016-09-11 11:32:18,2016-09-11 11:32:18,2016-09-17 04:27:45,NA
+neovim/neovim,closed,5326,809442eb941c774d999d0df34c56dbcf606d6eac,src/nvim/testdir/test_syn_attr.vim,added,24,0,davix,2016-09-11 11:32:18,2016-09-11 11:32:18,2016-09-17 04:27:45,NA
+neovim/neovim,closed,5326,184853b0255b3f704e4ef11c5df6cb04e674ca88,test/functional/terminal/highlight_spec.lua,modified,2,2,davix,2016-09-11 11:32:18,2016-09-11 11:32:18,2016-09-17 04:27:45,NA
+neovim/neovim,closed,5319,83a81b9bc6850329b0cba0b891adcd914b56cc06,test/functional/terminal/highlight_spec.lua,modified,53,2,davix,2016-09-10 13:22:58,2016-09-10 13:22:58,2016-09-15 22:55:04,NA
+neovim/neovim,closed,3160,c5a75650c0de974dfa200acefc904ef5f8eddfa9,.ci/common/test.sh,modified,19,0,dkns,2015-08-12 04:38:57,2015-08-12 04:38:57,2015-08-12 04:59:48,NA
+neovim/neovim,closed,9129,939404cb5ec6682fea0dacdf393010acdd633170,test/functional/legacy/008_autocommands_spec.lua,modified,17,28,dm1try,2018-10-15 00:54:42,2018-10-15 00:54:42,2018-10-17 07:24:46,2018-10-17 07:24:46
+neovim/neovim,open,6073,aafc2696336174d9dc3ede086b5ee6af66c1003b,test/functional/legacy/045_folding_spec.lua,modified,23,0,enishina,2017-02-07T19:09:05Z,2018-05-07T07:41:30Z,NA,NA
+neovim/neovim,open,6073,665a9cbd8c67cab6206bbfce56c761616ae27d3a,test/functional/ui/fold_spec.lua,added,265,0,enishina,2017-02-07T19:09:05Z,2018-05-07T07:41:30Z,NA,NA
+neovim/neovim,closed,6098,6090c217c5a5795407b25c2b65307d6aa71e1954,.ci/common/test.sh,modified,1,1,enishina,2017-02-11 22:41:05,2017-02-11 22:41:05,2017-02-12 00:02:55,2017-02-12 00:02:55
+neovim/neovim,closed,6098,38e0f35213e720e4bdda8f834bdeb83f99078d0e,cmake/RunTests.cmake,modified,1,1,enishina,2017-02-11 22:41:05,2017-02-11 22:41:05,2017-02-12 00:02:55,2017-02-12 00:02:55
+neovim/neovim,closed,6098,799eeed7d895f299642878ad991544772ec76e47,src/nvim/testdir/Makefile,modified,4,4,enishina,2017-02-11 22:41:05,2017-02-11 22:41:05,2017-02-12 00:02:55,2017-02-12 00:02:55
+neovim/neovim,closed,6098,adbabd61b9477bf06873037b5a440d61d1b44c18,src/nvim/testdir/test49.vim,modified,1,1,enishina,2017-02-11 22:41:05,2017-02-11 22:41:05,2017-02-12 00:02:55,2017-02-12 00:02:55
+neovim/neovim,closed,6098,4db658d98c80fa2b4d0c577bcadb217c4b6c51ee,test/functional/helpers.lua,modified,2,1,enishina,2017-02-11 22:41:05,2017-02-11 22:41:05,2017-02-12 00:02:55,2017-02-12 00:02:55
+neovim/neovim,closed,4325,1c9b1ccee6aed7c6be55cd5bff04b9b2880849cd,test/functional/legacy/searchpos_spec.lua,added,35,0,ffleming,2016-02-22 19:33:05,2016-02-22 19:33:05,2016-04-25 08:17:46,2016-04-25 08:17:46
+neovim/neovim,open,2603,2f7320a627e9020832960519217a2d65d895671e,test/functional/api/server_requests_spec.lua,modified,53,0,frederikvs,2015-05-06T23:25:07Z,2018-04-02T10:19:18Z,NA,NA
+neovim/neovim,closed,7850,0c25945274fc27451913f69a55d1c5a285b11885,src/nvim/testdir/Makefile,modified,1,0,fszymanski,2018-01-14 12:57:43,2018-01-14 12:57:43,2018-01-15 21:45:54,2018-01-15 21:45:54
+neovim/neovim,closed,7850,9a16833a4c3b4fea1064c9d0082eb138fe94c48a,src/nvim/testdir/test_arabic.vim,added,472,0,fszymanski,2018-01-14 12:57:43,2018-01-14 12:57:43,2018-01-15 21:45:54,2018-01-15 21:45:54
+neovim/neovim,closed,7850,c3d4be9cf9cb09ac539964cb0eb4a985a99f0fce,src/nvim/testdir/test_diffmode.vim,modified,75,0,fszymanski,2018-01-14 12:57:43,2018-01-14 12:57:43,2018-01-15 21:45:54,2018-01-15 21:45:54
+neovim/neovim,closed,7850,56a4cc9b311cbb0b43683839f01eac64d9105949,src/nvim/testdir/test_listlbr_utf8.vim,modified,27,0,fszymanski,2018-01-14 12:57:43,2018-01-14 12:57:43,2018-01-15 21:45:54,2018-01-15 21:45:54
+neovim/neovim,closed,4991,240fe58402c80f00c7eb52f58e233def1fa6d716,test/functional/viml/lang_spec.lua,added,22,0,george-b,2016-07-01 05:47:35,2016-07-01 05:47:35,2016-07-09 20:56:17,2016-07-09 20:56:17
+neovim/neovim,closed,4140,8155353fc7c677c82280eeeb29bc87eb9a5f6dbe,scripts/legacy2luatest.pl,modified,1,1,george-b,2016-01-31 14:07:03,2016-01-31 14:07:03,2016-02-15 06:51:32,2016-02-15 06:51:32
+neovim/neovim,closed,4140,d807e69b681e0ec4cd9a2d4cd9b5800b54554a55,test/functional/legacy/search_mbyte_spec.lua,added,31,0,george-b,2016-01-31 14:07:03,2016-01-31 14:07:03,2016-02-15 06:51:32,2016-02-15 06:51:32
+neovim/neovim,closed,7430,dc3ba38438dfc7077dd1cf148535bc4bebadfc65,test/functional/options/tabstop_spec.lua,added,23,0,glacambre,2017-10-22 11:53:36,2017-10-22 11:53:36,2017-10-22 14:43:44,2017-10-22 14:43:44
+neovim/neovim,closed,8790,d1cddbe06a86417db834796e5216aa55771413d2,test/functional/ui/cursor_spec.lua,modified,45,1,hyatskov,2018-07-26 19:35:03,2018-07-26 19:35:03,2018-08-14 10:33:12,2018-08-14 10:33:12
+neovim/neovim,closed,8790,872a9d320023b886ab96c28e0d0f3e08d70fb303,test/functional/ui/screen.lua,modified,11,0,hyatskov,2018-07-26 19:35:03,2018-07-26 19:35:03,2018-08-14 10:33:12,2018-08-14 10:33:12
+neovim/neovim,open,8201,aa27732608841a1167f8f649910b33cfda135923,test/functional/options/writedelay_spec.lua,added,16,0,iTakeshi,2018-03-28T22:07:06Z,2018-04-24T13:48:39Z,NA,NA
+neovim/neovim,closed,6973,2ef74196ee28833f61653f8762c826148fb39762,test/functional/legacy/051_highlight_spec.lua,modified,1,0,ivanbrennan,2017-07-06 17:28:03,2017-07-06 17:28:03,2017-08-22 18:01:51,2017-08-22 18:01:51
+neovim/neovim,closed,6947,aa556b563d717fe2220b9f7a495a4356afa4e074,test/functional/api/keymap_spec.lua,modified,90,24,ivanbrennan,2017-07-02 17:01:05,2017-07-02 17:01:05,2017-07-03 21:33:09,2017-07-03 21:33:09
+neovim/neovim,closed,6947,bec74f05fc9c21c57254662bd829e8aae8296d77,test/unit/eval/typval_spec.lua,modified,34,2,ivanbrennan,2017-07-02 17:01:05,2017-07-02 17:01:05,2017-07-03 21:33:09,2017-07-03 21:33:09
+neovim/neovim,closed,3599,a94880d4a27af9644dd24ad993e3122c02fb642a,test/functional/provider/python3_spec.lua,modified,1,0,ivegotasthma,2015-11-04 10:05:06,2015-11-04 10:05:06,2015-11-04 11:34:41,2015-11-04 11:34:41
+neovim/neovim,closed,3599,da45d6aa00e4d9c0c2f8c9d67be16c917f7186c9,test/functional/provider/python_spec.lua,modified,1,0,ivegotasthma,2015-11-04 10:05:06,2015-11-04 10:05:06,2015-11-04 11:34:41,2015-11-04 11:34:41
+neovim/neovim,closed,1028,d8bd8a70318fb60c595c4f441f6276ac229f89aa,test/functional/ex_cmds/wundo_spec.lua,added,20,0,ivegotasthma,2014-08-03 17:18:15,2014-08-03 17:18:15,2014-10-30 00:52:16,2014-10-30 00:52:16
+neovim/neovim,closed,699,155fd413bca173f28a2fe943d62643c9a7af19ac,src/nvim/testdir/test71.in,removed,0,67,jdavis,2014-05-07 16:09:28,2014-05-07 16:09:28,2014-05-20 11:32:27,NA
+neovim/neovim,closed,699,24652c4380a078a9555bf2eecf7321fd489aa7bd,src/nvim/testdir/test71.ok,removed,0,10,jdavis,2014-05-07 16:09:28,2014-05-07 16:09:28,2014-05-20 11:32:27,NA
+neovim/neovim,closed,699,85bd22cd01b00552fa6a4d9d1a63dfcc5c81424b,src/nvim/testdir/test71a.in,removed,0,14,jdavis,2014-05-07 16:09:28,2014-05-07 16:09:28,2014-05-20 11:32:27,NA
+neovim/neovim,closed,699,0821764c3cca3104d52304c59a01f717659f74dc,src/nvim/testdir/test72.in,modified,0,46,jdavis,2014-05-07 16:09:28,2014-05-07 16:09:28,2014-05-20 11:32:27,NA
+neovim/neovim,open,7836,09499491bbd01e3a2a6c87a247274218e49ca9b4,test/functional/ex_cmds/mksession_spec.lua,modified,19,0,kartik-s,2018-01-09T20:33:51Z,2018-01-24T09:06:06Z,NA,NA
+neovim/neovim,closed,7842,fe6b50a544a14c499448c4b2a1c0475a3a354192,test/functional/eval/fnamemodify_spec.lua,added,39,0,kartik-s,2018-01-11 16:07:21,2018-01-11 16:07:21,2018-01-29 21:56:35,2018-01-29 21:56:35
+neovim/neovim,closed,7842,7e859bf0cf9caac32f1ddf493395871a5819158f,test/functional/legacy/fnamemodify_spec.lua,modified,13,9,kartik-s,2018-01-11 16:07:21,2018-01-11 16:07:21,2018-01-29 21:56:35,2018-01-29 21:56:35
+neovim/neovim,open,8349,f66932a8a3554ec707c1ac7419097692af6b77d4,test/functional/viml/completion_spec.lua,modified,114,0,kwon-young,2018-05-01T22:18:46Z,2018-06-25T02:18:31Z,NA,NA
+neovim/neovim,closed,6432,3ec3ffd08cb71e46140d26e8a0961aafb00653c7,test/functional/ui/cursor_spec.lua,modified,7,3,leonerd,2017-04-03 14:23:17,2017-04-03 14:23:17,2017-04-04 13:26:34,2017-04-04 13:26:33
+neovim/neovim,closed,6432,ff71194dabf44362aa6236c2e0a5b8af846e238e,test/functional/ui/screen.lua,modified,2,1,leonerd,2017-04-03 14:23:17,2017-04-03 14:23:17,2017-04-04 13:26:34,2017-04-04 13:26:33
+neovim/neovim,open,8348,1a11aa33774f290030754f0ff83a3c49a5b1abf2,src/nvim/testdir/Makefile,modified,28,53,lePerdu,2018-05-01T20:38:47Z,2018-05-20T17:07:04Z,NA,NA
+neovim/neovim,open,8348,b6e9fe6c0e0dc02505527012a353ceaca9d2ed97,src/nvim/testdir/runnvim.sh,modified,112,11,lePerdu,2018-05-01T20:38:47Z,2018-05-20T17:07:04Z,NA,NA
+neovim/neovim,open,8348,bca9e419c550533a2fa8d8e433772eaddbe8e897,src/nvim/testdir/runnvim.vim,modified,3,1,lePerdu,2018-05-01T20:38:47Z,2018-05-20T17:07:04Z,NA,NA
+neovim/neovim,open,8348,6575aec9635da8f9829a3c929f5eb77e9146774b,src/nvim/testdir/test_cmdline.vim,modified,3,0,lePerdu,2018-05-01T20:38:47Z,2018-05-20T17:07:04Z,NA,NA
+neovim/neovim,open,8348,69af3eb0596f628894822ea96c87a48c63fb74dc,src/nvim/testdir/test_findfile.vim,modified,4,13,lePerdu,2018-05-01T20:38:47Z,2018-05-20T17:07:04Z,NA,NA
+neovim/neovim,open,8348,e94257fb6a0f443e35cde32f66c15d510088fd20,src/nvim/testdir/test_statusline.vim,modified,1,1,lePerdu,2018-05-01T20:38:47Z,2018-05-20T17:07:04Z,NA,NA
+neovim/neovim,closed,7408,ec48f030c1ddd306e83483d784221cc62ff953c8,src/nvim/testdir/test_nested_function.vim,modified,4,0,lePerdu,2017-10-18 13:56:14,2017-10-18 13:56:14,2017-10-18 20:56:22,NA
+neovim/neovim,closed,7713,5f2c4fa420de3730f0ac182340c4da69ad2fafe4,test/functional/core/main_spec.lua,added,133,0,Mattemagikern,2017-12-10 11:12:51,2017-12-10 11:12:51,2017-12-10 13:19:27,NA
+neovim/neovim,closed,7713,aef6302da389deb84f627999a6896e0a8f678584,test/helpers.lua,modified,51,2,Mattemagikern,2017-12-10 11:12:51,2017-12-10 11:12:51,2017-12-10 13:19:27,NA
+neovim/neovim,closed,7713,1cb811d57964974243b6d202a1b8929b02b9e90d,test/includes/pre/sys/stat.h,modified,3,1,Mattemagikern,2017-12-10 11:12:51,2017-12-10 11:12:51,2017-12-10 13:19:27,NA
+neovim/neovim,closed,7713,ef2ee9b8e94b07a95c5ae6214992f08d9e76f69e,test/unit/helpers.lua,modified,1,1,Mattemagikern,2017-12-10 11:12:51,2017-12-10 11:12:51,2017-12-10 13:19:27,NA
+neovim/neovim,closed,7713,4d58a8934e44915925aa6720b7cddb968088a0c7,test/unit/os/fileio_spec.lua,modified,4,4,Mattemagikern,2017-12-10 11:12:51,2017-12-10 11:12:51,2017-12-10 13:19:27,NA
+neovim/neovim,closed,7713,667dbeed7762462f610a3fd2642c4f34fab40ef9,test/unit/os/fs_spec.lua,modified,19,3,Mattemagikern,2017-12-10 11:12:51,2017-12-10 11:12:51,2017-12-10 13:19:27,NA
+neovim/neovim,closed,7713,1073855a7d5f98b61838e4f58c8b5db83970346c,test/unit/preprocess.lua,modified,15,43,Mattemagikern,2017-12-10 11:12:51,2017-12-10 11:12:51,2017-12-10 13:19:27,NA
+neovim/neovim,closed,2054,5e039a77517dc4cfd1e6b14fab4bf60776477b97,test/functional/job/CMakeLists.txt,modified,1,1,McKizzle,2015-02-24 19:05:10,2015-02-24 19:05:10,2015-03-09 09:39:04,NA
+neovim/neovim,closed,2042,3242d75f641eff658af9e89de80df85bc7c63acd,test/unit/file_search_spec.lua,added,150,0,McKizzle,2015-02-22 15:57:36,2015-02-22 15:57:36,2017-03-02 23:32:46,NA
+neovim/neovim,closed,9111,18213bc149adc3fe6a18c5fc8bdee6479fed242b,src/nvim/testdir/test_eval_stuff.vim,modified,11,0,miseran,2018-10-12 11:07:13,2018-10-12 11:07:13,2018-10-18 22:43:06,NA
+neovim/neovim,closed,1141,26bf35aa946b46c751aba6d3bab7b7551ae03730,src/nvim/testdir/Makefile,modified,2,1,mkwork,2014-09-06 15:41:18,2014-09-06 15:41:18,2014-10-01 03:03:48,2014-10-01 03:03:48
+neovim/neovim,closed,1141,420465ce26da69eb49dc974fd564038c900c5e61,src/nvim/testdir/test_system.in,added,0,0,mkwork,2014-09-06 15:41:18,2014-09-06 15:41:18,2014-10-01 03:03:48,2014-10-01 03:03:48
+neovim/neovim,closed,1141,aa60536c3b4c378a88d68a45343a1b16c9e9a14b,src/nvim/testdir/test_system.ok,added,3,0,mkwork,2014-09-06 15:41:18,2014-09-06 15:41:18,2014-10-01 03:03:48,2014-10-01 03:03:48
+neovim/neovim,closed,1083,cc6226a4981a8adfeb643d31faeee372a191b25a,.ci/gcc-unittest.sh,modified,1,1,mraghavan,2014-08-18 17:00:01,2014-08-18 17:00:01,2015-08-31 07:41:24,NA
+neovim/neovim,closed,1062,a7f9dd8fa15b473b2ac4bcc1f5e7c865410ad58b,src/nvim/testdir/Makefile,modified,4,2,mraghavan,2014-08-13 19:47:21,2014-08-13 19:47:21,2014-08-20 04:18:14,2014-08-20 04:18:14
+neovim/neovim,closed,1062,bf1232a223474ae0267e5310faff181de53cebf5,src/nvim/testdir/test_options.in,added,17,0,mraghavan,2014-08-13 19:47:21,2014-08-13 19:47:21,2014-08-20 04:18:14,2014-08-20 04:18:14
+neovim/neovim,closed,1062,a2e1494a1f60f32ab22f06646db7a4ef7c6218ca,src/nvim/testdir/test_options.ok,added,2,0,mraghavan,2014-08-13 19:47:21,2014-08-13 19:47:21,2014-08-20 04:18:14,2014-08-20 04:18:14
+neovim/neovim,closed,2369,1a3f54146e287a3a1ddafcb57b1e789a9b3fde59,scripts/legacy2luatest.pl,modified,6,10,muralisc,2015-04-07 15:45:32,2015-04-07 15:45:32,2015-04-09 15:42:23,NA
+neovim/neovim,closed,2366,5ccde6ff2e96809c77898ca9df39a4abca3093f5,src/nvim/testdir/Makefile,modified,2,2,muralisc,2015-04-07 08:14:50,2015-04-07 08:14:50,2015-04-07 23:15:38,NA
+neovim/neovim,closed,2366,7b1a13488f1c98883ebf69094d8268bed018b9f1,src/nvim/testdir/test44.in,removed,0,74,muralisc,2015-04-07 08:14:50,2015-04-07 08:14:50,2015-04-07 23:15:38,NA
+neovim/neovim,closed,2366,d9a1206cc2ab47b3a53a73206a5a33b8d32007c4,src/nvim/testdir/test44.ok,removed,0,26,muralisc,2015-04-07 08:14:50,2015-04-07 08:14:50,2015-04-07 23:15:38,NA
+neovim/neovim,closed,2366,32bc68cce48951faed2385117b9d66b72afebe2b,src/nvim/testdir/test99.in,removed,0,68,muralisc,2015-04-07 08:14:50,2015-04-07 08:14:50,2015-04-07 23:15:38,NA
+neovim/neovim,closed,2366,0bd0b8ab7341ca9d34a028111fc33250054eb53c,src/nvim/testdir/test99.ok,removed,0,24,muralisc,2015-04-07 08:14:50,2015-04-07 08:14:50,2015-04-07 23:15:38,NA
+neovim/neovim,closed,2366,de628b0b52aac994fb1c573a8ef34fd0eb6580ef,test/functional/legacy/044_099_regexp_multibyte_magic_spec.lua,added,147,0,muralisc,2015-04-07 08:14:50,2015-04-07 08:14:50,2015-04-07 23:15:38,NA
+neovim/neovim,closed,1584,14f620202bbc3a26fda59584ec2fc5e903c70bda,test/functional/job/job_spec.lua,modified,43,7,oakes,2014-11-30 20:35:32,2014-11-30 20:35:32,2015-04-07 17:09:15,NA
+neovim/neovim,closed,6559,60f30dcfe69088cad359f892c373525adcf31289,test/functional/api/vim_spec.lua,modified,8,1,othonalberto,2017-04-21 02:35:05,2017-04-21 02:35:05,2017-04-22 12:36:19,NA
+neovim/neovim,closed,6559,f108a2c81da809d6f3adb78b91f7e08864a6223b,test/functional/provider/python3_spec.lua,modified,12,1,othonalberto,2017-04-21 02:35:05,2017-04-21 02:35:05,2017-04-22 12:36:19,NA
+neovim/neovim,closed,6559,7d9cd6c026301d984ceec4a7c437389e43f6c065,test/functional/ui/screen.lua,modified,3,2,othonalberto,2017-04-21 02:35:05,2017-04-21 02:35:05,2017-04-22 12:36:19,NA
+neovim/neovim,closed,8966,e35c0f110534f83248c594abd91622c02837e040,src/nvim/testdir/test_syntax.vim,modified,25,1,P4Cu,2018-09-07 12:35:41,2018-09-07 12:35:41,2018-09-21 08:27:50,2018-09-21 08:27:50
+neovim/neovim,closed,5411,94d6b8735fe3272c778aec36701cf6a0dee207cf,src/nvim/testdir/test_syn_attr.vim,modified,6,2,raacker,2016-09-30 13:28:52,2016-09-30 13:28:52,2016-10-09 00:51:32,2016-10-09 00:51:32
+neovim/neovim,closed,5205,a2a595b96f2eb60815e44ed19a5f42191f63c726,test/functional/fixtures/autoload/health/broken.vim,added,3,0,radenling,2016-08-10 06:55:50,2016-08-10 06:55:50,2016-08-22 02:07:19,2016-08-22 02:07:19
+neovim/neovim,closed,5205,a3603474554060820ca497f63b770a51d7792bcb,test/functional/fixtures/autoload/health/success1.vim,added,6,0,radenling,2016-08-10 06:55:50,2016-08-10 06:55:50,2016-08-22 02:07:19,2016-08-22 02:07:19
+neovim/neovim,closed,5205,b742b4879dd882c9ba8ca99ce370d60ab9e2c0e4,test/functional/fixtures/autoload/health/success2.vim,added,4,0,radenling,2016-08-10 06:55:50,2016-08-10 06:55:50,2016-08-22 02:07:19,2016-08-22 02:07:19
+neovim/neovim,closed,5205,a9665cd75132952c6a09ef4f7fde47e5bd491d69,test/functional/plugin/health_spec.lua,added,81,0,radenling,2016-08-10 06:55:50,2016-08-10 06:55:50,2016-08-22 02:07:19,2016-08-22 02:07:19
+neovim/neovim,closed,2357,f00bbbe5c019881f8350190a13ddaea16a2d6f6d,src/nvim/testdir/Makefile,modified,3,3,rasendubi,2015-04-05 13:52:59,2015-04-05 13:52:59,2015-04-06 05:50:55,NA
+neovim/neovim,closed,2357,85ff1b4db2d53eb9ff655ee72ac0d0432ef557f6,src/nvim/testdir/test1.in,modified,0,10,rasendubi,2015-04-05 13:52:59,2015-04-05 13:52:59,2015-04-06 05:50:55,NA
+neovim/neovim,closed,2357,24d2e4c446996d5a7428140e1ccbe4c55556888a,src/nvim/testdir/test70.in,removed,0,62,rasendubi,2015-04-05 13:52:59,2015-04-05 13:52:59,2015-04-06 05:50:55,NA
+neovim/neovim,closed,2357,9c82a86f2d747229f4a90fe2c968fe83e50aa10f,src/nvim/testdir/test70.ok,removed,0,6,rasendubi,2015-04-05 13:52:59,2015-04-05 13:52:59,2015-04-06 05:50:55,NA
+neovim/neovim,closed,2357,f7112792e9fcdbec0450a45ace9fbacbb01e5f42,src/nvim/testdir/test85.in,removed,0,84,rasendubi,2015-04-05 13:52:59,2015-04-05 13:52:59,2015-04-06 05:50:55,NA
+neovim/neovim,closed,2357,4753483240ade82045eb6889e9ea92258bd472e2,src/nvim/testdir/test85.ok,removed,0,7,rasendubi,2015-04-05 13:52:59,2015-04-05 13:52:59,2015-04-06 05:50:55,NA
+neovim/neovim,closed,8920,ed3181564c1ea80fc7d77a973576cc899cd6ac07,src/nvim/testdir/test_help.vim,modified,36,0,rickyz,2018-08-27 04:51:00,2018-08-27 04:51:00,2018-09-05 07:19:06,2018-09-05 07:19:06
+neovim/neovim,closed,8920,c873487b925989d7d57be2b1ad90cea059b17c98,src/nvim/testdir/test_help_tagjump.vim,modified,28,0,rickyz,2018-08-27 04:51:00,2018-08-27 04:51:00,2018-09-05 07:19:06,2018-09-05 07:19:06
+neovim/neovim,closed,8914,d07b3fdbce26cd00744bfaeb4be649b22356a862,src/nvim/testdir/test_normal.vim,modified,75,5,rickyz,2018-08-25 23:30:49,2018-08-25 23:30:49,2018-08-26 13:05:56,2018-08-26 13:05:56
+neovim/neovim,closed,5324,3603403daf75d5cfd8caf6ab38c30b49ecb513d0,test/unit/os/shell_spec.lua,modified,48,13,scampi,2016-09-11 00:59:14,2016-09-11 00:59:14,2016-09-11 01:43:44,2016-09-11 01:43:44
+neovim/neovim,closed,1521,6bacef9778d2da3151eec5799a895986d3670d21,src/nvim/testdir/Makefile,modified,7,7,simula67,2014-11-22 12:09:56,2014-11-22 12:09:56,2014-11-22 12:48:54,2014-11-22 12:48:54
+neovim/neovim,closed,5106,9cab0f5ff97011b2897404a99716dd65bd702671,src/nvim/testdir/test_alot.vim,modified,1,0,ssonicblue,2016-07-23 02:48:47,2016-07-23 02:48:47,2016-08-01 07:37:41,NA
+neovim/neovim,closed,5106,438b20cc5ec15d42d9f3ec0899d5cc53be6ba127,src/nvim/testdir/test_cmdline.vim,added,120,0,ssonicblue,2016-07-23 02:48:47,2016-07-23 02:48:47,2016-08-01 07:37:41,NA
+neovim/neovim,closed,5094,256d6255a0730c353d4e93fe602ecc4288ebf0dc,test/functional/legacy/036_regexp_character_classes_spec.lua,modified,11,0,ssonicblue,2016-07-20 06:26:03,2016-07-20 06:26:03,2016-08-01 08:09:19,NA
+neovim/neovim,closed,8856,1e3dc04049e62a4a95418930792c4f46aad537c9,src/nvim/testdir/Makefile,modified,1,0,yshui,2018-08-14 10:28:23,2018-08-14 10:28:23,2018-08-15 08:18:23,2018-08-15 08:18:23
+neovim/neovim,closed,8856,ace4b377cba9b9df342a051e6c8e798fbd1894a5,src/nvim/testdir/test_alot.vim,modified,1,0,yshui,2018-08-14 10:28:23,2018-08-14 10:28:23,2018-08-15 08:18:23,2018-08-15 08:18:23
+neovim/neovim,closed,8856,b1502eff8927ccd2b013439cd56e8bfa51864ed8,src/nvim/testdir/test_autocmd.vim,modified,45,0,yshui,2018-08-14 10:28:23,2018-08-14 10:28:23,2018-08-15 08:18:23,2018-08-15 08:18:23
+neovim/neovim,closed,8856,1c97414164120f98c183d11a9709899137466d8c,src/nvim/testdir/test_join.vim,added,35,0,yshui,2018-08-14 10:28:23,2018-08-14 10:28:23,2018-08-15 08:18:23,2018-08-15 08:18:23
+neovim/neovim,closed,8856,f9bd8b5246e85a13bdbc40f9107fef3e9370bbe5,src/nvim/testdir/test_tagjump.vim,modified,28,0,yshui,2018-08-14 10:28:23,2018-08-14 10:28:23,2018-08-15 08:18:23,2018-08-15 08:18:23
+neovim/neovim,closed,8856,3ad2025915ab627dd0d9cb9688555a4f8cbe576f,src/nvim/testdir/test_taglist.vim,modified,6,1,yshui,2018-08-14 10:28:23,2018-08-14 10:28:23,2018-08-15 08:18:23,2018-08-15 08:18:23
+neovim/neovim,closed,8856,e7a3701386f925054cc163aee8199175cbeba6c4,src/nvim/testdir/test_user_func.vim,added,96,0,yshui,2018-08-14 10:28:23,2018-08-14 10:28:23,2018-08-15 08:18:23,2018-08-15 08:18:23
+neovim/neovim,closed,8856,7c3d48317b002fba35048ccc06249e543f61c40e,test/functional/legacy/packadd_spec.lua,modified,1,1,yshui,2018-08-14 10:28:23,2018-08-14 10:28:23,2018-08-15 08:18:23,2018-08-15 08:18:23
+neovim/neovim,closed,3180,c1bbd8dc9a7107de38179f646a43881140766bd4,.ci/common/test.sh,modified,1,1,Zashas,2015-08-16 13:44:49,2015-08-16 13:44:49,2015-08-16 18:03:22,NA
+neovim/neovim,closed,3158,9c792099c10daf798a2fabeea5647e9b675d09ea,test/functional/ex_cmds/grep_spec.lua,added,22,0,Zashas,2015-08-11 23:55:50,2015-08-11 23:55:50,2015-08-12 04:21:03,2015-08-12 04:21:03
+neovim/neovim,closed,3158,11597072829d14f668f9746e780b424ec7565143,test/functional/helpers.lua,modified,0,1,Zashas,2015-08-11 23:55:50,2015-08-11 23:55:50,2015-08-12 04:21:03,2015-08-12 04:21:03
+neovim/neovim,closed,6151,edc6336aa7e3cc9b84b89f2d70a4d2c52859ad8a,src/nvim/testdir/test_popup.vim,modified,20,0,zchee,2017-02-20 22:44:08,2017-02-20 22:44:08,2017-02-23 11:37:46,2017-02-23 11:37:46
+neovim/neovim,closed,3928,80f46326eea10faceeb4b8252a024e5feee6bb69,test/functional/ui/screen.lua,modified,1,1,zchee,2016-01-02 05:00:09,2016-01-02 05:00:09,2016-01-02 06:21:42,2016-01-02 06:21:42
+neovim/neovim,open,6834,69a8d6cb5083da97ad7afbd8d7fb62a6a8c40118,test/functional/api/keymap_spec.lua,modified,2,0,Zman94,2017-06-01T20:52:50Z,2018-01-28T22:00:48Z,NA,NA
+neovim/neovim,open,6834,a7a1129575f8a1762913ead35c5401054f821216,test/functional/eval/map_functions_spec.lua,modified,8,0,Zman94,2017-06-01T20:52:50Z,2018-01-28T22:00:48Z,NA,NA
+numpy/numpy,closed,6302,818d0cf417043e1eddc6613fe2e18171ffed3c96,tools/travis-test.sh,modified,4,4,2sn,2015-09-11 16:21:18,2015-09-11 16:21:18,2015-11-24 21:11:25,2015-11-24 21:11:25
+numpy/numpy,closed,4386,17f044af428149e158d1386cac36688e7197b22a,numpy/core/tests/test_umath.py,modified,10,2,abergeron,2014-02-27 18:39:06,2014-02-27 18:39:06,2014-02-27 21:13:13,2014-02-27 21:13:13
+numpy/numpy,closed,9720,e8c63717992d5c85704d93769f44e91ad5378cb1,numpy/core/tests/test_numeric.py,modified,3,3,abrodkin,2017-09-20 06:06:13,2017-09-20 06:06:13,2017-09-20 19:26:30,2017-09-20 19:26:30
+numpy/numpy,closed,9691,911bc3c0bfafd3efb2fb6a524187c1ae3f64b121,numpy/core/tests/test_numeric.py,modified,16,0,abrodkin,2017-09-15 10:28:25,2017-09-15 10:28:25,2017-10-24 18:43:03,2017-10-24 18:43:03
+numpy/numpy,closed,8539,3bbe99b8ffa8e7ec589864f1dd5335e6ffb84b62,numpy/core/tests/test_multiarray.py,modified,18,0,aha66,2017-01-28 17:41:26,2017-01-28 17:41:26,2017-01-31 02:09:54,2017-01-31 02:09:54
+numpy/numpy,closed,7206,ba24488154b1d1c462fd5bb3573b1631142879aa,numpy/lib/tests/test_function_base.py,modified,2,1,alimuldal,2016-02-07 17:42:50,2016-02-07 17:42:50,2016-02-07 19:00:40,2016-02-07 19:00:40
+numpy/numpy,closed,2994,27b0fb60aad167e3685c0efcc4440a0a71139924,doc/sphinxext/numpydoc/tests/test_docscrape.py,renamed,139,6,andreas-h,2013-02-16 16:10:25,2013-02-16 16:10:25,2013-03-01 03:09:55,2013-03-01 03:09:55
+numpy/numpy,closed,2994,45de6b70d579f3b54d6f9ef627fc43119011b0a7,doc/sphinxext/numpydoc/tests/test_linkcode.py,added,3,0,andreas-h,2013-02-16 16:10:25,2013-02-16 16:10:25,2013-03-01 03:09:55,2013-03-01 03:09:55
+numpy/numpy,closed,2994,b9ee76fc67cd6ee4e4090da289ad2d73c77f7a86,doc/sphinxext/numpydoc/tests/test_phantom_import.py,added,3,0,andreas-h,2013-02-16 16:10:25,2013-02-16 16:10:25,2013-03-01 03:09:55,2013-03-01 03:09:55
+numpy/numpy,closed,2994,3496d2c297df3180fc0752d5adadf5b4fa8b9e50,doc/sphinxext/numpydoc/tests/test_plot_directive.py,added,3,0,andreas-h,2013-02-16 16:10:25,2013-02-16 16:10:25,2013-03-01 03:09:55,2013-03-01 03:09:55
+numpy/numpy,closed,2994,99b1600fb530c89bea343de90790fe6db5e3b9a0,doc/sphinxext/numpydoc/tests/test_traitsdoc.py,added,3,0,andreas-h,2013-02-16 16:10:25,2013-02-16 16:10:25,2013-03-01 03:09:55,2013-03-01 03:09:55
+numpy/numpy,open,10308,1bcf93dfe7c5abe716095241acb51ab3c84d98e1,numpy/lib/tests/test_function_base.py,modified,1,1,aragilar,2018-01-02T13:31:59Z,2018-01-02T19:45:01Z,NA,NA
+numpy/numpy,open,10308,b2d0bbf6db625ec8d2c256ef3ebc15080862fe6f,numpy/ma/tests/test_core.py,modified,3,3,aragilar,2018-01-02T13:31:59Z,2018-01-02T19:45:01Z,NA,NA
+numpy/numpy,open,10308,25758064b046a5d6b7f2e0ba9102b64d09f996c6,numpy/ma/tests/test_old_ma.py,modified,8,8,aragilar,2018-01-02T13:31:59Z,2018-01-02T19:45:01Z,NA,NA
+numpy/numpy,closed,10342,c2ba7ac86bea2e21816d4510da4e030d283a1d7f,numpy/lib/tests/test_arraysetops.py,modified,8,0,aragilar,2018-01-08 06:05:15,2018-01-08 06:05:15,2018-01-19 01:09:26,2018-01-19 01:09:26
+numpy/numpy,closed,10342,d1c1aa63ebed306ab76bd2a5d848de34232b88df,numpy/ma/tests/test_extras.py,modified,8,0,aragilar,2018-01-08 06:05:15,2018-01-08 06:05:15,2018-01-19 01:09:26,2018-01-19 01:09:26
+numpy/numpy,closed,12243,24b32cf0012a713c6c09c992abc078d5aa032fdd,numpy/testing/_private/utils.py,modified,6,3,arogozhnikov,2018-10-22 14:37:04,2018-10-22 14:37:04,2018-10-23 09:35:39,2018-10-23 09:35:39
+numpy/numpy,closed,12243,7e6b1863143c159f696de5adfaae1004e8575fc2,numpy/testing/tests/test_utils.py,modified,16,2,arogozhnikov,2018-10-22 14:37:04,2018-10-22 14:37:04,2018-10-23 09:35:39,2018-10-23 09:35:39
+numpy/numpy,closed,4273,6aae3d21deace2f8624285deb9c417e88803e42f,numpy/lib/tests/test_io.py,modified,8,7,arunpersaud,2014-02-08 12:43:48,2014-02-08 12:43:48,2014-02-09 12:17:07,2014-02-09 12:17:07
+numpy/numpy,closed,7252,1c51b43b9d6a52bafbf6b5123dae90eabdb2c9a1,numpy/core/tests/test_deprecations.py,modified,103,0,aukejw,2016-02-14 23:44:43,2016-02-14 23:44:43,2016-02-16 16:30:38,2016-02-16 16:30:38
+numpy/numpy,closed,7187,b163d3b2642a6e841c9798fdea176dbf53c8a904,numpy/ma/tests/test_core.py,modified,0,8,aukejw,2016-02-04 19:47:47,2016-02-04 19:47:47,2016-02-28 17:44:09,NA
+numpy/numpy,closed,7917,03364d91b3f3f9721cd5a1be760c0157c221d71c,numpy/testing/utils.py,modified,4,2,bennyrowland,2016-08-07 16:52:16,2016-08-07 16:52:16,2016-08-07 21:09:23,2016-08-07 21:09:23
+numpy/numpy,closed,11160,53486dc5151a22d1c3a7d8661736950c92b5354e,numpy/core/tests/test_numeric.py,modified,0,1,bmwiedemann,2018-05-25 02:36:16,2018-05-25 02:36:16,2018-05-25 16:26:18,2018-05-25 16:26:17
+numpy/numpy,closed,9779,4dd18182c29134cacf6372d098b3e67d64289b6a,numpy/ma/tests/test_core.py,modified,5,0,bmwiedemann,2017-09-27 08:38:09,2017-09-27 08:38:09,2017-09-27 19:38:28,2017-09-27 19:38:28
+numpy/numpy,open,11233,a6ae433d9b35e89f851606b9e6e196539805090c,numpy/lib/tests/test_function_base.py,modified,7,3,byoung4,2018-06-03T18:43:11Z,2018-10-16T05:24:37Z,NA,NA
+numpy/numpy,closed,11257,ac43464618a27594c33b72fe43d3f52dbfe312f9,numpy/core/tests/test_ufunc.py,modified,10,0,byoung4,2018-06-06 13:44:19,2018-06-06 13:44:19,2018-06-06 16:36:54,2018-06-06 16:36:54
+numpy/numpy,closed,5585,fb9d7f364ee6b045f96d5581a60f3c252d9ad7d7,numpy/lib/tests/test_shape_base.py,modified,6,0,carlkl,2015-02-19 14:40:46,2015-02-19 14:40:46,2015-03-13 00:58:02,2015-03-13 00:58:02
+numpy/numpy,closed,9866,d06b241f0bb054e7a60855a09c3d2610ef41e828,runtests.py,modified,2,2,CatEars,2017-10-15 23:03:24,2017-10-15 23:03:24,2017-10-16 00:08:40,2017-10-16 00:08:40
+numpy/numpy,closed,5186,aa7637e03d18225f3621bef310d99224cd587039,numpy/lib/tests/test_function_base.py,modified,3,3,cbrueffer,2014-10-14 17:12:26,2014-10-14 17:12:26,2014-10-16 17:17:26,2014-10-16 17:17:26
+numpy/numpy,closed,158,96e8f60d180bfc1063c87815c61ee619d5e63a7b,numpy/core/tests/test_multiarray.py,modified,105,0,cfarrow,2011-09-16 00:47:39,2011-09-16 00:47:39,2011-10-23 19:43:43,NA
+numpy/numpy,closed,154,3408a67ab015bced2ff989f166f1ddf0bf19e2c0,numpy/lib/tests/test_function_base.py,modified,45,0,cfarrow,2011-09-09 16:58:16,2011-09-09 16:58:16,2011-09-20 16:55:40,NA
+numpy/numpy,closed,11638,6d24dd6249a0f354008e9fc158e52abcfe5838e6,numpy/lib/tests/test_shape_base.py,modified,9,0,chrisjbillington,2018-07-30 06:21:44,2018-07-30 06:21:44,2018-07-31 18:15:31,2018-07-31 18:15:31
+numpy/numpy,closed,11638,272cd8d526c37e8a85081e933d2a69836d67a19f,numpy/matrixlib/tests/test_defmatrix.py,modified,8,0,chrisjbillington,2018-07-30 06:21:44,2018-07-30 06:21:44,2018-07-31 18:15:31,2018-07-31 18:15:31
+numpy/numpy,closed,10671,cd4ea611acfb53214e189a1c2888bbc2bde09831,numpy/core/tests/test_indexing.py,modified,1,1,chrisjbillington,2018-02-27 08:02:05,2018-02-27 08:02:05,2018-02-27 16:55:11,2018-02-27 16:55:11
+numpy/numpy,closed,10671,fba169ebfdd00a096177ec7501820620a3d92440,numpy/core/tests/test_multiarray.py,modified,4,4,chrisjbillington,2018-02-27 08:02:05,2018-02-27 08:02:05,2018-02-27 16:55:11,2018-02-27 16:55:11
+numpy/numpy,closed,10671,53e67517dd5a9afe918a843ea6485fc7a6946c53,numpy/testing/nose_tools/parameterized.py,modified,2,2,chrisjbillington,2018-02-27 08:02:05,2018-02-27 08:02:05,2018-02-27 16:55:11,2018-02-27 16:55:11
+numpy/numpy,closed,6474,95ded8d93ff43904fb56b8dfb0605c7494a942a3,numpy/testing/nosetester.py,modified,13,9,ChristopherHogan,2015-10-14 22:20:26,2015-10-14 22:20:26,2015-10-15 16:44:41,2015-10-15 16:44:41
+numpy/numpy,closed,5144,fa0ac3fdef9b8a259575094bc93dfe27240f7697,numpy/core/tests/test_umath.py,modified,11,0,cimarronm,2014-10-02 20:33:17,2014-10-02 20:33:17,2014-10-11 17:18:38,2014-10-11 17:18:38
+numpy/numpy,closed,4456,dfe244dca920d5d7f1256f6290e27779a597d0da,tools/travis-test.sh,modified,1,0,cimarronm,2014-03-06 21:51:08,2014-03-06 21:51:08,2014-03-07 15:49:52,2014-03-07 15:49:52
+numpy/numpy,closed,11594,36b677ac3fda4d37908e72b040f4898c7dc7ac4b,numpy/linalg/tests/test_linalg.py,modified,26,4,convexset,2018-07-20 11:44:39,2018-07-20 11:44:39,2018-08-07 23:47:22,2018-08-07 23:47:22
+numpy/numpy,closed,11593,0df673884f6ff44fe5c70bd46a0bf44ca5829a5a,numpy/linalg/tests/test_linalg.py,modified,19,12,convexset,2018-07-20 09:46:56,2018-07-20 09:46:56,2018-07-31 17:00:07,2018-07-31 17:00:07
+numpy/numpy,closed,10923,27fbb10d59ec45883a446b4b9de5e92c7efa607e,numpy/core/tests/test_dtype.py,modified,8,0,crayxt,2018-04-17 14:45:50,2018-04-17 14:45:50,2018-04-18 15:14:29,2018-04-18 15:14:29
+numpy/numpy,closed,8898,4f2a639cfd80d0a47abb49826628cfcd6fcd3c9b,numpy/core/tests/test_multiarray.py,modified,22,0,crayxt,2017-04-05 23:33:16,2017-04-05 23:33:16,2017-05-07 23:26:18,2017-05-07 23:26:18
+numpy/numpy,closed,3396,c681b57ababcee44b7f429b9253de67965240cf7,numpy/core/tests/test_api.py,modified,149,1,dabidan,2013-06-03 17:55:25,2013-06-03 17:55:25,2013-06-06 18:08:40,NA
+numpy/numpy,closed,6,87b0ff93b832e86cd8b3853b04438e44281f7013,numpy/core/tests/test_dtype.py,modified,27,0,ddale,2010-10-20 23:27:05,2010-10-20 23:27:05,2010-11-01 00:38:49,NA
+numpy/numpy,closed,3,227413c1971b8a6be698508453146f5fdad0f78c,numpy/lib/tests/test_polynomial.py,modified,0,3,ddale,2010-10-17 04:49:24,2010-10-17 04:49:24,2010-10-17 05:07:48,2010-10-17 05:07:48
+numpy/numpy,closed,3526,0aea85f6634795d5d01ed490a19167e7574e3e95,numpy/core/src/multiarray/multiarray_tests.c.src,modified,29,0,dmuellner,2013-07-16 13:40:00,2013-07-16 13:40:00,2013-08-11 21:04:18,2013-08-11 21:04:18
+numpy/numpy,closed,3526,c298b4f1db059716e0ab7e049cef9b843a119b15,numpy/core/tests/test_multiarray.py,modified,16,0,dmuellner,2013-07-16 13:40:00,2013-07-16 13:40:00,2013-08-11 21:04:18,2013-08-11 21:04:18
+numpy/numpy,closed,3486,2090c8ce7c2674c94d6fb1d5504bba14d0cf7128,numpy/core/tests/test_ufunc.py,modified,11,0,dmuellner,2013-06-29 14:09:15,2013-06-29 14:09:15,2014-03-28 20:27:45,NA
+numpy/numpy,closed,3365,97afb68a2ed53a095596ba482c3466176009d93f,numpy/core/tests/test_memmap.py,modified,6,1,dnmiller,2013-05-25 20:47:33,2013-05-25 20:47:33,2013-05-26 00:42:24,2013-05-26 00:42:24
+numpy/numpy,closed,3360,19806bd7611efbe959e2ae1b8596e9585654e19b,numpy/core/tests/test_multiarray.py,modified,289,1,dnmiller,2013-05-23 22:09:34,2013-05-23 22:09:34,2013-08-12 13:28:41,2013-08-12 13:28:41
+numpy/numpy,closed,3360,814743442749db69fbdf95c7989fc88c851aaa54,numpy/lib/tests/test_function_base.py,modified,47,0,dnmiller,2013-05-23 22:09:34,2013-05-23 22:09:34,2013-08-12 13:28:41,2013-08-12 13:28:41
+numpy/numpy,closed,3360,7cfcdbe27827d7af382a14f5b4906408eb9d7c1f,numpy/matrixlib/tests/test_defmatrix.py,modified,3,2,dnmiller,2013-05-23 22:09:34,2013-05-23 22:09:34,2013-08-12 13:28:41,2013-08-12 13:28:41
+numpy/numpy,closed,3316,816b22052fc4a7b2ae30cf5779ae7ee8854e41b5,numpy/core/tests/test_ufunc.py,modified,13,0,ecatmur,2013-05-08 18:16:36,2013-05-08 18:16:36,2013-05-10 23:25:08,2013-05-10 23:25:08
+numpy/numpy,closed,4540,4f53da9b6ca361b524a3220d79ce37a6e59b988e,numpy/core/tests/test_ufunc.py,modified,2,0,ElDeveloper,2014-03-23 21:58:55,2014-03-23 21:58:55,2014-03-23 22:16:37,2014-03-23 22:16:37
+numpy/numpy,closed,4027,485947764a88771ba822a2d128978d8ae333f675,numpy/lib/tests/test_format.py,modified,3,0,eltjpm,2013-11-08 21:28:02,2013-11-08 21:28:02,2013-11-09 10:20:40,2013-11-09 10:20:40
+numpy/numpy,closed,7346,061ba8742fa13ea836a4d675867a197ae13be7d6,numpy/lib/tests/test_function_base.py,modified,83,0,erensezener,2016-02-26 16:14:10,2016-02-26 16:14:10,2016-03-12 20:04:09,2016-03-12 20:04:09
+numpy/numpy,closed,7344,80a792fbfc52e55c449511bb95a102e586c1e61b,numpy/core/tests/test_deprecations.py,modified,2,2,erensezener,2016-02-25 19:39:16,2016-02-25 19:39:16,2016-02-25 20:06:39,2016-02-25 20:06:39
+numpy/numpy,closed,7344,765b38ae08e574d46fd03b15215a75504eaa1d94,numpy/core/tests/test_machar.py,modified,1,1,erensezener,2016-02-25 19:39:16,2016-02-25 19:39:16,2016-02-25 20:06:39,2016-02-25 20:06:39
+numpy/numpy,closed,10893,e6da10c0c3ff9c4d1bc62f4f3c21187949842de9,numpy/random/tests/test_random.py,modified,1,2,EricCousineau-TRI,2018-04-12 16:05:51,2018-04-12 16:05:51,2018-04-12 18:02:54,NA
+numpy/numpy,closed,10893,2e770fc85b050cc46573d174b9cd5212576d1c62,numpy/random/tests/test_regression.py,modified,1,2,EricCousineau-TRI,2018-04-12 16:05:51,2018-04-12 16:05:51,2018-04-12 18:02:54,NA
+numpy/numpy,closed,9619,1fcad05a519c104bcc741f23899f5b8b74e84736,numpy/f2py/tests/test_size.py,modified,9,0,ExpHP,2017-08-28 08:45:20,2017-08-28 08:45:20,2017-08-30 15:59:12,2017-08-30 15:59:11
+numpy/numpy,closed,9592,808885454848b3a8ac05924c88f8019cb4bcd627,numpy/tests/test_novalue.py,renamed,7,1,ExpHP,2017-08-22 22:17:17,2017-08-22 22:17:17,2018-02-04 17:00:04,NA
+numpy/numpy,closed,7985,6fff240eb8970deca0036a199deed0fd9545afd1,numpy/testing/nosetester.py,modified,3,20,f0k,2016-08-28 19:41:20,2016-08-28 19:41:20,2016-08-28 20:13:41,2016-08-28 20:13:41
+numpy/numpy,closed,7985,c0f6098830456970207ae06ea3d7035670e35392,numpy/testing/tests/test_utils.py,modified,183,5,f0k,2016-08-28 19:41:20,2016-08-28 19:41:20,2016-08-28 20:13:41,2016-08-28 20:13:41
+numpy/numpy,closed,7985,c7f4a0aa735335e9137288645af9f3c0218559de,numpy/testing/utils.py,modified,304,14,f0k,2016-08-28 19:41:20,2016-08-28 19:41:20,2016-08-28 20:13:41,2016-08-28 20:13:41
+numpy/numpy,closed,8843,0f87ffdf2a5ffa6112d397c8e17364950ca2255c,numpy/core/tests/test_numeric.py,modified,7,7,fuglede,2017-03-26 10:42:38,2017-03-26 10:42:38,2017-03-29 14:44:15,2017-03-29 14:44:15
+numpy/numpy,closed,8843,7c07606f612a8a060624eb28bc0da16b884660e6,numpy/lib/tests/test_function_base.py,modified,14,11,fuglede,2017-03-26 10:42:38,2017-03-26 10:42:38,2017-03-29 14:44:15,2017-03-29 14:44:15
+numpy/numpy,closed,8843,1678e10918911071f27d18e0068754e7320ccdb8,numpy/lib/tests/test_nanfunctions.py,modified,8,8,fuglede,2017-03-26 10:42:38,2017-03-26 10:42:38,2017-03-29 14:44:15,2017-03-29 14:44:15
+numpy/numpy,closed,8843,77a5c0fc6722b68f991d4b0426dced9163672a36,numpy/ma/tests/test_extras.py,modified,1,1,fuglede,2017-03-26 10:42:38,2017-03-26 10:42:38,2017-03-29 14:44:15,2017-03-29 14:44:15
+numpy/numpy,closed,9950,b48983e2e68b9a2babcdbd8a18422808884a6704,numpy/core/tests/test_dtype.py,modified,6,0,garrypolley,2017-11-02 16:06:09,2017-11-02 16:06:09,2017-11-04 02:44:03,2017-11-04 02:44:03
+numpy/numpy,closed,9950,a02075a1ed94f94b5d33be3f39d1f78da83cce7d,numpy/core/tests/test_multiarray.py,modified,1,1,garrypolley,2017-11-02 16:06:09,2017-11-02 16:06:09,2017-11-04 02:44:03,2017-11-04 02:44:03
+numpy/numpy,closed,9950,aac752037f95a5465942fc4cae944dfb98b69315,numpy/core/tests/test_regression.py,modified,1,1,garrypolley,2017-11-02 16:06:09,2017-11-02 16:06:09,2017-11-04 02:44:03,2017-11-04 02:44:03
+numpy/numpy,open,6071,03effdf4f2d5b601205fa46c687f6fc620bcf936,numpy/polynomial/tests/test_chebyshev.py,modified,58,3,githubmlai,2015-07-13T14:55:56Z,2018-09-25T16:03:00Z,NA,NA
+numpy/numpy,open,6071,a999c240d9015b5d569e2ac1f1e55a6a09cc79de,numpy/polynomial/tests/test_polynomial.py,modified,63,0,githubmlai,2015-07-13T14:55:56Z,2018-09-25T16:03:00Z,NA,NA
+numpy/numpy,closed,7341,3d61041a3f5510b35d3bcf487acde2e56f9387f3,numpy/lib/tests/test_function_base.py,modified,6,0,gkBCCN,2016-02-25 14:10:30,2016-02-25 14:10:30,2016-03-18 00:36:18,2016-03-18 00:36:18
+numpy/numpy,closed,3191,e2469ec7b5b15c1ab90cfe290c748deeb3ac41c5,numpy/core/tests/test_print.py,modified,5,1,glimmercn,2013-04-02 17:27:52,2013-04-02 17:27:52,2013-04-06 14:42:08,2013-04-06 14:42:08
+numpy/numpy,closed,3191,575fb381cf32798292f732e09f66b24cbe7c1758,numpy/core/tests/test_regression.py,modified,6,11,glimmercn,2013-04-02 17:27:52,2013-04-02 17:27:52,2013-04-06 14:42:08,2013-04-06 14:42:08
+numpy/numpy,closed,3191,3e85fcd3ef424704662ae76240719754d5e4f6f2,numpy/distutils/tests/test_exec_command.py,modified,10,5,glimmercn,2013-04-02 17:27:52,2013-04-02 17:27:52,2013-04-06 14:42:08,2013-04-06 14:42:08
+numpy/numpy,closed,3191,ccd7405fe8cec2e07c2cfc79cb1385bf522e66de,numpy/lib/tests/test__datasource.py,modified,8,5,glimmercn,2013-04-02 17:27:52,2013-04-02 17:27:52,2013-04-06 14:42:08,2013-04-06 14:42:08
+numpy/numpy,closed,3191,1cd9a25daaf24beeccee1cd61c4e96a3333aceea,numpy/lib/tests/test__iotools.py,modified,1,10,glimmercn,2013-04-02 17:27:52,2013-04-02 17:27:52,2013-04-06 14:42:08,2013-04-06 14:42:08
+numpy/numpy,closed,3191,aae3b1ba8f5fd29eb2eef8aa21fbb1558fc6db43,numpy/lib/tests/test_format.py,modified,19,29,glimmercn,2013-04-02 17:27:52,2013-04-02 17:27:52,2013-04-06 14:42:08,2013-04-06 14:42:08
+numpy/numpy,closed,3191,6b5173890b085cc5b4124b0f6fe34d42e750339b,numpy/lib/tests/test_io.py,modified,238,223,glimmercn,2013-04-02 17:27:52,2013-04-02 17:27:52,2013-04-06 14:42:08,2013-04-06 14:42:08
+numpy/numpy,closed,5563,1d4462306520aba7db3d8d9903bf61dc80bd0089,numpy/ma/tests/test_core.py,modified,227,0,gmabey,2015-02-12 14:42:22,2015-02-12 14:42:22,2015-02-19 02:50:34,2015-02-19 02:50:34
+numpy/numpy,closed,5683,cf9fcf5e233cd9e0aa4b11aa20cb0304e8756f7b,numpy/lib/tests/test_function_base.py,modified,28,10,gmcastil,2015-03-15 02:33:42,2015-03-15 02:33:42,2015-03-21 01:58:42,2015-03-21 01:58:42
+numpy/numpy,closed,5683,ee8e6bc181c85eaae3b6f70a0d9272912fec4bb4,numpy/ma/tests/test_extras.py,modified,68,14,gmcastil,2015-03-15 02:33:42,2015-03-15 02:33:42,2015-03-21 01:58:42,2015-03-21 01:58:42
+numpy/numpy,closed,5683,dba74d357c3d74a6b476caced32d71166ccf6f5b,numpy/ma/tests/test_regression.py,modified,10,5,gmcastil,2015-03-15 02:33:42,2015-03-15 02:33:42,2015-03-21 01:58:42,2015-03-21 01:58:42
+numpy/numpy,closed,8543,e51f5e9b2fb166a6b7d9cba57af03617024b7f2a,numpy/f2py/tests/src/parameter/constant_compound.f90,added,15,0,godaygo,2017-01-29 01:47:35,2017-01-29 01:47:35,2017-01-29 03:29:24,2017-01-29 03:29:24
+numpy/numpy,closed,8543,62c9a5b943cb768c9270a04d1dbf36d526a4e6e8,numpy/f2py/tests/src/parameter/constant_non_compound.f90,added,23,0,godaygo,2017-01-29 01:47:35,2017-01-29 01:47:35,2017-01-29 03:29:24,2017-01-29 03:29:24
+numpy/numpy,closed,8543,b6891756dd66b0bb57bb51e9262568e4975344ff,numpy/f2py/tests/test_parameter.py,modified,20,0,godaygo,2017-01-29 01:47:35,2017-01-29 01:47:35,2017-01-29 03:29:24,2017-01-29 03:29:24
+numpy/numpy,closed,10718,ff3cf841cc756bce78ed9b0e4ec12284827d6358,numpy/testing/nose_tools/utils.py,modified,3,1,guoci,2018-03-10 00:18:41,2018-03-10 00:18:41,2018-03-13 18:25:50,2018-03-13 18:25:50
+numpy/numpy,closed,10718,9640d48c393708d63c6ed78a4b737713280c1f2e,numpy/testing/pytest_tools/utils.py,modified,3,1,guoci,2018-03-10 00:18:41,2018-03-10 00:18:41,2018-03-13 18:25:50,2018-03-13 18:25:50
+numpy/numpy,closed,10718,a97b627f9961afa48e55de8824778711a535faf2,numpy/testing/tests/test_utils.py,modified,30,0,guoci,2018-03-10 00:18:41,2018-03-10 00:18:41,2018-03-13 18:25:50,2018-03-13 18:25:50
+numpy/numpy,closed,8127,bd68dde9af8687479bd6646760a129420daa2b7e,numpy/core/tests/test_regression.py,modified,0,13,gut,2016-10-07 20:24:04,2016-10-07 20:24:04,2016-10-20 21:08:43,2016-10-20 21:08:42
+numpy/numpy,closed,8127,4538c53acaa661cd6d8381a45c849a16619dec60,numpy/core/tests/test_umath.py,modified,33,6,gut,2016-10-07 20:24:04,2016-10-07 20:24:04,2016-10-20 21:08:43,2016-10-20 21:08:42
+numpy/numpy,closed,8103,90fd7d364413473ce2513052a75d430ce57b4c8a,numpy/core/tests/test_regression.py,modified,55,55,gut,2016-09-30 13:05:38,2016-09-30 13:05:38,2016-10-08 18:54:40,2016-10-08 18:54:40
+numpy/numpy,closed,10294,9c17ed2106fadbcd19349860ad7ee54131123d85,numpy/core/tests/test_mem_overlap.py,modified,1,1,hanjohn,2017-12-29 00:36:53,2017-12-29 00:36:53,2018-01-09 08:03:20,2018-01-09 08:03:20
+numpy/numpy,closed,10294,6ebb4733c60881d9827c1027d15bc6d1b3eab21a,numpy/core/tests/test_print.py,modified,6,6,hanjohn,2017-12-29 00:36:53,2017-12-29 00:36:53,2018-01-09 08:03:20,2018-01-09 08:03:20
+numpy/numpy,closed,10294,cb2cd16d4ef934a98d5cf70ced57a717a911f4e6,numpy/core/tests/test_scalarmath.py,modified,1,1,hanjohn,2017-12-29 00:36:53,2017-12-29 00:36:53,2018-01-09 08:03:20,2018-01-09 08:03:20
+numpy/numpy,closed,10294,ac97b8b0d7080ecf526750d0d930b599e77b4dd5,numpy/core/tests/test_umath.py,modified,35,35,hanjohn,2017-12-29 00:36:53,2017-12-29 00:36:53,2018-01-09 08:03:20,2018-01-09 08:03:20
+numpy/numpy,closed,10294,d3bd2cef757c710bedc840bce30fcb6c12fa20f4,numpy/lib/tests/test_format.py,modified,6,6,hanjohn,2017-12-29 00:36:53,2017-12-29 00:36:53,2018-01-09 08:03:20,2018-01-09 08:03:20
+numpy/numpy,closed,10294,8a0eb8be33e30676702821d0d325924638c1136a,numpy/testing/pytest_tools/utils.py,modified,2,9,hanjohn,2017-12-29 00:36:53,2017-12-29 00:36:53,2018-01-09 08:03:20,2018-01-09 08:03:20
+numpy/numpy,closed,5753,1684406ab919a17c1c91a42651d1431d184432de,numpy/lib/tests/test_function_base.py,modified,177,1,helderc,2015-04-08 00:07:47,2015-04-08 00:07:47,2015-06-23 01:26:31,2015-06-23 01:26:31
+numpy/numpy,closed,6843,74efd26503812e2c17b78f3bf7753ae3f66c86bb,numpy/tests/test_scripts.py,modified,5,4,heni,2015-12-17 00:05:56,2015-12-17 00:05:56,2015-12-17 15:10:13,2015-12-17 15:10:13
+numpy/numpy,closed,4977,63baa590d8c90cdc6cfb38b7e114e7bc5f7052cd,numpy/linalg/tests/test_linalg.py,modified,88,2,hpaulj,2014-08-20 10:07:53,2014-08-20 10:07:53,2014-11-13 10:08:48,2014-11-13 10:08:48
+numpy/numpy,closed,4541,aa0a2669fd7d563dd9201837590b3368a0556ac8,numpy/testing/tests/test_utils.py,modified,68,0,immerrr,2014-03-24 02:52:20,2014-03-24 02:52:20,2014-03-26 23:53:23,2014-03-26 23:53:23
+numpy/numpy,closed,4541,930900bf2ea21ac1f35746842a98df0fa4bedb0e,numpy/testing/utils.py,modified,18,10,immerrr,2014-03-24 02:52:20,2014-03-24 02:52:20,2014-03-26 23:53:23,2014-03-26 23:53:23
+numpy/numpy,closed,8222,61fcc8f6ca14030ad65ebc500cdcb56c7ca97745,numpy/core/tests/test_multiarray.py,modified,5,0,irogerthat,2016-10-29 00:33:21,2016-10-29 00:33:21,2016-11-04 01:33:06,2016-11-04 01:33:06
+numpy/numpy,closed,5447,8902d67dc925d8e15412fd26514d4e9e721b2a17,numpy/ma/tests/test_extras.py,modified,4,0,irogerthat,2015-01-13 07:16:18,2015-01-13 07:16:18,2015-01-13 17:00:18,2015-01-13 17:00:18
+numpy/numpy,closed,9639,75ff7c8fdebcf6d38f65b75005876efc0a05c009,numpy/core/src/multiarray/multiarray_tests.c.src,modified,22,0,irushchyshyn,2017-09-01 13:15:33,2017-09-01 13:15:33,2017-11-08 20:49:20,2017-11-08 20:49:20
+numpy/numpy,closed,9593,fd94d6ff3dbf8c584357e36cbe39b324e027f18e,numpy/lib/tests/test_function_base.py,modified,108,2,irushchyshyn,2017-08-23 00:01:17,2017-08-23 00:01:17,2018-05-09 13:17:12,NA
+numpy/numpy,closed,3208,69968f63f3d4f702e24f857e4e489e7ed0437898,numpy/distutils/tests/test_misc_util.py,modified,2,2,ivanov,2013-04-08 18:19:03,2013-04-08 18:19:03,2013-04-08 19:04:08,2013-04-08 19:04:08
+numpy/numpy,closed,3208,0621855f335cc77747af0a4b0064603725c79d05,numpy/f2py/tests/test_array_from_pyobj.py,modified,27,27,ivanov,2013-04-08 18:19:03,2013-04-08 18:19:03,2013-04-08 19:04:08,2013-04-08 19:04:08
+numpy/numpy,closed,3208,6c0ea9ebd00a7007f332aed0c35a05576e31147b,numpy/f2py/tests/test_assumed_shape.py,modified,5,5,ivanov,2013-04-08 18:19:03,2013-04-08 18:19:03,2013-04-08 19:04:08,2013-04-08 19:04:08
+numpy/numpy,closed,3208,7a7e8bc114453903fc238aa05a480ce6c6b40c61,numpy/f2py/tests/test_callback.py,modified,11,11,ivanov,2013-04-08 18:19:03,2013-04-08 18:19:03,2013-04-08 19:04:08,2013-04-08 19:04:08
+numpy/numpy,closed,3208,213730008043e276e25496e9b9b774e0932c2810,numpy/f2py/tests/test_return_character.py,modified,6,6,ivanov,2013-04-08 18:19:03,2013-04-08 18:19:03,2013-04-08 19:04:08,2013-04-08 19:04:08
+numpy/numpy,closed,3208,afbe2a4f2e9620fca428fa4b247dead33e67ef31,numpy/f2py/tests/test_return_complex.py,modified,1,1,ivanov,2013-04-08 18:19:03,2013-04-08 18:19:03,2013-04-08 19:04:08,2013-04-08 19:04:08
+numpy/numpy,closed,3208,81ad4960bf71d0900ca9f95a23e5b3b83c833192,numpy/f2py/tests/test_return_integer.py,modified,1,1,ivanov,2013-04-08 18:19:03,2013-04-08 18:19:03,2013-04-08 19:04:08,2013-04-08 19:04:08
+numpy/numpy,closed,3208,43764a5584939ea9bbc90b47e5a14fe4012209c3,numpy/f2py/tests/test_return_logical.py,modified,2,2,ivanov,2013-04-08 18:19:03,2013-04-08 18:19:03,2013-04-08 19:04:08,2013-04-08 19:04:08
+numpy/numpy,closed,3208,e741e95811b426d1a9ba1acd5210afce084c5b94,numpy/f2py/tests/test_return_real.py,modified,1,1,ivanov,2013-04-08 18:19:03,2013-04-08 18:19:03,2013-04-08 19:04:08,2013-04-08 19:04:08
+numpy/numpy,closed,3208,6cc508a191a2b9a8748c06d4e209774c6b228d22,numpy/f2py/tests/test_size.py,modified,7,7,ivanov,2013-04-08 18:19:03,2013-04-08 18:19:03,2013-04-08 19:04:08,2013-04-08 19:04:08
+numpy/numpy,closed,3208,cf35802ae9f2ba63d254c7437ccdf61e18c20139,numpy/testing/utils.py,modified,4,4,ivanov,2013-04-08 18:19:03,2013-04-08 18:19:03,2013-04-08 19:04:08,2013-04-08 19:04:08
+numpy/numpy,closed,3198,d9ba06957f0b8089f3a80f96a8d8ce3f9e5f9982,numpy/matrixlib/tests/test_defmatrix.py,modified,1,0,ivanov,2013-04-05 20:45:07,2013-04-05 20:45:07,2013-05-11 17:14:09,NA
+numpy/numpy,closed,222,6aed19ca6fcc32607c63e0170321520d795c1cc0,numpy/core/tests/test_umath.py,modified,7,7,jasongrout,2012-03-03 19:06:25,2012-03-03 19:06:25,2012-03-03 20:57:50,2012-03-03 20:57:50
+numpy/numpy,closed,12085,5452b57085bdbdc876eb52f2aeaef6222b449310,numpy/f2py/tests/test_semicolon_split.py,modified,7,0,jdemeyer,2018-10-05 01:31:23,2018-10-05 01:31:23,2018-10-05 02:24:02,2018-10-05 02:24:02
+numpy/numpy,closed,12085,49ace6d38fb0781ae48038503b56b5fb87fc7efc,numpy/tests/test_scripts.py,modified,1,0,jdemeyer,2018-10-05 01:31:23,2018-10-05 01:31:23,2018-10-05 02:24:02,2018-10-05 02:24:02
+numpy/numpy,closed,9689,6ea38705a9c29cee4851b927db242fb77a661b39,numpy/lib/tests/test_io.py,modified,16,0,jdemeyer,2017-09-14 16:54:00,2017-09-14 16:54:00,2017-11-14 12:50:05,NA
+numpy/numpy,closed,11277,05dd2efd114e9b8cf5e8877cebb878e650c5a71d,numpy/core/tests/test_multiarray.py,modified,23,0,jdoepfert,2018-06-08 04:43:13,2018-06-08 04:43:13,2018-06-08 19:31:54,2018-06-08 19:31:54
+numpy/numpy,closed,9998,38698887a1bba5b2ab3652a57a30e6b1164ad7be,numpy/core/src/multiarray/_multiarray_tests.c.src,modified,93,0,jdoepfert,2017-11-10 13:04:50,2017-11-10 13:04:50,2018-04-21 20:38:29,2018-04-21 20:38:29
+numpy/numpy,closed,9998,806a3b08320896a8b618017e6c7c2029c3be5d27,numpy/core/tests/test_multiarray.py,modified,7,0,jdoepfert,2017-11-10 13:04:50,2017-11-10 13:04:50,2018-04-21 20:38:29,2018-04-21 20:38:29
+numpy/numpy,closed,9998,bc9456536917fb444d3246b9e435a37015252d74,numpy/core/tests/test_nditer.py,modified,365,196,jdoepfert,2017-11-10 13:04:50,2017-11-10 13:04:50,2018-04-21 20:38:29,2018-04-21 20:38:29
+numpy/numpy,closed,3579,3c74bc46674b52ae5e698c41397730b2bab0bbae,numpy/core/tests/test_indexing.py,modified,17,6,joferkington,2013-08-05 20:18:33,2013-08-05 20:18:33,2013-08-05 20:36:59,NA
+numpy/numpy,closed,3579,de561e55a210b5d1f70b12204cd188ad7a683ece,numpy/lib/tests/test_function_base.py,modified,11,0,joferkington,2013-08-05 20:18:33,2013-08-05 20:18:33,2013-08-05 20:36:59,NA
+numpy/numpy,closed,3579,7f102634e45caf3870013d9d0a93b42f76b534f3,numpy/linalg/tests/test_linalg.py,modified,48,0,joferkington,2013-08-05 20:18:33,2013-08-05 20:18:33,2013-08-05 20:36:59,NA
+numpy/numpy,closed,3579,7e52f867d9d688c20428a60c698b4ef8aee0656f,numpy/ma/tests/test_core.py,modified,14,1,joferkington,2013-08-05 20:18:33,2013-08-05 20:18:33,2013-08-05 20:36:59,NA
+numpy/numpy,closed,3579,97d37ab11eefa3e58f6171410e0882fa3bcb6581,runtests.py,modified,1,1,joferkington,2013-08-05 20:18:33,2013-08-05 20:18:33,2013-08-05 20:36:59,NA
+numpy/numpy,closed,223,a192a32b7ffc8ca5d39c3382fc4d6a86ffc50de4,doc/TESTS.rst.txt,modified,1,1,joferkington,2012-03-03 23:04:46,2012-03-03 23:04:46,2012-03-03 23:56:01,NA
+numpy/numpy,closed,181,5e6d5632bf5d787dc3fe0e552a0a7e14017df9b7,numpy/polynomial/tests/test_chebyshev.py,modified,313,316,jpaalasm,2012-01-02 02:55:56,2012-01-02 02:55:56,2012-01-09 18:16:17,NA
+numpy/numpy,closed,181,fb0d359e084fc4924f469f275d26af816606f38f,numpy/polynomial/tests/test_classes.py,added,522,0,jpaalasm,2012-01-02 02:55:56,2012-01-02 02:55:56,2012-01-09 18:16:17,NA
+numpy/numpy,closed,181,425ebe5e0e0ec5c6f221a94f3ef2e45590b16fce,numpy/polynomial/tests/test_hermite.py,modified,248,255,jpaalasm,2012-01-02 02:55:56,2012-01-02 02:55:56,2012-01-09 18:16:17,NA
+numpy/numpy,closed,181,f0ecb66b8bad69e95d84c86e84445ac9235e0a5d,numpy/polynomial/tests/test_hermite_e.py,modified,245,254,jpaalasm,2012-01-02 02:55:56,2012-01-02 02:55:56,2012-01-09 18:16:17,NA
+numpy/numpy,closed,181,8b3fd5f8ad59a0ab485a763fd7b58fbd8c2eecc5,numpy/polynomial/tests/test_laguerre.py,modified,247,252,jpaalasm,2012-01-02 02:55:56,2012-01-02 02:55:56,2012-01-09 18:16:17,NA
+numpy/numpy,closed,181,c7b71fc05d55abd5fbc1e559cceec396786f2405,numpy/polynomial/tests/test_legendre.py,modified,260,269,jpaalasm,2012-01-02 02:55:56,2012-01-02 02:55:56,2012-01-09 18:16:17,NA
+numpy/numpy,closed,181,4854f95eed2cc4f583f36491e04d47e7847bad54,numpy/polynomial/tests/test_polynomial.py,modified,195,213,jpaalasm,2012-01-02 02:55:56,2012-01-02 02:55:56,2012-01-09 18:16:17,NA
+numpy/numpy,open,3770,07235626bd560036fe1210950844b7a7c29d34a1,numpy/random/tests/test_random.py,modified,50,0,JStech,2013-09-21T17:50:33Z,2016-08-10T12:53:44Z,NA,NA
+numpy/numpy,closed,9658,d62e18b93e2abad4f7342e48cf11e008368118dd,numpy/core/tests/test_numeric.py,modified,3,0,j-towns,2017-09-06 10:20:17,2017-09-06 10:20:17,2017-09-06 18:34:45,2017-09-06 18:34:45
+numpy/numpy,closed,9816,0a9060a56e0203448796dd1d796092284cebc65d,numpy/testing/tests/test_utils.py,modified,1,3,kenogo,2017-10-03 08:51:25,2017-10-03 08:51:25,2017-10-03 16:43:42,NA
+numpy/numpy,closed,10602,32820afbf63258b8b218c3868c5726dc09916f2a,numpy/core/tests/test_dtype.py,modified,8,1,kirit93,2018-02-16 04:55:05,2018-02-16 04:55:05,2018-09-11 17:25:09,2018-09-11 17:25:09
+numpy/numpy,closed,10352,9bd85fdb994705196d28e3ce2132dafd059025b0,numpy/core/tests/test_einsum.py,modified,19,0,kmaehashi,2018-01-09 19:44:27,2018-01-09 19:44:27,2018-02-05 17:33:08,2018-02-05 17:33:08
+numpy/numpy,open,11931,32a4f16c5d3f3cd395fb9cbe683a8e6a1486437d,numpy/core/tests/test_unicode.py,modified,47,1,Kohlrabi,2018-09-12T01:02:59Z,2018-10-06T21:16:48Z,NA,NA
+numpy/numpy,closed,6903,c3aa43f0eafa403100050f8ce21df651f03b9d8f,numpy/random/tests/test_random.py,modified,1,1,kohr-h,2015-12-30 07:54:37,2015-12-30 07:54:37,2015-12-30 09:51:03,2015-12-30 09:51:03
+numpy/numpy,closed,6895,b61d0d5f193e5f44d94395df78999145dfdc4025,numpy/tests/test_numpy_version.py,added,23,0,kohr-h,2015-12-29 15:52:01,2015-12-29 15:52:01,2016-01-16 16:38:07,2016-01-16 16:38:07
+numpy/numpy,closed,6895,3de1ca78de2bc64db7f086c24031c49c1c21bd22,tools/travis-test.sh,modified,1,0,kohr-h,2015-12-29 15:52:01,2015-12-29 15:52:01,2016-01-16 16:38:07,2016-01-16 16:38:07
+numpy/numpy,closed,7712,cb85755d20e41ff835674c3e1fcfa1f3302c26eb,numpy/fft/tests/test_helper.py,modified,51,59,krischer,2016-06-07 07:56:34,2016-06-07 07:56:34,2016-06-09 15:06:19,2016-06-09 15:06:19
+numpy/numpy,closed,5571,5094157119b0c228106c7783b1877d8b1cfa171f,numpy/core/src/umath/umath_tests.c.src,modified,1,2,lamby,2015-02-14 21:24:08,2015-02-14 21:24:08,2015-02-14 23:05:56,2015-02-14 23:05:56
+numpy/numpy,closed,6934,d105c15c71ea3c97bfd1ad5c5a422aa90e4f9a30,tools/travis-test.sh,modified,2,1,ldoddema,2016-01-04 12:43:25,2016-01-04 12:43:25,2016-01-04 13:30:40,2016-01-04 13:30:40
+numpy/numpy,closed,4171,6db95e9a6dffef1e344c9760e6d9c20b95674ed6,numpy/core/tests/test_umath.py,modified,9,0,leaz,2014-01-04 19:19:36,2014-01-04 19:19:36,2014-01-08 18:34:48,2014-01-08 18:34:48
+numpy/numpy,closed,5374,b9bdaeb8773bb9cacb7c3febe683051bf281b97d,numpy/testing/utils.py,modified,1,1,lebigot,2014-12-17 08:30:28,2014-12-17 08:30:28,2014-12-24 12:40:54,NA
+numpy/numpy,closed,12240,dbed074662e19230d6a6cbd547a3b4a1827fa70a,numpy/core/tests/test_dtype.py,modified,19,0,liwt31,2018-10-22 03:14:29,2018-10-22 03:14:29,2018-10-24 03:46:26,2018-10-24 03:46:26
+numpy/numpy,closed,12228,20a7b3fe54876d368459f625b9dd3fedf362e583,numpy/lib/tests/test_function_base.py,modified,13,0,liwt31,2018-10-20 13:18:27,2018-10-20 13:18:27,2018-10-20 15:31:43,NA
+numpy/numpy,closed,5326,fd3a0e13d3573b798f05ac2f3836a2684bd861dc,numpy/core/tests/test_multiarray.py,modified,8,0,madawilliams,2014-11-30 14:13:15,2014-11-30 14:13:15,2014-11-30 17:14:13,2014-11-30 17:14:12
+numpy/numpy,closed,5324,92ca1c97323a5d0864962f0ae8c0be9be965fa28,numpy/lib/tests/test__iotools.py,modified,11,7,madawilliams,2014-11-30 08:52:32,2014-11-30 08:52:32,2014-11-30 17:20:48,2014-11-30 17:20:48
+numpy/numpy,closed,10401,2daa0153b3af97e84f700a4fce9c6dab90e2cb4f,numpy/lib/tests/test_io.py,modified,7,0,madsbk,2018-01-14 04:37:00,2018-01-14 04:37:00,2018-02-07 00:44:20,2018-02-07 00:44:20
+numpy/numpy,closed,8714,29a54a495e3785810de569818e67c27d06c4f804,numpy/lib/tests/test_shape_base.py,modified,73,1,madsbk,2017-02-28 14:12:22,2017-02-28 14:12:22,2018-05-29 00:45:02,NA
+numpy/numpy,closed,11504,0c2ae09738686c08e0caec95359fda278f4bf31b,numpy/core/tests/test_numeric.py,modified,35,0,manuels,2018-07-05 09:52:13,2018-07-05 09:52:13,2018-08-01 17:04:50,NA
+numpy/numpy,closed,8717,b9194426537e689582339952e07988e55df40a6d,numpy/random/tests/test_random.py,modified,8,0,MareinK,2017-02-28 21:00:10,2017-02-28 21:00:10,2018-07-27 12:18:21,NA
+numpy/numpy,closed,8716,755ee2c041a8c95a8204fdf28c1f76e6eb86840f,numpy/core/tests/test_extint128.py,modified,2,1,MareinK,2017-02-28 19:53:19,2017-02-28 19:53:19,2017-03-01 19:33:20,2017-03-01 19:33:20
+numpy/numpy,closed,8716,53d56b5e7233397c9287dedbe69de714bb2c2637,numpy/core/tests/test_mem_overlap.py,modified,6,1,MareinK,2017-02-28 19:53:19,2017-02-28 19:53:19,2017-03-01 19:33:20,2017-03-01 19:33:20
+numpy/numpy,open,7804,474b99d79c8b42efeb8c03dd4c546876925d67d3,numpy/core/tests/test_shape_base.py,modified,55,2,masasin,2016-07-06T03:58:47Z,2018-10-02T22:02:02Z,NA,NA
+numpy/numpy,open,7804,85efcc0f3290c200da756e95b989756724fd3a9b,numpy/ma/tests/test_extras.py,modified,31,6,masasin,2016-07-06T03:58:47Z,2018-10-02T22:02:02Z,NA,NA
+numpy/numpy,closed,3346,1a276a42939fc3f2a25dbf1da0cd47001eb520e8,numpy/lib/tests/test_financial.py,modified,1,1,mdickinson,2013-05-22 05:02:09,2013-05-22 05:02:09,2013-05-29 14:35:12,NA
+numpy/numpy,closed,7586,fc9ced365315f47fc91a1f87435faf514f4b37f2,numpy/ma/tests/test_core.py,modified,4,0,mgeier,2016-04-28 23:06:09,2016-04-28 23:06:09,2016-05-01 02:57:36,2016-05-01 02:57:36
+numpy/numpy,closed,9186,b80c5d19000abc141b72f768ce5bf5be89651005,numpy/core/tests/test_arrayprint.py,modified,8,6,mherkazandjian,2017-05-30 20:26:38,2017-05-30 20:26:38,2017-06-01 19:32:12,NA
+numpy/numpy,closed,9186,052cc2dad5cd547125ef946e525b3eb165a2d3a0,numpy/core/tests/test_multiarray.py,modified,4,1,mherkazandjian,2017-05-30 20:26:38,2017-05-30 20:26:38,2017-06-01 19:32:12,NA
+numpy/numpy,closed,9186,d47534f82c44917fe0b573e9739b658214e60419,numpy/lib/tests/test_arraysetops.py,modified,10,0,mherkazandjian,2017-05-30 20:26:38,2017-05-30 20:26:38,2017-06-01 19:32:12,NA
+numpy/numpy,closed,5523,a7895a30a7b71b96f01d4f34a8b0de641d7a6c51,numpy/core/tests/test_records.py,modified,21,4,minhlongdo,2015-01-29 18:52:20,2015-01-29 18:52:20,2015-01-30 23:29:53,2015-01-30 23:29:53
+numpy/numpy,closed,11376,67c9a333cc4d664b0f7903974e145443dc069c3c,numpy/core/src/multiarray/_multiarray_tests.c.src,modified,0,73,mknlee,2018-06-18 21:06:18,2018-06-18 21:06:18,2018-06-20 16:46:34,2018-06-20 16:46:34
+numpy/numpy,closed,11376,13bc6b34a45b04eb3f6adad90328aec01f2344e6,numpy/core/tests/test_nditer.py,modified,5,8,mknlee,2018-06-18 21:06:18,2018-06-18 21:06:18,2018-06-20 16:46:34,2018-06-20 16:46:34
+numpy/numpy,closed,11043,1464a9e9a9e8cbce4f759c4d3a495f825f7c13a6,numpy/core/tests/test_umath.py,modified,4,3,mknlee,2018-05-04 09:08:41,2018-05-04 09:08:41,2018-05-11 00:19:30,2018-05-11 00:19:30
+numpy/numpy,closed,10544,600a566db65065373accd7c8a8fd2847bc67608b,numpy/core/tests/test_arrayprint.py,modified,49,0,mlamarre,2018-02-08 05:05:54,2018-02-08 05:05:54,2018-02-12 05:03:36,2018-02-12 05:03:36
+numpy/numpy,closed,8707,3576a7b75698ce3439d24eb859065eb7afcf532d,numpy/ma/tests/test_extras.py,modified,3,3,mortada,2017-02-27 22:25:35,2017-02-27 22:25:35,2017-02-27 23:13:31,2017-02-27 23:13:31
+numpy/numpy,closed,5542,c0daaec66398bc5e4ece9415473ff20bdda8576b,doc/source/reference/swig.testing.rst,modified,2,2,mwcraig,2015-02-08 15:07:28,2015-02-08 15:07:28,2015-02-08 16:45:53,2015-02-08 16:45:53
+numpy/numpy,closed,10737,6c2403e67276a3a9f416b4ecc4457e44a962afc6,numpy/core/tests/test_arrayprint.py,modified,2,1,nayyarv,2018-03-12 20:49:29,2018-03-12 20:49:29,2018-03-12 22:47:13,2018-03-12 22:47:13
+numpy/numpy,closed,10737,26882c593357a0a151b86d69746a23ab3cbda8c2,numpy/core/tests/test_indexing.py,modified,1,15,nayyarv,2018-03-12 20:49:29,2018-03-12 20:49:29,2018-03-12 22:47:13,2018-03-12 22:47:13
+numpy/numpy,closed,10737,1b2485a870c0ebf881b565b3cfb6b5d98ccf0505,numpy/core/tests/test_nditer.py,modified,1,1,nayyarv,2018-03-12 20:49:29,2018-03-12 20:49:29,2018-03-12 22:47:13,2018-03-12 22:47:13
+numpy/numpy,closed,10737,d7cdd77f16a2a6458d409b92436f9b27c63a2123,numpy/core/tests/test_numeric.py,modified,2,2,nayyarv,2018-03-12 20:49:29,2018-03-12 20:49:29,2018-03-12 22:47:13,2018-03-12 22:47:13
+numpy/numpy,closed,10737,016b720f3f11f9a16a82f001aeef8859c984ca5f,numpy/core/tests/test_regression.py,modified,4,4,nayyarv,2018-03-12 20:49:29,2018-03-12 20:49:29,2018-03-12 22:47:13,2018-03-12 22:47:13
+numpy/numpy,closed,10737,2b1ac1cc001c0bca5ea770561191f1c5e07267ff,numpy/lib/tests/test_function_base.py,modified,2,2,nayyarv,2018-03-12 20:49:29,2018-03-12 20:49:29,2018-03-12 22:47:13,2018-03-12 22:47:13
+numpy/numpy,closed,10737,a0f2567267ab4525db2ff90276f22f2ca510b0d0,numpy/lib/tests/test_io.py,modified,2,1,nayyarv,2018-03-12 20:49:29,2018-03-12 20:49:29,2018-03-12 22:47:13,2018-03-12 22:47:13
+numpy/numpy,closed,10737,dda2c1b74494b2bebb5d8512cd7d91cb79708a7e,numpy/testing/nose_tools/decorators.py,modified,4,2,nayyarv,2018-03-12 20:49:29,2018-03-12 20:49:29,2018-03-12 22:47:13,2018-03-12 22:47:13
+numpy/numpy,closed,10737,bbca3403529475421a49bf56cc2b34f34d552959,numpy/testing/pytest_tools/decorators.py,modified,5,2,nayyarv,2018-03-12 20:49:29,2018-03-12 20:49:29,2018-03-12 22:47:13,2018-03-12 22:47:13
+numpy/numpy,closed,6018,b920399eb4035e5daff5110da4f076cdfbc64102,numpy/testing/nosetester.py,modified,6,0,nayyarv,2015-06-25 06:53:23,2015-06-25 06:53:23,2015-06-25 23:10:40,2015-06-25 23:10:40
+numpy/numpy,open,10931,ea97bb7913f1ab086156daf98a46d9460062db0a,numpy/lib/tests/test_format.py,modified,9,0,nkartashov,2018-04-19T14:49:08Z,2018-07-09T08:55:53Z,NA,NA
+numpy/numpy,closed,6094,f89e29875be61cf4f08e11e6cdb4b13b3503200f,numpy/ma/tests/test_core.py,modified,36,0,novocaine,2015-07-19 15:28:40,2015-07-19 15:28:40,2015-10-05 02:04:16,2015-10-05 02:04:16
+numpy/numpy,closed,6090,3f2d8d5b4a010d4d2c8c758277f80e4f6386b9d0,numpy/lib/tests/test_shape_base.py,modified,3,0,novocaine,2015-07-17 00:43:43,2015-07-17 00:43:43,2015-07-17 06:11:12,2015-07-17 06:11:12
+numpy/numpy,closed,233,74614bd4029d5f9e80c1b605bd2c54ad313b10c3,numpy/core/tests/test_multiarray.py,modified,3,2,npinto,2012-03-11 19:00:52,2012-03-11 19:00:52,2012-03-12 14:00:49,NA
+numpy/numpy,closed,228,d142e1af8167e757712296ba26e357390f1a6c6b,numpy/core/tests/test_dtype.py,modified,12,0,npinto,2012-03-06 03:52:36,2012-03-06 03:52:36,2012-03-07 16:39:28,NA
+numpy/numpy,closed,33,93a78c0bf5b105582d2c0c1b4f811b10efa1795c,numpy/core/tests/test_blasdot.py,modified,64,1,olsonse,2011-01-08 21:32:30,2011-01-08 21:32:30,2011-02-13 01:25:22,NA
+numpy/numpy,closed,33,85a4a06916a6aacf022d857186ae8e9eef7b0454,numpy/core/tests/test_multiarray.py,modified,74,12,olsonse,2011-01-08 21:32:30,2011-01-08 21:32:30,2011-02-13 01:25:22,NA
+numpy/numpy,closed,28,941768aa5af93f8a7ab02ec3528d6750ac837c7f,numpy/lib/tests/test_type_check.py,modified,8,1,olsonse,2010-12-27 17:20:56,2010-12-27 17:20:56,2010-12-28 03:43:20,2010-12-27 19:43:20
+numpy/numpy,closed,8953,3d9616ed8b20faed3db131533ea14fcc03f091a6,numpy/testing/nosetester.py,modified,2,0,omegahm,2017-04-16 22:37:29,2017-04-16 22:37:29,2017-04-19 18:03:47,2017-04-19 18:03:47
+numpy/numpy,closed,8983,b80c5d19000abc141b72f768ce5bf5be89651005,numpy/core/tests/test_arrayprint.py,modified,8,6,orena1,2017-04-24 21:18:26,2017-04-24 21:18:26,2017-05-17 09:35:46,2017-05-17 09:35:46
+numpy/numpy,closed,2953,d59688b21ba677c6d651a8ccf432b19d8a375e54,numpy/core/tests/test_ufunc.py,modified,9,0,ovillellas,2013-01-31 15:50:24,2013-01-31 15:50:24,2013-03-02 01:53:10,2013-03-02 01:53:10
+numpy/numpy,closed,2950,1f71f480e1a77d5f7b26fad7c034dcb3152691bc,numpy/core/tests/test_regression.py,modified,9,0,ovillellas,2013-01-24 22:09:55,2013-01-24 22:09:55,2013-02-28 14:40:03,2013-02-28 14:40:03
+numpy/numpy,open,6067,f284e3bf5fe05076ed5eec22a0bdc26d6469339b,numpy/core/tests/test_numeric.py,modified,28,21,pbrod,2015-07-11T22:22:13Z,2015-07-26T14:07:59Z,NA,NA
+numpy/numpy,open,6067,548dd012de7dc5229bd1c74d05754992199342a0,numpy/core/tests/test_regression.py,modified,5,0,pbrod,2015-07-11T22:22:13Z,2015-07-26T14:07:59Z,NA,NA
+numpy/numpy,closed,6453,3a4dcc8d35db1e0133863a7345f52b0d0c246e97,numpy/core/tests/test_datetime.py,modified,197,172,pelson,2015-10-12 06:51:07,2015-10-12 06:51:07,2016-01-17 04:02:14,2016-01-17 04:02:14
+numpy/numpy,closed,6453,f0998901d17234bc6faed85c85d65c0e316d1e09,numpy/core/tests/test_deprecations.py,modified,28,1,pelson,2015-10-12 06:51:07,2015-10-12 06:51:07,2016-01-17 04:02:14,2016-01-17 04:02:14
+numpy/numpy,closed,6453,46c7fde5be16e9400b029a7332bed1e275a0b37b,numpy/testing/tests/test_utils.py,modified,15,0,pelson,2015-10-12 06:51:07,2015-10-12 06:51:07,2016-01-17 04:02:14,2016-01-17 04:02:14
+numpy/numpy,closed,6453,10a48ad79f49cfd2e40b982195256bfe66e36c43,numpy/testing/utils.py,modified,55,18,pelson,2015-10-12 06:51:07,2015-10-12 06:51:07,2016-01-17 04:02:14,2016-01-17 04:02:14
+numpy/numpy,closed,3468,b682504e1618f2436715a1512bf0b3d0e0cc4906,doc/sphinxext/numpydoc/tests/test_docscrape.py,modified,25,8,pelson,2013-06-25 06:11:22,2013-06-25 06:11:22,2013-06-29 10:29:37,2013-06-29 10:29:37
+numpy/numpy,closed,8557,8b39848836e833047c091768358780bd48974cae,numpy/linalg/tests/test_linalg.py,modified,13,0,pezcore,2017-02-02 17:29:30,2017-02-02 17:29:30,2017-09-16 17:23:16,2017-09-16 17:23:16
+numpy/numpy,closed,5022,6bc622f23848f5f6b786c64cbd7404a030eb1a98,numpy/lib/tests/test_function_base.py,modified,11,1,pp-mo,2014-08-30 08:29:51,2014-08-30 08:29:51,2014-08-31 00:15:55,2014-08-31 00:15:55
+numpy/numpy,closed,7421,03f9beff6f54966e745152f791ee4dad6d87fa5e,numpy/lib/tests/test_nanfunctions.py,modified,106,1,pwolfram,2016-03-16 17:35:13,2016-03-16 17:35:13,2016-03-26 18:59:37,2016-03-26 18:59:37
+numpy/numpy,closed,2940,a6e65ef5649829590ab58df7461792145c568338,numpy/lib/tests/test_index_tricks.py,modified,4,0,raulcota,2013-01-22 02:52:09,2013-01-22 02:52:09,2013-01-24 04:21:18,2013-01-24 04:21:18
+numpy/numpy,closed,3379,1cfb64f165cd3581f77d39dc879a57dc0b2e460a,numpy/ma/tests/test_core.py,modified,3,4,rhattersley,2013-05-29 00:50:02,2013-05-29 00:50:02,2014-03-28 16:29:51,NA
+numpy/numpy,closed,2758,09418bb87ee8cd949642873d6a8b06bc08a4d1ca,numpy/testing/nosetester.py,modified,2,0,rhattersley,2012-11-21 21:11:55,2012-11-21 21:11:55,2012-11-26 20:49:51,2012-11-26 20:49:51
+numpy/numpy,closed,30,320e97bb709743a6b50e1b3b8d9537d9515614b5,numpy/core/src/umath/umath_tests.c.src,modified,287,0,rigtorp,2010-12-31 13:43:17,2010-12-31 13:43:17,2013-05-03 03:59:31,NA
+numpy/numpy,closed,30,1a3443f2280db9c52e5c23fb4feea9db57fc3670,numpy/core/tests/test_ufunc.py,modified,60,0,rigtorp,2010-12-31 13:43:17,2010-12-31 13:43:17,2013-05-03 03:59:31,NA
+numpy/numpy,closed,4077,e3ccb391c6a0bf12de80dc676bc27f932402eedd,numpy/lib/tests/test_io.py,modified,36,6,romanstingler,2013-11-26 15:15:35,2013-11-26 15:15:35,2013-11-26 18:25:00,2013-11-26 18:25:00
+numpy/numpy,open,6320,962fe6a52368e1b50d69c7785e418ca179914fcc,numpy/core/tests/test_multiarray.py,modified,2,2,rudimeier,2015-09-15T18:46:04Z,2018-03-29T20:29:38Z,NA,NA
+numpy/numpy,open,6320,be0bc1c33f8642979499b96220b61514ca3b91ff,numpy/core/tests/test_ufunc.py,modified,25,25,rudimeier,2015-09-15T18:46:04Z,2018-03-29T20:29:38Z,NA,NA
+numpy/numpy,open,6320,0c5f24d13d7fe90c25cdbada944601214a524848,numpy/core/tests/test_umath.py,modified,89,11,rudimeier,2015-09-15T18:46:04Z,2018-03-29T20:29:38Z,NA,NA
+numpy/numpy,open,6320,618d09da8c2c90cf30c1833722548057c4809cbf,numpy/linalg/tests/test_regression.py,modified,9,7,rudimeier,2015-09-15T18:46:04Z,2018-03-29T20:29:38Z,NA,NA
+numpy/numpy,closed,5116,5c15941e6874cd84b6ba08aac7faaf345459c30a,numpy/lib/tests/test_polynomial.py,modified,11,0,saullocastro,2014-09-25 06:13:28,2014-09-25 06:13:28,2014-09-25 18:43:23,2014-09-25 18:43:23
+numpy/numpy,closed,9536,f403812c94c75c163da35f9811456f7e7ff91ff0,numpy/polynomial/tests/test_printing.py,modified,25,25,schaefed,2017-08-10 16:07:36,2017-08-10 16:07:36,2017-08-10 18:12:34,2017-08-10 18:12:34
+numpy/numpy,closed,4997,e460a0b8755b25c3c35b0bb829a2754b7bcdddac,numpy/core/tests/test_multiarray.py,modified,6,0,scopatz,2014-08-25 19:30:29,2014-08-25 19:30:29,2014-08-26 23:07:00,2014-08-26 23:06:59
+numpy/numpy,closed,278,641f63ed98273f453f7c3111ab80cb87094d52d6,numpy/core/tests/test_maskna.py,modified,8,0,scopatz,2012-05-10 21:44:51,2012-05-10 21:44:51,2012-05-18 20:56:31,2012-05-18 20:56:31
+numpy/numpy,open,7810,4a1b65eadeae1314ae4c02743b7347563e8edd7d,numpy/random/tests/test_random.py,modified,12,1,ssanderson,2016-07-07T14:51:57Z,2016-07-08T22:32:26Z,NA,NA
+numpy/numpy,closed,5659,ab885bbf02e968f884252b026e3fd01f967687d4,numpy/core/tests/test_ufunc.py,modified,23,0,stuarteberg,2015-03-10 04:38:39,2015-03-10 04:38:39,2015-03-12 20:30:16,2015-03-12 20:30:16
+numpy/numpy,closed,4589,df9dedeca9f3c1a2b1b24df7798da27e0c00816b,tools/travis-test.sh,modified,1,1,szpy,2014-04-05 11:33:44,2014-04-05 11:33:44,2014-04-10 19:03:31,2014-04-10 19:03:31
+numpy/numpy,closed,10112,08d67153adf5a0f61407ec28fe28bc258e517a62,numpy/testing/tests/test_utils.py,modified,9,6,tkoeppe,2017-11-28 08:55:13,2017-11-28 08:55:13,2017-11-28 19:17:40,2017-11-28 19:17:39
+numpy/numpy,closed,10097,32c96221df9d1b03430e02acd591a64371576b34,numpy/core/tests/test_arrayprint.py,modified,20,5,tkoeppe,2017-11-27 07:21:02,2017-11-27 07:21:02,2017-11-27 18:01:32,2017-11-27 18:01:31
+numpy/numpy,closed,248,312e011b0e532a7ea33a1844a862b9e02059b088,numpy/lib/tests/test_function_base.py,modified,29,2,tonysyu,2012-04-09 13:35:42,2012-04-09 13:35:42,2012-06-05 19:30:11,NA
+numpy/numpy,closed,11383,2e0885024c231c25b53d8217190ff3e2adb2f24a,numpy/random/tests/test_random.py,modified,9,0,toslunar,2018-06-19 22:48:33,2018-06-19 22:48:33,2018-06-24 18:00:25,2018-06-24 18:00:24
+numpy/numpy,closed,10907,7f6fca4a4502eda5c9bdac511e67f4f309862f32,numpy/lib/tests/test_polynomial.py,modified,18,18,toslunar,2018-04-15 09:30:05,2018-04-15 09:30:05,2018-04-15 19:36:04,2018-04-15 19:36:04
+numpy/numpy,closed,9347,d988a29d3a98b20ac1985f47b4960ca32aa28005,numpy/ma/tests/test_core.py,modified,13,1,tynn,2017-07-01 22:09:03,2017-07-01 22:09:03,2017-12-19 05:21:52,NA
+numpy/numpy,closed,6212,352d8ff06512693786dd200c8311c20953c5373c,numpy/core/tests/test_multiarray.py,modified,12,0,tynn,2015-08-17 16:10:53,2015-08-17 16:10:53,2015-08-17 16:40:57,2015-08-17 16:40:57
+numpy/numpy,closed,6212,c8e2c21282093e3a1e908803c9484f5ddf965394,numpy/lib/tests/test_function_base.py,modified,9,0,tynn,2015-08-17 16:10:53,2015-08-17 16:10:53,2015-08-17 16:40:57,2015-08-17 16:40:57
+numpy/numpy,closed,11353,1705191101ba3a153ec138095018f0555d604703,doc/TESTS.rst.txt,modified,4,4,uds5501,2018-06-16 05:02:36,2018-06-16 05:02:36,2018-06-16 15:45:30,2018-06-16 15:45:30
+numpy/numpy,closed,6886,bdef47167b994af80c0c5b7acf2a33cf9b6da97c,numpy/distutils/tests/test_npy_pkg_config.py,modified,21,33,vincent-legoll,2015-12-25 04:11:45,2015-12-25 04:11:45,2016-01-02 15:34:55,2016-01-02 15:34:55
+numpy/numpy,closed,6886,0c9e91568a665e10c3e4b092903723a17496e807,numpy/f2py/tests/util.py,modified,12,20,vincent-legoll,2015-12-25 04:11:45,2015-12-25 04:11:45,2016-01-02 15:34:55,2016-01-02 15:34:55
+numpy/numpy,closed,6886,32e0c32ded0363642d0f6e9778597dca8b05d509,numpy/lib/tests/test_io.py,modified,31,55,vincent-legoll,2015-12-25 04:11:45,2015-12-25 04:11:45,2016-01-02 15:34:55,2016-01-02 15:34:55
+numpy/numpy,closed,6886,574c652710cc1bba1750b39454bf0bfb98694caf,numpy/ma/tests/test_mrecords.py,modified,6,10,vincent-legoll,2015-12-25 04:11:45,2015-12-25 04:11:45,2016-01-02 15:34:55,2016-01-02 15:34:55
+numpy/numpy,closed,6886,94587e80795d6ff40796db3d466af333d8d00dbf,numpy/tests/test_scripts.py,modified,5,4,vincent-legoll,2015-12-25 04:11:45,2015-12-25 04:11:45,2016-01-02 15:34:55,2016-01-02 15:34:55
+numpy/numpy,open,10091,944de9421cde439cec89667f2d32e40768da0c31,numpy/core/tests/test_datetime.py,modified,25,2,woaik110,2017-11-26T22:14:42Z,2017-11-28T20:23:44Z,NA,NA
+numpy/numpy,closed,7045,2a836d9cfc21a3b60ef4ee6ef2e3540852374019,runtests.py,modified,6,8,woaik110,2016-01-17 15:17:41,2016-01-17 15:17:41,2016-01-17 15:53:24,2016-01-17 15:53:24
+numpy/numpy,open,12120,4ff5359ce2a5619ea772c4906203c70af3041923,numpy/core/tests/test_datetime.py,modified,71,0,ydup,2018-10-09T03:35:30Z,2018-10-18T21:35:50Z,NA,NA
+numpy/numpy,open,12104,67889a1d6dc7ae319303336e3dd7ab72e41de08f,numpy/f2py/tests/test_return_real.py,modified,7,1,ydup,2018-10-07T00:13:08Z,2018-10-07T21:44:01Z,NA,NA
+numpy/numpy,open,12104,614f88532cdfc2ee16bc914a7730e1a3d4a08ac0,numpy/f2py/tests/util.py,modified,90,79,ydup,2018-10-07T00:13:08Z,2018-10-07T21:44:01Z,NA,NA
+numpy/numpy,closed,6036,b0c06e1ace7e631f27b3492920eacb0a24650d0d,numpy/core/src/umath/test_rational.c.src,modified,1,1,yiakwy,2015-07-02 22:37:24,2015-07-02 22:37:24,2015-07-04 02:54:12,2015-07-04 02:54:12
+numpy/numpy,closed,6036,4b6a39c25b45e6da44fbd70717c6b15a644bdce8,tools/travis-test.sh,modified,11,2,yiakwy,2015-07-02 22:37:24,2015-07-02 22:37:24,2015-07-04 02:54:12,2015-07-04 02:54:12
+numpy/numpy,closed,6224,ca662401bd0e4dec60c3ba6fb17f57b87dfd53d9,TEST_COMMIT,removed,0,18,yolanda15,2015-08-20 07:17:23,2015-08-20 07:17:23,2016-03-22 22:31:27,NA
+numpy/numpy,closed,6208,85b0e5519ee8f8dbf6bb64e93b238ec503fe83a9,numpy/core/tests/test_multiarray.py,modified,2,2,yolanda15,2015-08-14 18:11:29,2015-08-14 18:11:29,2015-10-18 20:14:54,2015-10-18 20:14:54
+numpy/numpy,closed,8795,326ce22793e596c4d8f7582d521a4dba5115510d,numpy/core/tests/test_umath.py,modified,22,0,ZZhaoTireless,2017-03-19 16:04:24,2017-03-19 16:04:24,2017-03-23 16:59:54,2017-03-23 16:59:54
+opentx/opentx,closed,1119,ddfff10adc6e5f072c9734a54ef09d7e9aedc7d0,radio/src/gtests.cpp,modified,27,12,aaronchch,2014-05-19 13:17:08,2014-05-19 13:17:08,2014-05-19 20:04:30,2014-05-19 20:04:30
+opentx/opentx,closed,4151,f9d828fd37122e17738105fd6bfe2dcf6fea6e58,radio/src/tests/frsky.cpp,modified,4,4,PTDreamer,2016-12-18 19:00:30,2016-12-18 19:00:30,2016-12-23 23:04:12,2016-12-23 23:04:12
+opentx/opentx,closed,5214,347ed6641f2b572567fc7a91c36a0f7c80b8bd29,tools/commit-tests.sh,modified,10,1,rodericktaylor,2017-09-15 07:04:30,2017-09-15 07:04:30,2017-09-16 14:08:21,2017-09-16 14:08:21
+scipy/scipy,closed,5491,6bb27e000051308e7afd0aec994333174d3632d8,runtests.py,modified,6,1,aakashjain,2015-11-12 19:48:41,2015-11-12 19:48:41,2015-11-13 10:39:46,2015-11-13 10:39:46
+scipy/scipy,closed,4059,45de79b096f2a12f37034b27f1e47bc9063e8e2d,scipy/interpolate/tests/test_fitpack.py,modified,11,0,alexeyum,2014-10-08 00:15:31,2014-10-08 00:15:31,2014-10-14 20:01:22,2014-10-14 20:01:22
+scipy/scipy,closed,3157,07f2ae25368b2c37e2c31a6a2dd38af09c219431,scipy/linalg/tests/test_basic.py,modified,80,1,alimuldal,2013-12-18 00:24:46,2013-12-18 00:24:46,2015-04-06 13:18:13,2015-04-06 13:18:13
+scipy/scipy,closed,5701,8ce6acd5ab6748eca4bfad01f3c452e30a941868,scipy/optimize/tests/test_optimize.py,modified,1,0,aloctavodia,2016-01-11 09:41:52,2016-01-11 09:41:52,2016-01-15 21:03:57,2016-01-15 21:03:57
+scipy/scipy,closed,5479,d4229565b44a92ea8c6d2a6a7013a33ea22230b9,scipy/optimize/tests/test__basinhopping.py,modified,47,12,andim,2015-11-09 12:11:31,2015-11-09 12:11:31,2015-11-24 07:33:37,2015-11-24 07:33:37
+scipy/scipy,open,6386,93ce4b62a6ba6dceb216585526380033b33329c2,scipy/linalg/tests/test_basic.py,modified,14,2,andrewfowlie,2016-07-18T18:46:20Z,2018-03-26T14:29:27Z,NA,NA
+scipy/scipy,closed,6195,8809ef742f99317841719565caf713ebe2a41194,scipy/special/tests/test_cython_special.py,added,340,0,andrewfowlie,2016-05-28 22:50:06,2016-05-28 22:50:06,2016-07-21 19:21:38,2016-07-21 19:21:38
+scipy/scipy,open,6482,7aaa36166a400bc29b61379d7297e90cca68fcf2,scipy/integrate/tests/test_quadrature.py,modified,28,1,apapanico,2016-08-10T22:54:13Z,2016-09-01T09:14:19Z,NA,NA
+scipy/scipy,closed,2810,7a1d1c386e7b518070bceb533f00d5f1e0305b7a,scipy/special/tests/test_mpmath.py,modified,8,9,batterseapower,2013-08-29 07:12:57,2013-08-29 07:12:57,2013-09-01 09:45:13,NA
+scipy/scipy,closed,3727,375c98196b9d49f8396e1d440c7d794c7789a850,scipy/optimize/tests/test_minpack.py,modified,16,8,BenFrantzDale,2014-06-10 01:23:31,2014-06-10 01:23:31,2014-06-14 15:06:59,2014-06-14 15:06:59
+scipy/scipy,closed,6047,1974d2ac8bde8191cb2b41e4cfe8c40775a32480,scipy/special/tests/test_mpmath.py,modified,41,0,billsacks,2016-04-09 17:51:49,2016-04-09 17:51:49,2016-04-09 20:51:36,2016-04-09 20:51:36
+scipy/scipy,closed,6047,3050a4d573cd3f5cf6fc8c864b400cc5bc86f4d7,scipy/special/tests/test_spence.py,added,33,0,billsacks,2016-04-09 17:51:49,2016-04-09 17:51:49,2016-04-09 20:51:36,2016-04-09 20:51:36
+scipy/scipy,closed,4258,bf5f99ca89375fbd980185fd25711901f23ff844,scipy/io/arff/tests/data/test4.arff,modified,0,3,blogle,2014-12-11 17:26:28,2014-12-11 17:26:28,2014-12-12 22:00:50,2014-12-12 22:00:50
+scipy/scipy,closed,4258,0075daf05e7792e80dcd565e791ce40e4dd49e85,scipy/io/arff/tests/data/test5.arff,modified,14,0,blogle,2014-12-11 17:26:28,2014-12-11 17:26:28,2014-12-12 22:00:50,2014-12-12 22:00:50
+scipy/scipy,closed,6845,cc949da3f5267951933da91a59abc7cd26b98f2d,scipy/signal/tests/test_bsplines.py,added,216,0,cynthia-rempel,2016-12-11 04:31:47,2016-12-11 04:31:47,2016-12-11 05:16:53,NA
+scipy/scipy,closed,6844,b65c1ddc919e1ef7fc7577b45ebb5e9a39fd96e3,scipy/linalg/tests/test_basic.py,modified,43,0,cynthia-rempel,2016-12-10 12:00:19,2016-12-10 12:00:19,2016-12-18 21:22:41,2016-12-18 21:22:41
+scipy/scipy,closed,6844,f3e5cf4423e7a18f64248fd2cdea7467b17afd09,scipy/linalg/tests/test_solve_toeplitz.py,modified,9,0,cynthia-rempel,2016-12-10 12:00:19,2016-12-10 12:00:19,2016-12-18 21:22:41,2016-12-18 21:22:41
+scipy/scipy,closed,6705,61a929fa96dc29c150b897a70638f148557f6c9e,scipy/sparse/linalg/isolve/tests/test_lsqr.py,modified,20,2,dfreese,2016-10-21 18:43:36,2016-10-21 18:43:36,2017-02-18 14:51:01,2017-02-18 14:51:01
+scipy/scipy,closed,6704,3087ab40478e2d90774f45db2cd959c8c5fe3090,scipy/optimize/tests/test_least_squares.py,modified,10,0,dfreese,2016-10-21 15:35:05,2016-10-21 15:35:05,2016-10-22 07:04:53,2016-10-22 07:04:53
+scipy/scipy,open,5886,da54082a49eb6052acb2d3d986a4e0ee6df7d462,scipy/signal/tests/test_ltisys.py,modified,17,1,divenex,2016-02-22T20:45:43Z,2017-07-17T16:20:59Z,NA,NA
+scipy/scipy,closed,8322,f90721acf3b2c4fec610deef0e0aa9ccbeebcbe9,scipy/optimize/tests/test__root.py,modified,24,0,divenex,2018-01-23 08:11:13,2018-01-23 08:11:13,2018-01-27 14:29:28,2018-01-27 14:29:28
+scipy/scipy,open,8151,298c78391f4f68ff92b6df3c4232af57cc0778fc,scipy/special/tests/test_hyp2f1.py,added,229,0,dtemkin,2017-11-12T23:24:07Z,2017-12-09T21:36:11Z,NA,NA
+scipy/scipy,closed,4656,a9f4e61748218ce6d4d72fc79a3c5bb9529a0db0,scipy/stats/tests/test_stats.py,modified,6,4,eamartin,2015-03-22 00:47:44,2015-03-22 00:47:44,2015-04-03 21:18:38,2015-04-03 21:18:38
+scipy/scipy,open,7351,15ac0d5e17860e1f8ae9ff43ed35e2ecdf975bed,scipy/signal/tests/test_signaltools.py,modified,2,2,ElDeveloper,2017-04-29T02:56:32Z,2018-04-08T16:14:24Z,NA,NA
+scipy/scipy,closed,4536,a81a5bbb943ac057b18074b68229eeeec8335191,scipy/signal/tests/test_windows.py,modified,46,1,ElDeveloper,2015-02-19 14:38:51,2015-02-19 14:38:51,2015-02-23 19:09:02,2015-02-23 19:09:02
+scipy/scipy,closed,2913,a190afceeb223964fb800fbe3757a1c5227006ab,scipy/stats/tests/test_stats.py,modified,85,39,garrison,2013-09-22 18:36:32,2013-09-22 18:36:32,2013-10-12 11:40:16,2013-10-12 11:40:16
+scipy/scipy,closed,6553,0092ad896179ae5d4907c111ae0bace7efe51c59,scipy/signal/tests/test_signaltools.py,modified,17,1,gdooper,2016-09-08 02:21:51,2016-09-08 02:21:51,2016-10-07 11:00:46,2016-10-07 11:00:46
+scipy/scipy,closed,5291,3d5437cbc6e4af29245ed517cdb71bb212124d12,scipy/signal/tests/test_signaltools.py,modified,24,0,Gillu13,2015-09-26 13:51:37,2015-09-26 13:51:37,2015-10-06 19:20:47,2015-10-06 19:20:47
+scipy/scipy,closed,4619,260ac8d2de4a3bb906deeab0cb5dde0d6f36483f,scipy/stats/tests/test_stats.py,modified,20,16,gmcastil,2015-03-11 01:22:05,2015-03-11 01:22:05,2015-03-14 10:11:05,2015-03-14 10:11:05
+scipy/scipy,closed,6938,0a4a22657b0cda5ea06c200dcbb712a130ff3dfc,scipy/special/tests/test_mpmath.py,modified,21,14,goelakash,2017-01-06 22:01:11,2017-01-06 22:01:11,2017-01-08 15:31:43,2017-01-08 15:31:43
+scipy/scipy,closed,6938,a2ac834a469d4aa1e087b597915e2e693f3ed300,scipy/special/tests/test_precompute_gammainc.py,modified,11,2,goelakash,2017-01-06 22:01:11,2017-01-06 22:01:11,2017-01-08 15:31:43,2017-01-08 15:31:43
+scipy/scipy,closed,6938,5fae126471d7834374f440d34ae2295694887003,scipy/special/tests/test_precompute_utils.py,modified,11,1,goelakash,2017-01-06 22:01:11,2017-01-06 22:01:11,2017-01-08 15:31:43,2017-01-08 15:31:43
+scipy/scipy,closed,4835,ca4cd46a8bfd28cccd4f697c9871db1e519c1b14,scipy/signal/tests/test_fir_filter_design.py,modified,42,1,GregoryEAllen,2015-05-08 22:20:22,2015-05-08 22:20:22,2015-05-08 22:48:04,NA
+scipy/scipy,closed,3696,f3a8c06437343df6a287360954ee95f23fd20f3c,scipy/cluster/tests/test_hierarchy.py,modified,4,0,heroxbd,2014-06-01 20:23:35,2014-06-01 20:23:35,2014-06-02 04:35:20,2014-06-02 04:35:20
+scipy/scipy,closed,3813,cde9fbcd401a9afecd0d87fff18093cc077e4f81,scipy/sparse/tests/test_base.py,modified,109,72,hildensia,2014-07-20 16:18:43,2014-07-20 16:18:43,2014-07-31 21:55:10,2014-07-31 21:55:09
+scipy/scipy,open,3597,316f03941eeacdfcf1d995f7ad2a2b6667b6841c,scipy/io/matlab/tests/classname.m,added,5,0,huitseeker,2014-05-01T10:01:39Z,2015-10-10T23:43:28Z,NA,NA
+scipy/scipy,open,3597,8f26ada350e46e87b152106aeb7324731a10ee16,scipy/io/matlab/tests/data/testclass_8.3_GLNXA64.mat,added,0,0,huitseeker,2014-05-01T10:01:39Z,2015-10-10T23:43:28Z,NA,NA
+scipy/scipy,open,3597,7f6dddecef68be60825ab2baf2698f688078d33a,scipy/io/matlab/tests/gen_mat5files.m,modified,9,3,huitseeker,2014-05-01T10:01:39Z,2015-10-10T23:43:28Z,NA,NA
+scipy/scipy,open,3597,9fa4cd4fed4fdbcb63f40e1607e7d7a14de705f2,scipy/io/matlab/tests/test_mio.py,modified,15,4,huitseeker,2014-05-01T10:01:39Z,2015-10-10T23:43:28Z,NA,NA
+scipy/scipy,closed,6846,9e880cd12fde932fff12e043685594d64b6c92cf,scipy/signal/tests/test_bsplines.py,added,214,0,itdxer,2016-12-11 05:25:39,2016-12-11 05:25:39,2018-07-15 19:21:14,NA
+scipy/scipy,open,8286,b71d32383fe9e8b455108174ff0b374c75c3e78f,scipy/linalg/tests/test_decomp_cholesky_update.py,added,123,0,jcalbert,2018-01-12T02:41:41Z,2018-05-26T22:08:21Z,NA,NA
+scipy/scipy,closed,9158,ea4472ff8354e08b8eed2c2282a1caca9bacc00e,scipy/optimize/tests/test_func.py,added,105,0,jcalbert,2018-08-20 19:18:34,2018-08-20 19:18:34,2018-08-22 18:30:56,NA
+scipy/scipy,open,8902,5501d162c2bc878cfb71a2991ef28480917ef83b,scipy/sparse/tests/test_base.py,modified,17,0,JesseLivezey,2018-06-04T20:59:09Z,2018-06-10T00:04:18Z,NA,NA
+scipy/scipy,closed,7251,cd07467a2a7d3774a575320b668d8217c105b798,scipy/sparse/tests/test_base.py,modified,32,8,jllanfranchi,2017-04-03 16:15:30,2017-04-03 16:15:30,2017-04-27 20:20:54,2017-04-27 20:20:54
+scipy/scipy,closed,7229,3a637aca2109e357081216f1ab0bf4bfeb5e8dca,scipy/special/tests/test_wrightomega.py,modified,11,10,jllanfranchi,2017-03-27 18:51:40,2017-03-27 18:51:40,2017-03-27 21:08:16,2017-03-27 21:08:16
+scipy/scipy,closed,5003,d6144ea02cac19bc431c662eb1dfebb069b78511,scipy/stats/tests/test_rank.py,modified,30,1,jonycgn,2015-06-27 20:55:38,2015-06-27 20:55:38,2015-10-11 13:14:09,2015-10-11 13:14:09
+scipy/scipy,closed,4603,0196bf6ac6068fbb02f6e93fe49b77bf25e5a0d6,scipy/linalg/tests/test_lapack.py,modified,35,1,jonycgn,2015-03-06 10:29:59,2015-03-06 10:29:59,2015-03-13 22:26:56,2015-03-13 22:26:56
+scipy/scipy,closed,9219,4183da2a4a06394a8429e9e4871a07a09f4f74e3,scipy/linalg/tests/test_basic.py,modified,2,0,jrsassen,2018-09-04 11:52:43,2018-09-04 11:52:43,2018-09-04 12:51:23,NA
+scipy/scipy,closed,9219,5c84b1ea412c96558bad2023b3d12c023a8eb432,scipy/optimize/tests/test_trustregion.py,modified,15,1,jrsassen,2018-09-04 11:52:43,2018-09-04 11:52:43,2018-09-04 12:51:23,NA
+scipy/scipy,closed,3085,ac3eae641cd6280a40eea6b2753e1bd18fa60ca8,scipy/signal/tests/test_filter_design.py,modified,1657,4,js850,2013-11-20 05:38:35,2013-11-20 05:38:35,2014-01-31 13:37:28,2014-01-31 13:37:28
+scipy/scipy,closed,3076,c1c403f5b3ae4ec6e37902559c3de8cb9a0fca3c,scipy/sparse/tests/test_base.py,modified,9,5,js850,2013-11-18 12:24:42,2013-11-18 12:24:42,2013-11-28 18:38:47,2013-11-28 18:38:47
+scipy/scipy,open,9281,e48bb10e90639dda76e171d18759da6814037d72,scipy/stats/tests/test_morestats.py,modified,14,0,Juanlu001,2018-09-16T20:44:53Z,2018-10-03T21:05:29Z,NA,NA
+scipy/scipy,closed,5654,620445011d03ba49f50d431ea901d0c81687479b,scipy/stats/tests/test_continuous_basic.py,modified,1,1,ksemb,2016-01-02 14:40:53,2016-01-02 14:40:53,2016-01-10 14:14:22,2016-01-10 14:14:22
+scipy/scipy,open,6629,58316560bbfb22e6b29fedddda5b30fe37ef5c95,scipy/sparse/tests/test_base.py,modified,25,94,Linkid,2016-09-28T22:51:19Z,2018-04-12T18:44:55Z,NA,NA
+scipy/scipy,closed,4992,3545e5e1fd672b55e5e714403b9fdd806e8760a9,scipy/stats/tests/test_morestats.py,modified,8,0,Linkid,2015-06-25 00:34:08,2015-06-25 00:34:08,2015-07-01 06:05:19,2015-07-01 06:05:19
+scipy/scipy,open,5952,306f462a4f7ebc952aff344e47f8bb083ec56823,scipy/optimize/tests/test_least_squares.py,modified,3,3,maciejkula,2016-03-09T16:14:35Z,2016-04-06T11:40:53Z,NA,NA
+scipy/scipy,closed,8523,42c0a7a36ed57691657c2f4e50169715dabe015e,scipy/signal/tests/test_peak_finding.py,modified,8,4,mknorps,2018-03-05 18:52:14,2018-03-05 18:52:14,2018-03-26 14:27:03,2018-03-26 14:27:03
+scipy/scipy,closed,3442,0f6fe1aeba6c8e5eb576e091730928f220458ddd,scipy/signal/tests/test_signaltools.py,modified,136,5,mromberg,2014-03-09 03:20:17,2014-03-09 03:20:17,2015-01-01 09:21:52,2015-01-01 09:21:52
+scipy/scipy,closed,5828,74d6deb2505aa435e0dfe57e1ea86e8661efacd9,scipy/special/tests/test_mpmath.py,modified,25,7,musically-ut,2016-02-10 13:21:37,2016-02-10 13:21:37,2016-02-17 22:13:48,2016-02-17 22:13:48
+scipy/scipy,closed,6646,237557d937754ea084c6786ff56d90378df41a50,scipy/signal/tests/mpsig.py,modified,1,4,mvdoc,2016-10-01 23:49:14,2016-10-01 23:49:14,2016-10-02 12:16:33,2016-10-02 12:16:33
+scipy/scipy,closed,6646,8096e86e217e5c100bbd12e04232ca3ae4cebada,scipy/signal/tests/test_filter_design.py,modified,1,4,mvdoc,2016-10-01 23:49:14,2016-10-01 23:49:14,2016-10-02 12:16:33,2016-10-02 12:16:33
+scipy/scipy,closed,6646,806d0a803f02cc50c0bbc641d21bd2534867be45,scipy/special/_mptestutils.py,modified,1,4,mvdoc,2016-10-01 23:49:14,2016-10-01 23:49:14,2016-10-02 12:16:33,2016-10-02 12:16:33
+scipy/scipy,closed,6646,41b905b358a4a3d04092e613186bf6b4f7ebbf1a,scipy/special/tests/test_cdflib.py,modified,1,4,mvdoc,2016-10-01 23:49:14,2016-10-01 23:49:14,2016-10-02 12:16:33,2016-10-02 12:16:33
+scipy/scipy,closed,6646,ce1442cbed897ef5ca38f45665a4c295c05f840c,scipy/special/tests/test_mpmath.py,modified,1,4,mvdoc,2016-10-01 23:49:14,2016-10-01 23:49:14,2016-10-02 12:16:33,2016-10-02 12:16:33
+scipy/scipy,closed,6646,060ca8c2261686cc1bf75b1c3b6e6766b9f3bd98,scipy/special/tests/test_precompute_gammainc.py,modified,3,4,mvdoc,2016-10-01 23:49:14,2016-10-01 23:49:14,2016-10-02 12:16:33,2016-10-02 12:16:33
+scipy/scipy,closed,6646,dff616433e13839ce6af56236d733c6612279d85,scipy/special/tests/test_precompute_utils.py,modified,1,4,mvdoc,2016-10-01 23:49:14,2016-10-01 23:49:14,2016-10-02 12:16:33,2016-10-02 12:16:33
+scipy/scipy,closed,6646,7f1ef01281a4069557432816e32d1220b3608e79,scipy/stats/tests/test_distributions.py,modified,4,4,mvdoc,2016-10-01 23:49:14,2016-10-01 23:49:14,2016-10-02 12:16:33,2016-10-02 12:16:33
+scipy/scipy,open,8766,aa566093406f7f55962f3b26f19672852ec2d71c,scipy/stats/tests/data/stable-cdf-sample-data.npy,added,0,0,nschloe,2018-04-23T11:36:21Z,2018-06-17T07:49:56Z,NA,NA
+scipy/scipy,open,8766,1b0e550e4202201ab84d07e06ca6efe723d6d9c5,scipy/stats/tests/data/stable-pdf-sample-data.npy,added,0,0,nschloe,2018-04-23T11:36:21Z,2018-06-17T07:49:56Z,NA,NA
+scipy/scipy,open,8766,c68c3d2a6de8193de9111fe696b048c51e22cc2f,scipy/stats/tests/test_distributions.py,modified,171,1,nschloe,2018-04-23T11:36:21Z,2018-06-17T07:49:56Z,NA,NA
+scipy/scipy,open,354,2b37461017eec6b55a14165408a22c5e259c642a,scipy/linalg/tests/test_expokit.py,added,31,0,pawelngei,2012-11-16T00:17:17Z,2016-04-18T14:54:46Z,NA,NA
+scipy/scipy,closed,2783,2f23e1a2d84b635e0dadf2785dfea91d55a4348e,scipy/stats/tests/test_mstats_basic.py,modified,0,1,pawelngei,2013-08-25 09:26:07,2013-08-25 09:26:07,2013-08-25 10:15:36,2013-08-25 10:15:36
+scipy/scipy,closed,2783,7f0374eae1fc4ea6e60cf0ef466d885fae2f403b,scipy/stats/tests/test_stats.py,modified,2,3,pawelngei,2013-08-25 09:26:07,2013-08-25 09:26:07,2013-08-25 10:15:36,2013-08-25 10:15:36
+scipy/scipy,closed,8383,7e60d3e32061d11aee4f26d024c4dc93e6d49b1e,scipy/io/matlab/tests/test_mio.py,modified,2,7,peterjc,2018-02-08 14:22:00,2018-02-08 14:22:00,2018-02-09 19:37:37,2018-02-09 19:37:37
+scipy/scipy,closed,8909,5c0d5338b1b07f60fec33d73d13912ac9a7f7259,scipy/optimize/tests/test_linprog.py,modified,87,37,peterSweter,2018-06-06 04:51:55,2018-06-06 04:51:55,2018-06-21 23:00:00,2018-06-21 23:00:00
+scipy/scipy,closed,8223,f40f3d6128325a1a3fa302754a3eac64985055b2,scipy/stats/tests/test_distributions.py,modified,1,1,peterSweter,2017-12-15 22:36:31,2017-12-15 22:36:31,2018-01-26 20:23:42,2018-01-26 20:23:42
+scipy/scipy,closed,6750,ffc3f6b4ac43824a5b4158452ae2dbca3bf65989,scipy/sparse/tests/test_base.py,modified,6,6,puenka,2016-11-01 22:07:08,2016-11-01 22:07:08,2017-01-03 07:12:21,2017-01-03 07:12:21
+scipy/scipy,closed,6020,010328f01bdeefab78d208847ccac0e591480d2e,scipy/special/tests/test_basic.py,modified,61,5,radosuav,2016-03-31 04:07:14,2016-03-31 04:07:14,2016-04-09 10:59:11,2016-04-09 10:59:11
+scipy/scipy,closed,8573,5b66aa787f8da9d32494d48611f5402b4aa534ac,scipy/ndimage/tests/test_filters.py,modified,8,0,RadZaeem,2018-03-17 22:06:57,2018-03-17 22:06:57,2018-03-22 18:59:49,2018-03-22 18:59:49
+scipy/scipy,closed,8573,f90721acf3b2c4fec610deef0e0aa9ccbeebcbe9,scipy/optimize/tests/test__root.py,modified,24,0,RadZaeem,2018-03-17 22:06:57,2018-03-17 22:06:57,2018-03-22 18:59:49,2018-03-22 18:59:49
+scipy/scipy,closed,8573,f969929b0614593bb8e8e913cbd3ec8b803d36bb,scipy/optimize/tests/test_cobyla.py,modified,2,1,RadZaeem,2018-03-17 22:06:57,2018-03-17 22:06:57,2018-03-22 18:59:49,2018-03-22 18:59:49
+scipy/scipy,closed,8573,a2bcc138f160d706ba352afb7008f50b3ac7d496,scipy/optimize/tests/test_linprog.py,modified,18,0,RadZaeem,2018-03-17 22:06:57,2018-03-17 22:06:57,2018-03-22 18:59:49,2018-03-22 18:59:49
+scipy/scipy,closed,8573,c7d7ebf9d8464bdf0f82faa35c9823d6749291f9,scipy/optimize/tests/test_optimize.py,modified,8,0,RadZaeem,2018-03-17 22:06:57,2018-03-17 22:06:57,2018-03-22 18:59:49,2018-03-22 18:59:49
+scipy/scipy,closed,8573,ecc7093dd48b6437514a510906fd98d444ea0927,scipy/signal/tests/test_signaltools.py,modified,15,0,RadZaeem,2018-03-17 22:06:57,2018-03-17 22:06:57,2018-03-22 18:59:49,2018-03-22 18:59:49
+scipy/scipy,closed,8573,8bf084b6c333465dedd04dcc0c8849e244f85769,scipy/spatial/tests/test_distance.py,modified,12,0,RadZaeem,2018-03-17 22:06:57,2018-03-17 22:06:57,2018-03-22 18:59:49,2018-03-22 18:59:49
+scipy/scipy,closed,8573,42542d13f9f78a161e861f546e7d26685bc62bb7,scipy/stats/tests/test_mstats_extras.py,modified,2,2,RadZaeem,2018-03-17 22:06:57,2018-03-17 22:06:57,2018-03-22 18:59:49,2018-03-22 18:59:49
+scipy/scipy,closed,8573,691faa478e7f77b90435dec3be2a54608691962e,scipy/stats/tests/test_multivariate.py,modified,52,20,RadZaeem,2018-03-17 22:06:57,2018-03-17 22:06:57,2018-03-22 18:59:49,2018-03-22 18:59:49
+scipy/scipy,closed,8573,09fec6f5d1e1aa75627d66fa8f69b624ff975497,scipy/stats/tests/test_stats.py,modified,6,5,RadZaeem,2018-03-17 22:06:57,2018-03-17 22:06:57,2018-03-22 18:59:49,2018-03-22 18:59:49
+scipy/scipy,open,9361,f33be4a7cee0b404ac9d6a45d07870aaaf9845c3,scipy/stats/tests/test_stats.py,modified,59,29,richardjgowers,2018-10-06T17:08:25Z,2018-10-13T15:01:44Z,NA,NA
+scipy/scipy,closed,7091,9d71b009170e8bc64092e1fa1a4b90d765bb53a4,scipy/linalg/tests/test_decomp.py,modified,5,3,rlamy,2017-02-24 18:07:51,2017-02-24 18:07:51,2018-09-23 07:56:31,NA
+scipy/scipy,closed,7091,6351e2f019f81f6fdcd76bc7b74a687d66b4fedd,scipy/linalg/tests/test_solvers.py,modified,2,2,rlamy,2017-02-24 18:07:51,2017-02-24 18:07:51,2018-09-23 07:56:31,NA
+scipy/scipy,closed,7091,4dcf0d6ae910a8c58722ab3c6216c6ba786eb31c,scipy/sparse/tests/test_base.py,modified,3,0,rlamy,2017-02-24 18:07:51,2017-02-24 18:07:51,2018-09-23 07:56:31,NA
+scipy/scipy,closed,7091,a799789667ab42d33b0661a1f06e7c40112cb630,scipy/spatial/tests/test_distance.py,modified,14,0,rlamy,2017-02-24 18:07:51,2017-02-24 18:07:51,2018-09-23 07:56:31,NA
+scipy/scipy,closed,7081,517d5e27488f733c7edd4dd9fe78bda73d52206d,scipy/sparse/tests/test_base.py,modified,4,6,rlamy,2017-02-22 15:12:52,2017-02-22 15:12:52,2017-03-21 22:50:52,2017-03-21 22:50:52
+scipy/scipy,open,9306,10a9fed58f25afb406a5593e06030c66496e8690,scipy/optimize/tests/test__dual_annealing.py,added,266,0,rlucas7,2018-09-25T05:41:23Z,2018-10-19T14:29:21Z,NA,NA
+scipy/scipy,closed,9264,1991fff503201f6334b3dbf6cba47251b79d45aa,scipy/interpolate/tests/test_bsplines.py,modified,9,9,rlucas7,2018-09-13 09:17:37,2018-09-13 09:17:37,2018-09-16 11:11:11,2018-09-16 11:11:11
+scipy/scipy,closed,9264,e50c153a1feb7fabaf42fb55e9778f857c1634ce,scipy/optimize/tests/test_optimize.py,modified,1,4,rlucas7,2018-09-13 09:17:37,2018-09-13 09:17:37,2018-09-16 11:11:11,2018-09-16 11:11:11
+scipy/scipy,closed,9264,ee7dd12dbede07c016641fee9f3d251e0f814b40,scipy/sparse/linalg/dsolve/tests/test_linsolve.py,modified,9,9,rlucas7,2018-09-13 09:17:37,2018-09-13 09:17:37,2018-09-16 11:11:11,2018-09-16 11:11:11
+scipy/scipy,closed,9264,ab6798e68e41d2242d335393096a8c72659dc32d,scipy/stats/tests/test_distributions.py,modified,1,6,rlucas7,2018-09-13 09:17:37,2018-09-13 09:17:37,2018-09-16 11:11:11,2018-09-16 11:11:11
+scipy/scipy,closed,9264,7359f890af021ab89c6312557bd4a5bab4eb0dfb,scipy/stats/tests/test_stats.py,modified,1,1,rlucas7,2018-09-13 09:17:37,2018-09-13 09:17:37,2018-09-16 11:11:11,2018-09-16 11:11:11
+scipy/scipy,closed,3339,01b0255717a7b8701d5114a1ff939542cf2bf018,scipy/interpolate/tests/test_fitpack2.py,modified,18,0,robfalck,2014-02-17 11:51:55,2014-02-17 11:51:55,2014-06-02 05:57:35,NA
+scipy/scipy,closed,8071,ff6ae1fa1829c74b56030632b4f6855b6e602dcd,scipy/linalg/tests/test_basic.py,modified,2,0,RothNRK,2017-10-24 19:55:15,2017-10-24 19:55:15,2017-10-25 05:22:58,2017-10-25 05:22:58
+scipy/scipy,closed,9260,374c6b6299b45ddfb0f9da81d6cd1fdb58ec0135,scipy/interpolate/tests/test_polyint.py,modified,1,1,rth,2018-09-13 01:35:11,2018-09-13 01:35:11,2018-09-13 05:24:47,2018-09-13 05:24:47
+scipy/scipy,closed,9260,ef56c1e2bcdb75259eebaebdf3ac48870ac0e339,scipy/special/tests/test_mpmath.py,modified,2,2,rth,2018-09-13 01:35:11,2018-09-13 01:35:11,2018-09-13 05:24:47,2018-09-13 05:24:47
+scipy/scipy,closed,9260,7725a7a48f60de04a03b2f36ded173d9558247fa,scipy/special/tests/test_orthogonal.py,modified,1,1,rth,2018-09-13 01:35:11,2018-09-13 01:35:11,2018-09-13 05:24:47,2018-09-13 05:24:47
+scipy/scipy,closed,5977,e682b39d532afacbbe52b376c2af767ca4774695,scipy/sparse/tests/test_construct.py,modified,12,1,samtygier,2016-03-16 16:16:01,2016-03-16 16:16:01,2016-03-28 07:26:53,2016-03-28 07:26:53
+scipy/scipy,closed,5965,c55a005516d5bc2d114d3a70c2abae8f55326c6f,scipy/special/tests/test_basic.py,modified,9,0,samtygier,2016-03-13 12:39:13,2016-03-13 12:39:13,2016-03-28 08:44:07,2016-03-28 08:44:07
+scipy/scipy,closed,3717,ae53d35546b668dc25379873a36474bad8813926,scipy/signal/tests/test_filter_design.py,modified,354,2,sbellem,2014-06-06 19:06:32,2014-06-06 19:06:32,2015-01-20 23:11:07,2015-01-20 23:11:07
+scipy/scipy,closed,3717,82fa32d6270485494b19779e9fcc3c0192724dd3,scipy/signal/tests/test_signaltools.py,modified,115,1,sbellem,2014-06-06 19:06:32,2014-06-06 19:06:32,2015-01-20 23:11:07,2015-01-20 23:11:07
+scipy/scipy,closed,4549,1a5820f434577e854cbbd4e06ee7c924377f179b,scipy/signal/tests/test_filter_design.py,modified,52,2,sjpet,2015-02-23 19:34:14,2015-02-23 19:34:14,2015-03-14 09:52:28,2015-03-14 09:52:28
+scipy/scipy,open,8723,c725ec9e725f2575b6fe24afc497d109388b7535,scipy/sparse/linalg/isolve/tests/test_utils.py,modified,40,0,StrahinjaLukic,2018-04-14T14:18:51Z,2018-04-28T15:05:25Z,NA,NA
+scipy/scipy,closed,8676,6973a8c592c3772af890fc6d0b7a85c43128e89b,scipy/optimize/tests/test_linprog.py,modified,16,0,StrahinjaLukic,2018-04-04 05:01:18,2018-04-04 05:01:18,2018-04-12 18:40:31,2018-04-12 18:40:31
+scipy/scipy,closed,6492,63ee55646e4be8cc3e1149a0317f3aa1a628a921,scipy/integrate/tests/test_quadpack.py,modified,13,4,surhudm,2016-08-16 20:20:43,2016-08-16 20:20:43,2016-09-01 08:39:56,2016-09-01 08:39:56
+scipy/scipy,closed,9145,b7a517e3d84c63c5ecfc01628977f1f47aa637f6,scipy/optimize/tests/test__linprog_clean_inputs.py,renamed,1,1,t5,2018-08-15 04:04:20,2018-08-15 04:04:20,2018-09-11 17:50:11,2018-09-11 17:50:11
+scipy/scipy,closed,9145,674128b027665553994f6c6e19ba741e0aa79be4,scipy/optimize/tests/test_linprog.py,modified,491,439,t5,2018-08-15 04:04:20,2018-08-15 04:04:20,2018-09-11 17:50:11,2018-09-11 17:50:11
+scipy/scipy,closed,8633,00ecab1eaa50914ae87b5363bedbc07bd8eda4c0,scipy/io/tests/test_netcdf.py,modified,15,0,t5,2018-03-31 01:34:09,2018-03-31 01:34:09,2018-04-01 00:02:11,2018-04-01 00:02:10
+scipy/scipy,open,9325,554b7e62c674dc0ff73353069cc3bf5415366eda,scipy/misc/tests/data/3x3x3.png,removed,0,0,takluyver,2018-09-30T10:08:53Z,2018-10-03T07:00:19Z,NA,NA
+scipy/scipy,open,9325,f84f80d56e2d9405d608ab7e67accf026db65055,scipy/misc/tests/data/3x3x4.png,removed,0,0,takluyver,2018-09-30T10:08:53Z,2018-10-03T07:00:19Z,NA,NA
+scipy/scipy,open,9325,c8164a09c33ecccec30859fcd2ce9afa148e7030,scipy/misc/tests/data/3x4x3.png,removed,0,0,takluyver,2018-09-30T10:08:53Z,2018-10-03T07:00:19Z,NA,NA
+scipy/scipy,open,9325,893db6efeb1caa7eac4d1c4da0de3f11f6130798,scipy/misc/tests/data/3x4x4.png,removed,0,0,takluyver,2018-09-30T10:08:53Z,2018-10-03T07:00:19Z,NA,NA
+scipy/scipy,open,9325,56fe687fd18abeb8dc28c77d8778d7d72c756714,scipy/misc/tests/data/3x5x3.png,removed,0,0,takluyver,2018-09-30T10:08:53Z,2018-10-03T07:00:19Z,NA,NA
+scipy/scipy,open,9325,5f5b945d0f7d5f68de916d1a403e4ceaac917d81,scipy/misc/tests/data/3x5x4.png,removed,0,0,takluyver,2018-09-30T10:08:53Z,2018-10-03T07:00:19Z,NA,NA
+scipy/scipy,open,9325,14830b4a62b148c3f5c659d75684f2f952510e8f,scipy/misc/tests/data/4x3x3.png,removed,0,0,takluyver,2018-09-30T10:08:53Z,2018-10-03T07:00:19Z,NA,NA
+scipy/scipy,open,9325,a33aa344f766c8e3e5a9017cc6aa306e7b3fc1e5,scipy/misc/tests/data/4x3x4.png,removed,0,0,takluyver,2018-09-30T10:08:53Z,2018-10-03T07:00:19Z,NA,NA
+scipy/scipy,open,9325,5811d5a68deb439a8fec86c01923a3fe44db69ec,scipy/misc/tests/data/4x4x3.png,removed,0,0,takluyver,2018-09-30T10:08:53Z,2018-10-03T07:00:19Z,NA,NA
+scipy/scipy,open,9325,337ab9a62b728d5ee02d9381aec395f9bf139b00,scipy/misc/tests/data/4x4x4.png,removed,0,0,takluyver,2018-09-30T10:08:53Z,2018-10-03T07:00:19Z,NA,NA
+scipy/scipy,open,9325,c2192aa7b46e148dd322707cb766659060f016ae,scipy/misc/tests/data/4x5x3.png,removed,0,0,takluyver,2018-09-30T10:08:53Z,2018-10-03T07:00:19Z,NA,NA
+scipy/scipy,open,9325,287dcbb2e12cb83a27d9fe42cd42950a37f9c3ab,scipy/misc/tests/data/4x5x4.png,removed,0,0,takluyver,2018-09-30T10:08:53Z,2018-10-03T07:00:19Z,NA,NA
+scipy/scipy,open,9325,7be556358c65008da48dc05d8fb3a1cb8c0f3f90,scipy/misc/tests/data/5x3x3.png,removed,0,0,takluyver,2018-09-30T10:08:53Z,2018-10-03T07:00:19Z,NA,NA
+scipy/scipy,open,9325,595b18239528e86c669699d6b2c4c52d55536324,scipy/misc/tests/data/5x3x4.png,removed,0,0,takluyver,2018-09-30T10:08:53Z,2018-10-03T07:00:19Z,NA,NA
+scipy/scipy,open,9325,91df79aa6c0667fd1c171d669d98f9c1afd5cc70,scipy/misc/tests/data/5x4x3.png,removed,0,0,takluyver,2018-09-30T10:08:53Z,2018-10-03T07:00:19Z,NA,NA
+scipy/scipy,open,9325,f0d3fffcfcb71994ccf9325d3d385254ebd3a916,scipy/misc/tests/data/5x4x4.png,removed,0,0,takluyver,2018-09-30T10:08:53Z,2018-10-03T07:00:19Z,NA,NA
+scipy/scipy,open,9325,318fa3b541afe624a1a639bca2522a4e2510702a,scipy/misc/tests/data/5x5x3.png,removed,0,0,takluyver,2018-09-30T10:08:53Z,2018-10-03T07:00:19Z,NA,NA
+scipy/scipy,open,9325,1f248692fb633ec6c19e48df4155edf78db38cc3,scipy/misc/tests/data/5x5x4.png,removed,0,0,takluyver,2018-09-30T10:08:53Z,2018-10-03T07:00:19Z,NA,NA
+scipy/scipy,open,9325,95cacf5275e266f397447826e344a645f8a1863e,scipy/misc/tests/data/blocks2bit.png,removed,0,0,takluyver,2018-09-30T10:08:53Z,2018-10-03T07:00:19Z,NA,NA
+scipy/scipy,open,9325,a5d1e9eafeca631ba74900b1a5b5f6a67d3d806a,scipy/misc/tests/data/box1.png,removed,0,0,takluyver,2018-09-30T10:08:53Z,2018-10-03T07:00:19Z,NA,NA
+scipy/scipy,open,9325,cc969d03dd263fde0293045012129ad1e01ea824,scipy/misc/tests/data/foo3x5x4indexed.png,removed,0,0,takluyver,2018-09-30T10:08:53Z,2018-10-03T07:00:19Z,NA,NA
+scipy/scipy,open,9325,e9037e282b4f5f77acd46172d5523deb73c2e73f,scipy/misc/tests/data/icon.png,removed,0,0,takluyver,2018-09-30T10:08:53Z,2018-10-03T07:00:19Z,NA,NA
+scipy/scipy,open,9325,612c9c604edaaa47d198f5eb109edd978c2a57cc,scipy/misc/tests/data/icon_mono.png,removed,0,0,takluyver,2018-09-30T10:08:53Z,2018-10-03T07:00:19Z,NA,NA
+scipy/scipy,open,9325,c42b9a025a0e65d3166c12e2ddf191472d2f7fc4,scipy/misc/tests/data/icon_mono_flat.png,removed,0,0,takluyver,2018-09-30T10:08:53Z,2018-10-03T07:00:19Z,NA,NA
+scipy/scipy,open,9325,58411fe53b49db7d67dccd74c1984bdee34ef675,scipy/misc/tests/data/pattern4bit.png,removed,0,0,takluyver,2018-09-30T10:08:53Z,2018-10-03T07:00:19Z,NA,NA
+scipy/scipy,open,9325,0837b7db12ccc59cc5648e8539e26096547a7ecc,scipy/misc/tests/test_common.py,modified,2,19,takluyver,2018-09-30T10:08:53Z,2018-10-03T07:00:19Z,NA,NA
+scipy/scipy,open,9325,a5a215331d0f78b7b03031b5042f7cc07f00f2ea,scipy/misc/tests/test_pilutil.py,removed,0,283,takluyver,2018-09-30T10:08:53Z,2018-10-03T07:00:19Z,NA,NA
+scipy/scipy,closed,3616,f76b1e974876693929a0bc6bc81c1e7460fc7df0,scipy/interpolate/tests/test_interpolate.py,modified,2,1,takluyver,2014-05-06 00:34:47,2014-05-06 00:34:47,2014-05-10 14:59:21,NA
+scipy/scipy,closed,3616,5c138b773bc9b2691a8994d904bafa62d3403e1b,scipy/optimize/tests/test_anneal.py,modified,12,7,takluyver,2014-05-06 00:34:47,2014-05-06 00:34:47,2014-05-10 14:59:21,NA
+scipy/scipy,closed,3616,3bafbed720045730a25d6d419e4ecc5496ea651d,scipy/optimize/tests/test_optimize.py,modified,1,4,takluyver,2014-05-06 00:34:47,2014-05-06 00:34:47,2014-05-10 14:59:21,NA
+scipy/scipy,closed,3616,63a9fffebf31fae03436a310c5267443c2919964,scipy/optimize/tests/test_slsqp.py,modified,4,3,takluyver,2014-05-06 00:34:47,2014-05-06 00:34:47,2014-05-10 14:59:21,NA
+scipy/scipy,closed,3616,13d04255fad6e12144acd322ac14b2c95c9ff636,scipy/stats/tests/test_distributions.py,modified,18,17,takluyver,2014-05-06 00:34:47,2014-05-06 00:34:47,2014-05-10 14:59:21,NA
+scipy/scipy,closed,3616,07117416ccff3339e312cdcf776c86d2f0f89687,scipy/stats/tests/test_stats.py,modified,4,2,takluyver,2014-05-06 00:34:47,2014-05-06 00:34:47,2014-05-10 14:59:21,NA
+scipy/scipy,closed,4679,0599a51e0e0f85e5998b3caf6cdcfeb8bcdc3003,scipy/sparse/tests/test_construct.py,modified,58,30,terrycojones,2015-03-30 16:47:48,2015-03-30 16:47:48,2015-04-02 19:02:18,2015-04-02 19:02:18
+scipy/scipy,closed,4675,378fc9b44ec72bbf1d844a967f1338136cf863d5,scipy/signal/tests/test_ltisys.py,modified,120,24,terrycojones,2015-03-29 22:01:07,2015-03-29 22:01:07,2015-05-05 15:48:10,2015-05-05 15:48:10
+scipy/scipy,closed,5978,7dce955fffa2fe27d94140f75ad470db3eba4b20,scipy/optimize/tests/test_optimize.py,modified,58,0,Tiepies,2016-03-16 21:16:33,2016-03-16 21:16:33,2016-06-19 12:47:58,2016-06-19 12:47:58
+scipy/scipy,closed,5906,07bbcb5b7d4f1b384cc9e909d7aa52d7d7252b2b,scipy/integrate/tests/test_quadpack.py,modified,4,3,Tiepies,2016-02-29 23:01:30,2016-02-29 23:01:30,2016-06-17 08:07:59,2016-06-17 08:07:59
+scipy/scipy,closed,4631,8a56593d0ef7964d8984fd58b3e70c6ed18bab70,scipy/integrate/tests/banded5x5.f,modified,0,2,tomspur,2015-03-13 21:17:39,2015-03-13 21:17:39,2015-03-13 22:26:07,2015-03-13 22:26:07
+scipy/scipy,closed,3277,b2d9d5692126c0fa73ec49e5698df80c3ce256e9,scipy/signal/tests/test_signaltools.py,modified,7,0,tomspur,2014-02-04 00:09:04,2014-02-04 00:09:04,2014-02-07 15:14:40,2014-02-07 15:14:40
+scipy/scipy,open,8991,add08ca365a2108b349b700a0a6103a6438c1a3c,scipy/stats/tests/test_kdeoth.py,modified,12,8,williamjameshandley,2018-07-01T21:35:08Z,2018-08-03T15:55:29Z,NA,NA
+scipy/scipy,closed,6059,f057f083319f67dabbe74192e54249c053438114,scipy/signal/tests/test_dltisys.py,modified,9,0,wuhaochen,2016-04-12 22:45:07,2016-04-12 22:45:07,2016-12-21 21:05:18,2016-12-21 21:05:18
+scipy/scipy,closed,6059,0470755fafcb933e051b3f834cfc5aff2321ba40,scipy/signal/tests/test_filter_design.py,modified,118,9,wuhaochen,2016-04-12 22:45:07,2016-04-12 22:45:07,2016-12-21 21:05:18,2016-12-21 21:05:18
+scipy/scipy,closed,6059,8152d94d7c8e21fed99f458f3bf47afcaedd76d6,scipy/signal/tests/test_ltisys.py,modified,23,32,wuhaochen,2016-04-12 22:45:07,2016-04-12 22:45:07,2016-12-21 21:05:18,2016-12-21 21:05:18
+scipy/scipy,closed,5949,1c760384178d56b831ef9c04ef071ea3ba5a954f,scipy/sparse/tests/test_base.py,modified,2,0,yanxun827,2016-03-09 13:05:14,2016-03-09 13:05:14,2016-03-09 19:44:16,2016-03-09 19:44:16
+scipy/scipy,closed,5816,21e1c844163ed78955a5cb9754a7e9b686c172af,scipy/stats/tests/test_continuous_basic.py,modified,7,27,yoavram,2016-02-06 22:43:05,2016-02-06 22:43:05,2016-02-07 10:05:49,2016-02-07 10:05:49
+scipy/scipy,closed,5816,ee4601294f95809befc5ef05eebe66942ce0bc43,scipy/stats/tests/test_distributions.py,modified,2,9,yoavram,2016-02-06 22:43:05,2016-02-06 22:43:05,2016-02-07 10:05:49,2016-02-07 10:05:49
+scipy/scipy,closed,5487,aef42f3c7fcc76cb26d7d0eeb73f2e05fa00e5bb,scipy/stats/tests/test_multivariate.py,modified,21,0,yoavram,2015-11-11 05:58:08,2015-11-11 05:58:08,2015-11-19 06:52:37,NA
+scipy/scipy,closed,3945,90382b1984769fc74a42ac573bc64cfecf365980,scipy/optimize/tests/test_optimize.py,modified,25,1,zeehio,2014-08-31 21:11:06,2014-08-31 21:11:06,2014-09-13 11:24:54,NA
+scipy/scipy,closed,8479,9f4ac33ad043b21613e518fddb00e446a64346ed,scipy/io/matlab/tests/test_streams.py,modified,3,1,ziejcow,2018-02-25 17:43:00,2018-02-25 17:43:00,2018-02-25 21:26:10,2018-02-25 21:26:10
+WhisperSystems/Signal-iOS,closed,1867,70475b13c34cd3c7f206b50a0e91ac6ffa563197,Signal/test/contact/OWSContactsManagerTest.m,modified,4,18,datesss,2017-03-19 20:37:08,2017-03-19 20:37:08,2017-03-20 19:37:00,NA
+WhisperSystems/Signal-iOS,closed,1867,3eae009e5c20cff1581f2b11046b039f2bfb0ca2,Signal/test/phone/PhoneNumberTest.m,removed,0,155,datesss,2017-03-19 20:37:08,2017-03-19 20:37:08,2017-03-20 19:37:00,NA
+WhisperSystems/Signal-iOS,closed,1050,bbbcaabf6d70ba3a98b2b94a302b19b65aea0f21,Signal/src/view controllers/UITests/SignalsViewController.m,modified,1,1,ghost,2016-01-21 00:46:23,2016-01-21 00:46:23,2016-07-15 16:14:00,NA

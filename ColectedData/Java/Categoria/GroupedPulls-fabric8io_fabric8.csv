@@ -1,0 +1,2875 @@
+Repository,Pull number,Users,Test,Change,Type,,
+fabric8io_fabric8.csv,7067,cunningt,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,7023,valdar,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,6990,fabric8cd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6983,ivuk,TRUE,modified,Merged
+fabric8io_fabric8.csv,6970,fabric8cd,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,6967,kameshsampath,TRUE,modified,Merged
+fabric8io_fabric8.csv,6956,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6949,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6927,fabric8cd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6926,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6908,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6898,NULL,TRUE,modified,Merged
+fabric8io_fabric8.csv,6876,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6875,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6869,elharo,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6832,rajdavies,TRUE,modified,Merged
+fabric8io_fabric8.csv,6831,dhirajsb,TRUE,modified,Merged
+fabric8io_fabric8.csv,6826,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6822,fabric8cd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6821,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6819,fabric8cd,TRUE,modified AND added AND renamed,Merged
+fabric8io_fabric8.csv,6818,jstrachan,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,6807,oscerd,TRUE,added,Merged
+fabric8io_fabric8.csv,6806,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6805,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6804,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6802,davsclaus,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,6800,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6786,jstrachan,TRUE,added,Merged
+fabric8io_fabric8.csv,6731,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6665,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6643,rawlingsj,TRUE,modified,Closed
+fabric8io_fabric8.csv,6637,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,6636,astefanutti,TRUE,modified,Merged
+fabric8io_fabric8.csv,6616,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6607,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,6568,chirino,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,6495,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6491,jstrachan,TRUE,removed AND added AND modified AND renamed,Merged
+fabric8io_fabric8.csv,6437,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6423,chirino,TRUE,modified,Merged
+fabric8io_fabric8.csv,6370,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6364,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6363,jstrachan,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,6362,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6312,NULL,TRUE,added AND modified AND renamed AND removed,Closed
+fabric8io_fabric8.csv,6288,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6255,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6241,jstrachan,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,6211,lburgazzoli,TRUE,modified,Merged
+fabric8io_fabric8.csv,6208,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,6203,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6202,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6157,oscerd,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,6130,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6116,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6104,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,6103,iocanel,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,6090,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,6062,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6055,jstrachan,TRUE,removed AND modified,Merged
+fabric8io_fabric8.csv,6051,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6022,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5979,rawlingsj,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,5965,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5955,oscerd,TRUE,added,Merged
+fabric8io_fabric8.csv,5942,jstrachan,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,5928,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5927,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5926,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5915,oscerd,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,5904,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5900,garethahealy,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5898,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5896,oscerd,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,5879,jstrachan,TRUE,removed AND modified,Merged
+fabric8io_fabric8.csv,5844,oscerd,TRUE,added AND renamed AND modified,Merged
+fabric8io_fabric8.csv,5837,davsclaus,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,5700,asgeirf,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,5636,MarWestermann,TRUE,removed AND modified,Merged
+fabric8io_fabric8.csv,5537,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5536,davsclaus,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,5535,davsclaus,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,5533,oscerd,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,5528,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5527,NULL,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,5493,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5483,davsclaus,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,5462,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5431,jstrachan,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,5421,rawlingsj,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5420,iocanel,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5410,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5366,iocanel,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5365,iocanel,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5358,moix,TRUE,modified,Merged
+fabric8io_fabric8.csv,5350,davsclaus,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,5317,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5316,davsclaus,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,5311,davsclaus,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,5300,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5274,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5269,davsclaus,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,5262,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5236,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5233,oscerd,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,5212,iocanel,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,5208,iocanel,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5207,iocanel,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5174,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5160,jstrachan,TRUE,modified AND removed AND renamed AND added,Merged
+fabric8io_fabric8.csv,5158,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5157,iocanel,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,5134,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5128,davsclaus,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,5126,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,5125,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,5124,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5121,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5117,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5096,jstrachan,TRUE,removed,Merged
+fabric8io_fabric8.csv,5091,davsclaus,TRUE,removed,Merged
+fabric8io_fabric8.csv,5087,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5084,iocanel,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5074,oscerd,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5069,oscerd,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,5052,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5050,rawlingsj,TRUE,added AND modified AND removed,Merged
+fabric8io_fabric8.csv,5044,iocanel,TRUE,removed AND modified,Closed
+fabric8io_fabric8.csv,5041,davsclaus,TRUE,removed AND modified,Merged
+fabric8io_fabric8.csv,5038,oscerd,TRUE,removed AND modified,Merged
+fabric8io_fabric8.csv,5036,davsclaus,TRUE,modified AND removed,Merged
+fabric8io_fabric8.csv,5003,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5000,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,4988,rhuss,TRUE,modified AND removed AND added,Merged
+fabric8io_fabric8.csv,4969,jstrachan,TRUE,removed AND modified,Merged
+fabric8io_fabric8.csv,4967,davsclaus,TRUE,removed AND modified,Closed
+fabric8io_fabric8.csv,4963,davsclaus,TRUE,removed AND modified,Merged
+fabric8io_fabric8.csv,4958,oscerd,TRUE,removed AND modified,Closed
+fabric8io_fabric8.csv,4957,iocanel,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,4953,rhuss,TRUE,modified AND removed,Closed
+fabric8io_fabric8.csv,4948,davsclaus,TRUE,removed,Merged
+fabric8io_fabric8.csv,4945,oscerd,TRUE,removed AND modified,Merged
+fabric8io_fabric8.csv,4939,NULL,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,4934,oscerd,TRUE,modified,Closed
+fabric8io_fabric8.csv,4930,oscerd,TRUE,added,Closed
+fabric8io_fabric8.csv,4911,davsclaus,TRUE,removed AND modified,Merged
+fabric8io_fabric8.csv,4909,davsclaus,TRUE,removed AND modified,Closed
+fabric8io_fabric8.csv,4905,jstrachan,TRUE,removed AND modified,Merged
+fabric8io_fabric8.csv,4890,davsclaus,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,4884,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,4859,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4858,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,4841,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,4838,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,4837,iocanel,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,4831,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4818,davsclaus,TRUE,modified AND renamed AND added,Merged
+fabric8io_fabric8.csv,4815,KurtStam,TRUE,modified,Merged
+fabric8io_fabric8.csv,4807,oscerd,TRUE,renamed AND added AND modified,Merged
+fabric8io_fabric8.csv,4804,oscerd,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,4803,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,4797,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4793,oscerd,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,4783,oscerd,TRUE,modified AND renamed,Merged
+fabric8io_fabric8.csv,4775,rawlingsj,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,4771,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4770,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4768,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4767,jstrachan,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,4765,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,4761,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4752,KurtStam,TRUE,removed AND modified,Merged
+fabric8io_fabric8.csv,4746,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,4742,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4726,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,4719,jstrachan,TRUE,removed AND modified,Merged
+fabric8io_fabric8.csv,4703,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4702,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,4693,rhuss,TRUE,modified AND removed AND added,Merged
+fabric8io_fabric8.csv,4688,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4671,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4668,oscerd,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,4666,jstrachan,TRUE,modified AND added AND renamed AND removed,Merged
+fabric8io_fabric8.csv,4662,jstrachan,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,2519,NULL,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2515,paoloantinori,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,2512,zenlambda,TRUE,modified,Closed
+fabric8io_fabric8.csv,2511,tdiesler,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2506,dejanb,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2496,paoloantinori,TRUE,modified,Closed
+fabric8io_fabric8.csv,2491,davsclaus,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2472,ffang,TRUE,modified AND removed AND renamed,Closed
+fabric8io_fabric8.csv,2468,cmoulliard,TRUE,modified AND renamed AND removed,Closed
+fabric8io_fabric8.csv,2461,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,2450,cmoulliard,TRUE,modified,Closed
+fabric8io_fabric8.csv,2438,iocanel,TRUE,renamed AND added AND modified,Closed
+fabric8io_fabric8.csv,2436,tdiesler,TRUE,modified AND added AND removed AND renamed,Closed
+fabric8io_fabric8.csv,2434,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,2431,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,2425,tdiesler,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2423,gnodet,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2419,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,2413,paoloantinori,TRUE,modified,Closed
+fabric8io_fabric8.csv,2398,gnodet,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2397,gertv,TRUE,modified AND renamed AND removed AND added,Closed
+fabric8io_fabric8.csv,2392,hekonsek,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2391,gertv,TRUE,modified,Merged
+fabric8io_fabric8.csv,2383,ffang,TRUE,modified,Closed
+fabric8io_fabric8.csv,2374,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,2367,davsclaus,TRUE,modified AND added AND renamed,Closed
+fabric8io_fabric8.csv,2363,gnodet,TRUE,modified AND added AND renamed,Closed
+fabric8io_fabric8.csv,2351,gnodet,TRUE,modified,Merged
+fabric8io_fabric8.csv,2350,alesj,TRUE,modified,Closed
+fabric8io_fabric8.csv,2346,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,2326,davsclaus,TRUE,modified AND renamed AND added,Closed
+fabric8io_fabric8.csv,2314,bibryam,TRUE,modified,Closed
+fabric8io_fabric8.csv,2310,alesj,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2276,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,2273,davsclaus,TRUE,removed AND modified,Merged
+fabric8io_fabric8.csv,2259,davsclaus,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2245,gertv,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2243,grgrzybek,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,2238,kenfinnigan,TRUE,modified,Closed
+fabric8io_fabric8.csv,2230,christian-posta,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2225,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,2223,iocanel,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,2220,iocanel,TRUE,modified AND added AND removed,Closed
+fabric8io_fabric8.csv,2218,chirino,TRUE,modified,Closed
+fabric8io_fabric8.csv,2217,tdiesler,TRUE,modified AND added AND removed,Closed
+fabric8io_fabric8.csv,2215,ffang,TRUE,modified,Closed
+fabric8io_fabric8.csv,2210,ffang,TRUE,modified AND added AND renamed AND removed,Closed
+fabric8io_fabric8.csv,2209,tdiesler,TRUE,modified AND added AND removed,Closed
+fabric8io_fabric8.csv,2208,tdiesler,TRUE,removed AND modified,Merged
+fabric8io_fabric8.csv,2202,jstrachan,TRUE,modified AND added AND removed,Closed
+fabric8io_fabric8.csv,2199,gashcrumb,TRUE,modified AND added AND removed,Closed
+fabric8io_fabric8.csv,2191,ffang,TRUE,modified AND added AND renamed,Merged
+fabric8io_fabric8.csv,2185,jstrachan,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,2183,alesj,TRUE,modified,Closed
+fabric8io_fabric8.csv,2182,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,2174,rajdavies,TRUE,modified AND removed AND added,Merged
+fabric8io_fabric8.csv,2166,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,2163,gnodet,TRUE,modified AND added AND renamed AND removed,Closed
+fabric8io_fabric8.csv,2159,NULL,TRUE,modified,Merged
+fabric8io_fabric8.csv,2158,iocanel,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,2157,alesj,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,2149,luksa,TRUE,modified AND added AND removed,Merged
+fabric8io_fabric8.csv,2142,hekonsek,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2141,hekonsek,TRUE,modified AND added AND renamed AND removed,Closed
+fabric8io_fabric8.csv,2136,luksa,TRUE,added AND renamed AND modified,Closed
+fabric8io_fabric8.csv,2115,davsclaus,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2113,kenfinnigan,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2105,ffang,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,2098,ffang,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2093,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,2091,tdiesler,TRUE,modified AND removed,Closed
+fabric8io_fabric8.csv,2089,hekonsek,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,2080,ffang,TRUE,modified,Closed
+fabric8io_fabric8.csv,2077,hekonsek,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2074,davsclaus,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2070,paoloantinori,TRUE,added AND modified AND renamed,Merged
+fabric8io_fabric8.csv,2065,ffang,TRUE,modified AND added AND renamed,Closed
+fabric8io_fabric8.csv,2063,hekonsek,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,2058,bibryam,TRUE,modified,Closed
+fabric8io_fabric8.csv,2054,tdiesler,TRUE,modified AND removed AND added,Merged
+fabric8io_fabric8.csv,2053,tdiesler,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2052,hekonsek,TRUE,modified AND added AND renamed,Merged
+fabric8io_fabric8.csv,2023,umeetiusbaar,TRUE,modified,Closed
+fabric8io_fabric8.csv,2022,tdiesler,TRUE,modified AND added AND renamed AND removed,Merged
+fabric8io_fabric8.csv,2018,tdiesler,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2011,alesj,TRUE,modified,Closed
+fabric8io_fabric8.csv,2002,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,2000,davsclaus,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,1998,grgrzybek,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1993,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1981,janstey,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,1979,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1968,jimmidyson,TRUE,modified,Merged
+fabric8io_fabric8.csv,1966,davsclaus,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1961,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,1958,jstrachan,TRUE,modified AND removed,Closed
+fabric8io_fabric8.csv,1957,tdiesler,TRUE,added,Closed
+fabric8io_fabric8.csv,1956,ffang,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1955,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1944,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,1941,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1940,davsclaus,TRUE,removed AND modified AND added,Merged
+fabric8io_fabric8.csv,1938,davsclaus,TRUE,modified AND renamed,Merged
+fabric8io_fabric8.csv,1928,hekonsek,TRUE,renamed AND modified AND added AND removed,Closed
+fabric8io_fabric8.csv,1926,gnodet,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,1915,iocanel,TRUE,modified AND removed AND renamed AND added,Merged
+fabric8io_fabric8.csv,1913,tdiesler,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1907,kenfinnigan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1905,hekonsek,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1904,grgrzybek,TRUE,modified AND added AND renamed AND removed,Closed
+fabric8io_fabric8.csv,1903,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1902,davsclaus,TRUE,modified AND renamed AND added,Closed
+fabric8io_fabric8.csv,1898,pmuir,TRUE,modified AND removed AND added,Closed
+fabric8io_fabric8.csv,1897,iocanel,TRUE,added AND modified AND renamed AND removed,Closed
+fabric8io_fabric8.csv,1895,hekonsek,TRUE,modified AND renamed AND added AND removed,Closed
+fabric8io_fabric8.csv,1891,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1889,davsclaus,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,1887,davsclaus,TRUE,modified AND removed AND added,Closed
+fabric8io_fabric8.csv,1886,tdiesler,TRUE,removed AND renamed AND modified AND added,Closed
+fabric8io_fabric8.csv,1875,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1873,WillemJiang,TRUE,modified,Closed
+fabric8io_fabric8.csv,1871,jstrachan,TRUE,modified AND renamed,Closed
+fabric8io_fabric8.csv,1869,zmhassan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1866,jstrachan,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1862,paoloantinori,TRUE,modified AND removed AND added,Closed
+fabric8io_fabric8.csv,1857,davsclaus,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1856,jstrachan,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1852,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1851,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1847,janstey,TRUE,added AND modified AND renamed,Closed
+fabric8io_fabric8.csv,1846,grgrzybek,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,1829,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1828,hekonsek,TRUE,modified,Merged
+fabric8io_fabric8.csv,1821,WillemJiang,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1820,hekonsek,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,1810,grgrzybek,TRUE,renamed AND modified AND added,Closed
+fabric8io_fabric8.csv,1807,jstrachan,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1799,davsclaus,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1795,paoloantinori,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1794,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1782,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1771,jstrachan,TRUE,modified AND removed,Closed
+fabric8io_fabric8.csv,1769,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1763,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1762,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1752,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1740,gnodet,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1736,christian-posta,TRUE,modified AND removed,Closed
+fabric8io_fabric8.csv,1734,hekonsek,TRUE,modified AND added AND removed,Closed
+fabric8io_fabric8.csv,1733,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1732,jstrachan,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1723,gnodet,TRUE,modified AND added AND renamed,Closed
+fabric8io_fabric8.csv,1714,davsclaus,TRUE,renamed AND added AND modified,Merged
+fabric8io_fabric8.csv,1707,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1704,davsclaus,TRUE,added AND modified AND removed,Closed
+fabric8io_fabric8.csv,1687,jstrachan,TRUE,renamed,Merged
+fabric8io_fabric8.csv,1674,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,1602,jstrachan,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,1598,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1588,jstrachan,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,1587,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1586,gertv,TRUE,modified,Merged
+fabric8io_fabric8.csv,1569,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1562,hekonsek,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,1556,hekonsek,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,1548,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1546,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1535,hekonsek,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,1517,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1516,danbev,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1512,grgrzybek,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,1511,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1498,hekonsek,TRUE,modified AND added AND renamed,Closed
+fabric8io_fabric8.csv,1491,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,1490,davsclaus,TRUE,modified AND renamed AND added,Closed
+fabric8io_fabric8.csv,1486,davsclaus,TRUE,modified AND added AND removed,Closed
+fabric8io_fabric8.csv,1478,cmoulliard,TRUE,modified,Merged
+fabric8io_fabric8.csv,1476,davsclaus,TRUE,modified AND added AND removed,Closed
+fabric8io_fabric8.csv,1472,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1460,danbev,TRUE,modified AND added AND removed AND renamed,Closed
+fabric8io_fabric8.csv,1458,grgrzybek,TRUE,modified AND renamed,Closed
+fabric8io_fabric8.csv,1453,hekonsek,TRUE,modified AND removed AND added,Closed
+fabric8io_fabric8.csv,1438,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1430,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1429,danbev,TRUE,modified AND added AND renamed,Closed
+fabric8io_fabric8.csv,1428,davsclaus,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,1425,jstrachan,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,1416,jstrachan,TRUE,modified AND added AND removed,Closed
+fabric8io_fabric8.csv,1392,jstrachan,TRUE,added AND modified AND removed,Merged
+fabric8io_fabric8.csv,1381,davsclaus,TRUE,modified AND added AND renamed,Merged
+fabric8io_fabric8.csv,1369,danbev,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1367,luksa,TRUE,modified,Closed
+fabric8io_fabric8.csv,1365,luksa,TRUE,modified,Merged
+fabric8io_fabric8.csv,1364,grgrzybek,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,1347,hekonsek,TRUE,added AND modified AND renamed,Closed
+fabric8io_fabric8.csv,1344,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1341,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1313,jstrachan,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,1301,gashcrumb,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,1300,hekonsek,TRUE,renamed AND modified AND added,Closed
+fabric8io_fabric8.csv,1299,iocanel,TRUE,modified AND added AND renamed,Merged
+fabric8io_fabric8.csv,1285,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1284,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1276,davsclaus,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,1266,jstrachan,TRUE,renamed AND modified AND added AND removed,Closed
+fabric8io_fabric8.csv,1257,davsclaus,TRUE,modified AND added AND removed,Closed
+fabric8io_fabric8.csv,1252,davsclaus,TRUE,modified AND renamed AND removed,Merged
+fabric8io_fabric8.csv,1243,hekonsek,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,1242,hekonsek,TRUE,modified AND removed,Closed
+fabric8io_fabric8.csv,1230,davsclaus,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,1229,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1226,hekonsek,TRUE,renamed AND added AND modified,Merged
+fabric8io_fabric8.csv,1214,davsclaus,TRUE,renamed AND added AND modified,Closed
+fabric8io_fabric8.csv,1212,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,1206,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1205,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1204,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1203,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1202,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1201,jstrachan,TRUE,added AND removed AND renamed AND modified,Closed
+fabric8io_fabric8.csv,1200,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1199,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1197,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1194,davsclaus,TRUE,removed AND renamed AND modified,Closed
+fabric8io_fabric8.csv,1191,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1189,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1188,davsclaus,TRUE,added AND renamed AND modified,Closed
+fabric8io_fabric8.csv,1181,hekonsek,TRUE,modified,Merged
+fabric8io_fabric8.csv,1177,hekonsek,TRUE,modified,Merged
+fabric8io_fabric8.csv,1176,hekonsek,TRUE,modified AND renamed,Closed
+fabric8io_fabric8.csv,1174,hekonsek,TRUE,modified AND removed AND added,Closed
+fabric8io_fabric8.csv,1173,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1168,grgrzybek,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1167,chirino,TRUE,modified,Closed
+fabric8io_fabric8.csv,1166,hekonsek,TRUE,modified,Merged
+fabric8io_fabric8.csv,1162,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1161,hekonsek,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,1159,davsclaus,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,1156,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,1155,grgrzybek,TRUE,modified,Merged
+fabric8io_fabric8.csv,1141,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1132,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,1129,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,1126,chirino,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1125,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1124,jstrachan,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,1120,ffang,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1107,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,1101,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1100,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1098,davsclaus,TRUE,modified AND renamed,Closed
+fabric8io_fabric8.csv,1093,davsclaus,TRUE,renamed AND modified,Closed
+fabric8io_fabric8.csv,1092,davsclaus,TRUE,removed,Closed
+fabric8io_fabric8.csv,1090,davsclaus,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1086,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1085,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,1064,davsclaus,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,1063,askannon,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1059,davsclaus,TRUE,renamed AND modified,Closed
+fabric8io_fabric8.csv,1054,davsclaus,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,1053,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1052,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,1045,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1042,zmhassan,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,1039,grgrzybek,TRUE,renamed AND modified,Merged
+fabric8io_fabric8.csv,1037,jstrachan,TRUE,modified AND renamed,Closed
+fabric8io_fabric8.csv,1035,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1028,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1026,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1025,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,1024,jstrachan,TRUE,modified AND renamed,Closed
+fabric8io_fabric8.csv,1004,davsclaus,TRUE,modified AND removed AND added,Closed
+fabric8io_fabric8.csv,991,dejanb,TRUE,renamed AND modified,Merged
+fabric8io_fabric8.csv,990,davsclaus,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,987,jstrachan,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,985,gnodet,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,979,tdiesler,TRUE,removed AND modified,Merged
+fabric8io_fabric8.csv,978,tdiesler,TRUE,removed,Merged
+fabric8io_fabric8.csv,975,tdiesler,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,973,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,970,janstey,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,965,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,964,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,963,tdiesler,TRUE,modified AND renamed AND added,Closed
+fabric8io_fabric8.csv,961,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,960,davsclaus,TRUE,renamed AND modified,Merged
+fabric8io_fabric8.csv,957,davsclaus,TRUE,removed,Closed
+fabric8io_fabric8.csv,955,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,947,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,944,davsclaus,TRUE,modified AND removed,Merged
+fabric8io_fabric8.csv,943,jstrachan,TRUE,modified AND added AND renamed,Merged
+fabric8io_fabric8.csv,941,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,940,iocanel,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,935,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,931,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,927,iocanel,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,912,janstey,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,896,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,895,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,893,janstey,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,892,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,891,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,890,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,889,tdiesler,TRUE,removed AND modified,Closed
+fabric8io_fabric8.csv,886,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,880,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,878,tdiesler,TRUE,modified AND renamed AND removed AND added,Closed
+fabric8io_fabric8.csv,877,cmoulliard,TRUE,modified AND added AND renamed AND removed,Closed
+fabric8io_fabric8.csv,871,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,867,janstey,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,866,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,862,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,859,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,858,iocanel,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,857,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,856,hekonsek,TRUE,modified AND renamed AND removed AND added,Closed
+fabric8io_fabric8.csv,854,cmoulliard,TRUE,modified AND renamed AND removed AND added,Closed
+fabric8io_fabric8.csv,852,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,849,grgrzybek,TRUE,modified AND removed AND renamed,Merged
+fabric8io_fabric8.csv,848,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,847,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,845,janstey,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,842,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,840,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,837,dejanb,TRUE,modified AND added AND removed,Merged
+fabric8io_fabric8.csv,836,tdiesler,TRUE,modified AND added AND removed,Merged
+fabric8io_fabric8.csv,834,tdiesler,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,833,jstrachan,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,832,tdiesler,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,831,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,830,dejanb,TRUE,modified,Closed
+fabric8io_fabric8.csv,829,dejanb,TRUE,modified,Closed
+fabric8io_fabric8.csv,823,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,822,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,819,dejanb,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,818,davsclaus,TRUE,modified AND removed AND added,Merged
+fabric8io_fabric8.csv,816,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,813,punkhorn,TRUE,modified,Closed
+fabric8io_fabric8.csv,811,ffang,TRUE,modified,Closed
+fabric8io_fabric8.csv,810,tdiesler,TRUE,modified AND added AND renamed,Merged
+fabric8io_fabric8.csv,802,gertv,TRUE,modified,Merged
+fabric8io_fabric8.csv,800,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,789,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,786,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,784,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,779,iocanel,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,776,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,775,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,771,tdiesler,TRUE,modified AND removed,Closed
+fabric8io_fabric8.csv,770,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,767,davsclaus,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,765,davsclaus,TRUE,modified AND added AND removed,Closed
+fabric8io_fabric8.csv,763,davsclaus,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,752,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,747,dejanb,TRUE,modified,Closed
+fabric8io_fabric8.csv,743,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,742,NULL,TRUE,modified,Closed
+fabric8io_fabric8.csv,739,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,736,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,730,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,729,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,728,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,727,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,724,janstey,TRUE,modified,Merged
+fabric8io_fabric8.csv,715,grgrzybek,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,713,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,710,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,709,iocanel,TRUE,modified AND renamed,Closed
+fabric8io_fabric8.csv,708,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,705,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,703,gnodet,TRUE,modified,Merged
+fabric8io_fabric8.csv,698,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,692,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,688,janstey,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,684,davsclaus,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,683,chirino,TRUE,modified,Closed
+fabric8io_fabric8.csv,682,tdiesler,TRUE,modified AND removed,Merged
+fabric8io_fabric8.csv,678,janstey,TRUE,modified AND removed,Closed
+fabric8io_fabric8.csv,674,jstrachan,TRUE,modified AND removed,Closed
+fabric8io_fabric8.csv,668,davsclaus,TRUE,modified AND removed,Closed
+fabric8io_fabric8.csv,665,tdiesler,TRUE,modified AND removed,Closed
+fabric8io_fabric8.csv,662,janstey,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,659,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,657,davsclaus,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,644,janstey,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,641,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,637,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,636,dejanb,TRUE,modified,Merged
+fabric8io_fabric8.csv,634,jstrachan,TRUE,added AND modified AND renamed AND removed,Merged
+fabric8io_fabric8.csv,631,dejanb,TRUE,modified AND renamed AND added AND removed,Closed
+fabric8io_fabric8.csv,627,rhuss,TRUE,modified,Merged
+fabric8io_fabric8.csv,625,rawlingsj,TRUE,modified AND renamed AND added AND removed,Closed
+fabric8io_fabric8.csv,619,davsclaus,TRUE,added AND modified AND removed AND renamed,Merged
+fabric8io_fabric8.csv,611,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,608,rawlingsj,TRUE,modified,Closed
+fabric8io_fabric8.csv,602,iocanel,TRUE,modified AND added AND removed AND renamed,Closed
+fabric8io_fabric8.csv,600,davsclaus,TRUE,modified AND added AND removed AND renamed,Merged
+fabric8io_fabric8.csv,599,jstrachan,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,593,pires,TRUE,modified,Closed
+fabric8io_fabric8.csv,591,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,589,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,587,dejanb,TRUE,modified,Closed
+fabric8io_fabric8.csv,586,iocanel,TRUE,modified AND removed AND added,Closed
+fabric8io_fabric8.csv,581,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,580,gertv,TRUE,modified,Closed
+fabric8io_fabric8.csv,578,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,574,iocanel,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,570,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,566,jstrachan,TRUE,modified AND added AND removed,Closed
+fabric8io_fabric8.csv,564,iocanel,TRUE,modified AND renamed,Closed
+fabric8io_fabric8.csv,563,gnodet,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,559,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,557,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,555,gnodet,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,552,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,549,jstrachan,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,545,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,543,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,542,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,538,gashcrumb,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,537,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,536,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,535,dejanb,TRUE,renamed AND added AND removed,Closed
+fabric8io_fabric8.csv,534,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,530,gnodet,TRUE,added AND renamed AND modified,Closed
+fabric8io_fabric8.csv,528,iocanel,TRUE,added AND modified AND renamed,Merged
+fabric8io_fabric8.csv,526,punkhorn,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,525,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,524,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,523,paulrobinson,TRUE,modified,Merged
+fabric8io_fabric8.csv,522,jstrachan,TRUE,modified AND renamed,Merged
+fabric8io_fabric8.csv,519,gnodet,TRUE,modified,Merged
+fabric8io_fabric8.csv,518,ffang,TRUE,modified,Merged
+fabric8io_fabric8.csv,516,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,515,janstey,TRUE,added AND renamed,Merged
+fabric8io_fabric8.csv,514,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,511,gnodet,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,510,dejanb,TRUE,modified,Merged
+fabric8io_fabric8.csv,509,gertv,TRUE,modified,Closed
+fabric8io_fabric8.csv,508,janstey,TRUE,modified AND removed AND added AND renamed,Closed
+fabric8io_fabric8.csv,506,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,502,fbolton,TRUE,modified,Closed
+fabric8io_fabric8.csv,497,ffang,TRUE,modified,Merged
+fabric8io_fabric8.csv,494,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,489,ffang,TRUE,modified,Closed
+fabric8io_fabric8.csv,487,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,484,jstrachan,TRUE,added AND renamed AND removed AND modified,Closed
+fabric8io_fabric8.csv,479,janstey,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,478,gertv,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,477,gertv,TRUE,modified,Closed
+fabric8io_fabric8.csv,476,dejanb,TRUE,modified,Closed
+fabric8io_fabric8.csv,475,dejanb,TRUE,modified,Merged
+fabric8io_fabric8.csv,470,ffang,TRUE,modified,Merged
+fabric8io_fabric8.csv,469,ffang,TRUE,modified,Merged
+fabric8io_fabric8.csv,466,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,463,NULL,TRUE,renamed AND added AND modified,Closed
+fabric8io_fabric8.csv,462,tdiesler,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,458,gnodet,TRUE,modified AND added AND renamed AND removed,Merged
+fabric8io_fabric8.csv,457,gnodet,TRUE,modified AND removed AND renamed AND added,Merged
+fabric8io_fabric8.csv,455,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,454,gertv,TRUE,modified,Merged
+fabric8io_fabric8.csv,452,dejanb,TRUE,renamed AND added AND modified,Merged
+fabric8io_fabric8.csv,438,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,437,ffang,TRUE,modified,Closed
+fabric8io_fabric8.csv,433,dejanb,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,430,gnodet,TRUE,modified,Merged
+fabric8io_fabric8.csv,429,ffang,TRUE,modified,Merged
+fabric8io_fabric8.csv,427,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,425,dejanb,TRUE,modified AND added AND renamed AND removed,Closed
+fabric8io_fabric8.csv,417,ffang,TRUE,modified,Closed
+fabric8io_fabric8.csv,416,ffang,TRUE,modified,Closed
+fabric8io_fabric8.csv,411,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,407,jstrachan,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,406,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,401,tabish121,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,400,tabish121,TRUE,modified,Closed
+fabric8io_fabric8.csv,396,tabish121,TRUE,modified,Merged
+fabric8io_fabric8.csv,385,gashcrumb,TRUE,modified AND removed AND renamed,Closed
+fabric8io_fabric8.csv,363,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,356,tdiesler,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,354,gnodet,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,348,gnodet,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,347,iocanel,TRUE,renamed,Closed
+fabric8io_fabric8.csv,344,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,343,iocanel,TRUE,modified AND added AND renamed,Merged
+fabric8io_fabric8.csv,338,ffang,TRUE,removed,Closed
+fabric8io_fabric8.csv,337,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,336,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,334,lhein,TRUE,modified,Closed
+fabric8io_fabric8.csv,332,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,330,NULL,TRUE,modified,Closed
+fabric8io_fabric8.csv,329,janstey,TRUE,modified,Merged
+fabric8io_fabric8.csv,316,dejanb,TRUE,modified,Closed
+fabric8io_fabric8.csv,310,christian-posta,TRUE,modified AND added AND removed,Closed
+fabric8io_fabric8.csv,301,jstrachan,TRUE,added AND renamed AND modified,Merged
+fabric8io_fabric8.csv,297,tdiesler,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,289,tdiesler,TRUE,added,Merged
+fabric8io_fabric8.csv,277,ffang,TRUE,modified,Merged
+fabric8io_fabric8.csv,262,tdiesler,TRUE,modified AND renamed,Merged
+fabric8io_fabric8.csv,256,gnodet,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,249,jstrachan,TRUE,added AND removed AND modified,Closed
+fabric8io_fabric8.csv,241,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,240,iocanel,TRUE,modified AND removed,Merged
+fabric8io_fabric8.csv,235,gnodet,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,233,iocanel,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,231,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,230,iocanel,TRUE,modified AND added AND removed AND renamed,Closed
+fabric8io_fabric8.csv,221,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,215,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,206,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,202,jstrachan,TRUE,modified AND removed,Closed
+fabric8io_fabric8.csv,199,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,198,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,197,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,196,tdiesler,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,191,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,189,jstrachan,TRUE,added,Merged
+fabric8io_fabric8.csv,188,tdiesler,TRUE,added,Merged
+fabric8io_fabric8.csv,187,tdiesler,TRUE,added,Closed
+fabric8io_fabric8.csv,186,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,185,iocanel,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,184,jstrachan,TRUE,added,Merged
+fabric8io_fabric8.csv,183,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,182,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,181,tdiesler,TRUE,added,Merged
+fabric8io_fabric8.csv,180,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,179,tdiesler,TRUE,added,Merged
+fabric8io_fabric8.csv,178,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,177,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,176,tdiesler,TRUE,added,Merged
+fabric8io_fabric8.csv,175,tdiesler,TRUE,added,Merged
+fabric8io_fabric8.csv,174,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,173,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,165,tdiesler,TRUE,added,Closed
+fabric8io_fabric8.csv,164,tdiesler,TRUE,added,Closed
+fabric8io_fabric8.csv,161,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,160,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,125,antoinesd,TRUE,modified,Closed
+fabric8io_fabric8.csv,101,kpelykh,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,82,rawlingsj,TRUE,renamed AND removed,Merged
+fabric8io_fabric8.csv,81,tdiesler,TRUE,modified AND added AND renamed,Merged
+fabric8io_fabric8.csv,78,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,70,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,69,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,64,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,63,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,62,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,36,tdiesler,TRUE,removed AND renamed AND modified AND added,Closed
+fabric8io_fabric8.csv,4,ghost,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,1,scranton,TRUE,modified,Closed
+fabric8io_fabric8.csv,7085,NULL,TRUE,modified,Open
+fabric8io_fabric8.csv,7077,fabric8cd,TRUE,modified,Open
+fabric8io_fabric8.csv,7022,fabric8cd,TRUE,modified,Open
+fabric8io_fabric8.csv,7103,NULL,TRUE,removed,Merged
+fabric8io_fabric8.csv,7100,chmouel,TRUE,modified,Merged
+fabric8io_fabric8.csv,7099,cunningt,TRUE,modified,Merged
+fabric8io_fabric8.csv,7097,cunningt,TRUE,modified,Merged
+fabric8io_fabric8.csv,7095,cunningt,TRUE,modified,Merged
+fabric8io_fabric8.csv,7091,cunningt,TRUE,modified,Merged
+fabric8io_fabric8.csv,7090,cunningt,TRUE,modified,Closed
+fabric8io_fabric8.csv,7089,cunningt,TRUE,modified,Merged
+fabric8io_fabric8.csv,7088,cunningt,TRUE,modified,Merged
+fabric8io_fabric8.csv,7087,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,7084,cunningt,TRUE,modified,Merged
+fabric8io_fabric8.csv,7083,cunningt,TRUE,modified,Merged
+fabric8io_fabric8.csv,7079,cunningt,TRUE,modified,Merged
+fabric8io_fabric8.csv,7074,cunningt,TRUE,modified,Merged
+fabric8io_fabric8.csv,7073,maxandersen,TRUE,removed,Merged
+fabric8io_fabric8.csv,7070,maxandersen,TRUE,modified,Merged
+fabric8io_fabric8.csv,7069,rupalibehera,TRUE,modified,Merged
+fabric8io_fabric8.csv,7068,cunningt,TRUE,modified,Merged
+fabric8io_fabric8.csv,7062,rupalibehera,TRUE,modified,Merged
+fabric8io_fabric8.csv,7061,jaseemabid,TRUE,modified,Merged
+fabric8io_fabric8.csv,7060,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,7059,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,7058,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,7057,piyush-garg,TRUE,modified,Merged
+fabric8io_fabric8.csv,7056,piyush-garg,TRUE,modified,Merged
+fabric8io_fabric8.csv,7055,piyush-garg,TRUE,modified,Merged
+fabric8io_fabric8.csv,7054,piyush-garg,TRUE,modified,Merged
+fabric8io_fabric8.csv,7051,piyush-garg,TRUE,modified,Closed
+fabric8io_fabric8.csv,7045,fabric8cd,TRUE,modified,Closed
+fabric8io_fabric8.csv,7043,fabric8cd,TRUE,modified,Merged
+fabric8io_fabric8.csv,7038,jamesnetherton,TRUE,modified,Closed
+fabric8io_fabric8.csv,7036,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,7034,nicolaferraro,TRUE,modified,Closed
+fabric8io_fabric8.csv,7033,fabric8cd,TRUE,modified,Merged
+fabric8io_fabric8.csv,7030,jamesnetherton,TRUE,modified,Closed
+fabric8io_fabric8.csv,7028,jonathanchristison,TRUE,modified,Merged
+fabric8io_fabric8.csv,7015,valdar,TRUE,modified,Closed
+fabric8io_fabric8.csv,7011,fabric8cd,TRUE,modified,Merged
+fabric8io_fabric8.csv,7010,oscerd,TRUE,modified,Closed
+fabric8io_fabric8.csv,7008,fabric8cd,TRUE,modified,Closed
+fabric8io_fabric8.csv,7007,fabric8cd,TRUE,modified,Merged
+fabric8io_fabric8.csv,7006,oscerd,TRUE,modified,Closed
+fabric8io_fabric8.csv,7005,fabric8cd,TRUE,modified,Closed
+fabric8io_fabric8.csv,7003,fabric8cd,TRUE,modified,Closed
+fabric8io_fabric8.csv,7001,fabric8cd,TRUE,modified,Closed
+fabric8io_fabric8.csv,7000,fabric8cd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6999,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6997,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6991,bparry02,TRUE,modified,Closed
+fabric8io_fabric8.csv,6989,ivuk,TRUE,modified,Merged
+fabric8io_fabric8.csv,6988,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6985,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6984,ivuk,TRUE,modified,Merged
+fabric8io_fabric8.csv,6982,ivuk,TRUE,modified,Merged
+fabric8io_fabric8.csv,6981,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6978,ivuk,TRUE,modified,Merged
+fabric8io_fabric8.csv,6977,grgrzybek,TRUE,modified,Merged
+fabric8io_fabric8.csv,6975,grgrzybek,TRUE,modified,Merged
+fabric8io_fabric8.csv,6974,fabric8cd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6973,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6972,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,6966,valdar,TRUE,modified,Merged
+fabric8io_fabric8.csv,6965,fabric8cd,TRUE,modified AND renamed AND added,Merged
+fabric8io_fabric8.csv,6964,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6963,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6959,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6958,jamesnetherton,TRUE,modified,Merged
+fabric8io_fabric8.csv,6957,SeMeKh,TRUE,modified,Merged
+fabric8io_fabric8.csv,6954,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,6952,fabric8cd,TRUE,modified,Closed
+fabric8io_fabric8.csv,6951,oscerd,TRUE,modified,Closed
+fabric8io_fabric8.csv,6950,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6947,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6946,nicolaferraro,TRUE,modified,Merged
+fabric8io_fabric8.csv,6945,nicolaferraro,TRUE,modified,Merged
+fabric8io_fabric8.csv,6939,nicolaferraro,TRUE,modified,Merged
+fabric8io_fabric8.csv,6938,fabric8cd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6923,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6917,fabric8cd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6916,fabric8cd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6915,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6913,fabric8cd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6912,dejan2609,TRUE,modified,Merged
+fabric8io_fabric8.csv,6910,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6909,fabric8cd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6906,jamesnetherton,TRUE,modified,Merged
+fabric8io_fabric8.csv,6905,nicolaferraro,TRUE,modified,Merged
+fabric8io_fabric8.csv,6902,nicolaferraro,TRUE,modified,Merged
+fabric8io_fabric8.csv,6899,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6897,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6896,fabric8cd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6895,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,6892,fabric8cd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6889,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6888,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6887,hayderimran7,TRUE,modified,Merged
+fabric8io_fabric8.csv,6886,oscerd,TRUE,modified,Closed
+fabric8io_fabric8.csv,6885,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6884,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6881,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6880,fabric8cd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6879,fabric8cd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6878,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6877,jamesnetherton,TRUE,modified,Merged
+fabric8io_fabric8.csv,6874,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6873,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6872,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6870,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6868,nicolaferraro,TRUE,modified,Closed
+fabric8io_fabric8.csv,6864,crixey,TRUE,modified,Closed
+fabric8io_fabric8.csv,6861,oscerd,TRUE,modified,Closed
+fabric8io_fabric8.csv,6860,nicolaferraro,TRUE,modified,Merged
+fabric8io_fabric8.csv,6857,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6856,nicolaferraro,TRUE,modified,Merged
+fabric8io_fabric8.csv,6855,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6851,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6848,fabric8cd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6836,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6833,fabric8cd,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,6830,dhirajsb,TRUE,modified,Merged
+fabric8io_fabric8.csv,6825,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6823,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,6820,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,6817,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,6816,fabric8cd,TRUE,modified,Closed
+fabric8io_fabric8.csv,6815,fabric8cd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6811,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6810,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6809,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6803,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6797,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6796,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6795,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6794,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6793,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6792,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6791,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6789,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6788,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6787,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6785,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6782,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6780,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,6779,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6776,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6774,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6773,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6771,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6770,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6769,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6765,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6763,thejibz,TRUE,modified,Merged
+fabric8io_fabric8.csv,6761,bparry02,TRUE,modified,Merged
+fabric8io_fabric8.csv,6759,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6757,nicolaferraro,TRUE,modified,Merged
+fabric8io_fabric8.csv,6755,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6754,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6751,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6750,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6749,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6748,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6747,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6743,chirino,TRUE,modified,Merged
+fabric8io_fabric8.csv,6742,rawlingsj,TRUE,modified,Closed
+fabric8io_fabric8.csv,6740,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6739,isbecker,TRUE,modified,Merged
+fabric8io_fabric8.csv,6738,rawlingsj,TRUE,renamed,Merged
+fabric8io_fabric8.csv,6737,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6735,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6733,NULL,TRUE,modified,Merged
+fabric8io_fabric8.csv,6728,bartoszmajsak,TRUE,modified,Merged
+fabric8io_fabric8.csv,6727,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6724,ash211,TRUE,modified,Merged
+fabric8io_fabric8.csv,6723,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6722,jamesnetherton,TRUE,modified,Closed
+fabric8io_fabric8.csv,6721,jamesnetherton,TRUE,modified,Merged
+fabric8io_fabric8.csv,6719,chirino,TRUE,modified,Merged
+fabric8io_fabric8.csv,6714,jamesnetherton,TRUE,modified,Merged
+fabric8io_fabric8.csv,6713,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6712,mscherer,TRUE,modified,Merged
+fabric8io_fabric8.csv,6711,dhirajsb,TRUE,modified,Merged
+fabric8io_fabric8.csv,6709,dhirajsb,TRUE,modified,Merged
+fabric8io_fabric8.csv,6708,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6707,jamesnetherton,TRUE,modified,Merged
+fabric8io_fabric8.csv,6705,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6704,chirino,TRUE,modified,Closed
+fabric8io_fabric8.csv,6703,jamesnetherton,TRUE,modified,Closed
+fabric8io_fabric8.csv,6702,astefanutti,TRUE,modified,Closed
+fabric8io_fabric8.csv,6701,astefanutti,TRUE,modified,Merged
+fabric8io_fabric8.csv,6698,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6696,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6695,nicolaferraro,TRUE,modified,Merged
+fabric8io_fabric8.csv,6692,nicolaferraro,TRUE,modified,Merged
+fabric8io_fabric8.csv,6691,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6690,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6689,rawlingsj,TRUE,modified,Closed
+fabric8io_fabric8.csv,6687,ffang,TRUE,modified,Merged
+fabric8io_fabric8.csv,6686,nicolaferraro,TRUE,modified,Merged
+fabric8io_fabric8.csv,6685,nicolaferraro,TRUE,modified,Merged
+fabric8io_fabric8.csv,6684,nicolaferraro,TRUE,modified,Merged
+fabric8io_fabric8.csv,6683,nicolaferraro,TRUE,modified,Merged
+fabric8io_fabric8.csv,6682,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6680,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6679,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,6678,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6677,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6676,rawlingsj,TRUE,modified,Closed
+fabric8io_fabric8.csv,6675,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6674,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6673,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6672,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6671,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6670,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6664,rawlingsj,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,6657,nicolaferraro,TRUE,modified,Merged
+fabric8io_fabric8.csv,6656,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6653,ffang,TRUE,modified,Merged
+fabric8io_fabric8.csv,6652,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6651,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6650,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6649,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,6648,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6647,catrobson,TRUE,modified,Merged
+fabric8io_fabric8.csv,6645,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,6644,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6642,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,6635,astefanutti,TRUE,modified,Merged
+fabric8io_fabric8.csv,6634,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6632,johnpoth,TRUE,modified,Merged
+fabric8io_fabric8.csv,6625,rawlingsj,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6624,nicolaferraro,TRUE,modified,Merged
+fabric8io_fabric8.csv,6623,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6620,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,6618,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,6613,nicolaferraro,TRUE,modified,Closed
+fabric8io_fabric8.csv,6612,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,6611,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,6606,nicolaferraro,TRUE,modified,Merged
+fabric8io_fabric8.csv,6604,oscerd,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6601,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6600,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6595,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6591,curx,TRUE,modified,Merged
+fabric8io_fabric8.csv,6590,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6585,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6583,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6580,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6579,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6577,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,6566,jstrachan,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,6553,chirino,TRUE,modified,Merged
+fabric8io_fabric8.csv,6549,chirino,TRUE,modified,Merged
+fabric8io_fabric8.csv,6548,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6535,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6532,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,6531,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6529,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6526,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6525,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6524,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6522,NULL,TRUE,modified,Merged
+fabric8io_fabric8.csv,6521,lburgazzoli,TRUE,modified,Merged
+fabric8io_fabric8.csv,6518,jimmidyson,TRUE,modified,Merged
+fabric8io_fabric8.csv,6517,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6516,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6515,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6514,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6513,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6512,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6511,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6510,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6509,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6503,jstrachan,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,6502,nicolaferraro,TRUE,modified,Merged
+fabric8io_fabric8.csv,6501,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6500,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6499,rawlingsj,TRUE,modified,Closed
+fabric8io_fabric8.csv,6498,rawlingsj,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6497,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6496,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6494,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,6493,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6492,rhuss,TRUE,modified,Merged
+fabric8io_fabric8.csv,6488,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,6485,leemorrisdev,TRUE,modified,Merged
+fabric8io_fabric8.csv,6484,lburgazzoli,TRUE,modified,Closed
+fabric8io_fabric8.csv,6479,lburgazzoli,TRUE,modified,Merged
+fabric8io_fabric8.csv,6475,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6472,apupier,TRUE,modified,Merged
+fabric8io_fabric8.csv,6471,nicolaferraro,TRUE,modified,Closed
+fabric8io_fabric8.csv,6470,jamesnetherton,TRUE,modified,Merged
+fabric8io_fabric8.csv,6469,oscerd,TRUE,modified,Closed
+fabric8io_fabric8.csv,6468,jamesnetherton,TRUE,modified,Merged
+fabric8io_fabric8.csv,6467,feynmanliang,TRUE,modified,Merged
+fabric8io_fabric8.csv,6466,feynmanliang,TRUE,modified,Closed
+fabric8io_fabric8.csv,6465,jamesnetherton,TRUE,modified,Closed
+fabric8io_fabric8.csv,6464,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6463,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6462,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6461,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6460,feynmanliang,TRUE,modified,Merged
+fabric8io_fabric8.csv,6458,rawlingsj,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,6457,chirino,TRUE,modified,Merged
+fabric8io_fabric8.csv,6444,nicolaferraro,TRUE,modified,Merged
+fabric8io_fabric8.csv,6443,christian-posta,TRUE,modified,Merged
+fabric8io_fabric8.csv,6441,christian-posta,TRUE,modified,Merged
+fabric8io_fabric8.csv,6440,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,6438,nicolaferraro,TRUE,modified,Merged
+fabric8io_fabric8.csv,6433,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6430,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6429,rhuss,TRUE,modified,Merged
+fabric8io_fabric8.csv,6428,nicolaferraro,TRUE,modified,Merged
+fabric8io_fabric8.csv,6425,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6424,chirino,TRUE,modified,Merged
+fabric8io_fabric8.csv,6421,chirino,TRUE,modified,Merged
+fabric8io_fabric8.csv,6420,lburgazzoli,TRUE,modified,Merged
+fabric8io_fabric8.csv,6418,lburgazzoli,TRUE,modified,Merged
+fabric8io_fabric8.csv,6416,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,6414,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6413,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6409,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6408,nicolaferraro,TRUE,modified,Merged
+fabric8io_fabric8.csv,6405,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6399,nicolaferraro,TRUE,modified,Merged
+fabric8io_fabric8.csv,6397,lburgazzoli,TRUE,modified,Merged
+fabric8io_fabric8.csv,6393,rawlingsj,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6392,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6387,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6386,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6384,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,6380,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6379,lburgazzoli,TRUE,modified,Merged
+fabric8io_fabric8.csv,6369,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,6368,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,6365,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6359,lburgazzoli,TRUE,modified,Merged
+fabric8io_fabric8.csv,6353,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6350,alesny,TRUE,modified,Merged
+fabric8io_fabric8.csv,6349,sspeiche,TRUE,modified,Merged
+fabric8io_fabric8.csv,6343,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6342,rawlingsj,TRUE,modified,Closed
+fabric8io_fabric8.csv,6341,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6339,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,6336,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6333,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6324,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6323,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6322,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6321,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6320,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6315,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6313,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6305,lburgazzoli,TRUE,modified,Merged
+fabric8io_fabric8.csv,6302,rawlingsj,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6301,rawlingsj,TRUE,modified,Closed
+fabric8io_fabric8.csv,6285,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6284,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6283,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6282,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6281,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6280,rawlingsj,TRUE,modified,Closed
+fabric8io_fabric8.csv,6274,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6273,jimmidyson,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,6272,lburgazzoli,TRUE,modified,Merged
+fabric8io_fabric8.csv,6271,chirino,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6268,lburgazzoli,TRUE,modified,Merged
+fabric8io_fabric8.csv,6267,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6266,chirino,TRUE,modified,Merged
+fabric8io_fabric8.csv,6265,chirino,TRUE,modified AND added AND removed,Closed
+fabric8io_fabric8.csv,6262,lburgazzoli,TRUE,modified,Closed
+fabric8io_fabric8.csv,6259,lburgazzoli,TRUE,renamed,Merged
+fabric8io_fabric8.csv,6258,chirino,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6257,chirino,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,6256,chirino,TRUE,modified,Merged
+fabric8io_fabric8.csv,6251,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6249,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6248,jimmidyson,TRUE,modified,Merged
+fabric8io_fabric8.csv,6246,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6245,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6244,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6243,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6242,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6238,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6236,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6235,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6233,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6232,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6230,jstrachan,TRUE,added AND renamed AND modified,Merged
+fabric8io_fabric8.csv,6228,lburgazzoli,TRUE,modified,Merged
+fabric8io_fabric8.csv,6227,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,6226,rawlingsj,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6224,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6223,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6222,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6221,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6219,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6217,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,6215,mrook,TRUE,modified,Merged
+fabric8io_fabric8.csv,6214,rawlingsj,TRUE,modified,Closed
+fabric8io_fabric8.csv,6212,rawlingsj,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6209,lburgazzoli,TRUE,modified,Merged
+fabric8io_fabric8.csv,6206,jimmidyson,TRUE,modified,Merged
+fabric8io_fabric8.csv,6205,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6197,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6196,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6194,oscerd,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6191,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6190,oscerd,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6185,jimmidyson,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6184,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6175,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6174,oscerd,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6173,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6172,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6171,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6170,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6169,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6162,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6160,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6159,rawlingsj,TRUE,added,Merged
+fabric8io_fabric8.csv,6158,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6156,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,6155,rawlingsj,TRUE,modified,Closed
+fabric8io_fabric8.csv,6154,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6153,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,6152,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6151,rawlingsj,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6150,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6149,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6148,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6146,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,6145,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6144,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,6143,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6141,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6139,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6135,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6133,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6129,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6128,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6127,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6126,NULL,TRUE,modified,Merged
+fabric8io_fabric8.csv,6124,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6122,jamesnetherton,TRUE,modified,Merged
+fabric8io_fabric8.csv,6121,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6120,rawlingsj,TRUE,modified AND removed AND added,Merged
+fabric8io_fabric8.csv,6119,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6117,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6114,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6112,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6111,lburgazzoli,TRUE,modified,Merged
+fabric8io_fabric8.csv,6109,davsclaus,TRUE,modified AND added AND removed,Merged
+fabric8io_fabric8.csv,6107,chirino,TRUE,modified,Merged
+fabric8io_fabric8.csv,6106,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6102,dhirajsb,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6100,jstrachan,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,6099,chirino,TRUE,modified,Merged
+fabric8io_fabric8.csv,6098,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,6097,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6096,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6094,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,6092,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,6089,rawlingsj,TRUE,modified,Closed
+fabric8io_fabric8.csv,6088,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6084,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6080,tnaoto,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6076,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6074,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6073,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6070,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6069,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6068,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6067,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6066,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6065,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6063,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6061,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6059,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6058,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6056,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6054,rajdavies,TRUE,modified,Merged
+fabric8io_fabric8.csv,6053,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6052,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6050,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6048,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6047,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6046,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6045,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6044,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6043,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,6042,KurtStam,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6041,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6039,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6035,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6034,nicolaferraro,TRUE,modified,Merged
+fabric8io_fabric8.csv,6031,cmoulliard,TRUE,modified,Merged
+fabric8io_fabric8.csv,6030,jimmidyson,TRUE,modified,Merged
+fabric8io_fabric8.csv,6028,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6027,rhuss,TRUE,modified,Merged
+fabric8io_fabric8.csv,6026,rhuss,TRUE,modified,Merged
+fabric8io_fabric8.csv,6025,rhuss,TRUE,modified,Closed
+fabric8io_fabric8.csv,6024,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,6013,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,6009,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,6008,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,6007,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,6006,oscerd,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,6003,christian-posta,TRUE,modified,Merged
+fabric8io_fabric8.csv,6001,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,6000,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5997,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5996,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5995,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5994,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5992,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5991,rawlingsj,TRUE,modified,Closed
+fabric8io_fabric8.csv,5982,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5981,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5980,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5977,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5966,cmoulliard,TRUE,modified,Merged
+fabric8io_fabric8.csv,5963,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5962,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5958,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5954,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5953,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5952,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5950,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5949,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5948,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5946,NULL,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5945,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5944,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5943,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5941,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5939,starksm64,TRUE,modified,Merged
+fabric8io_fabric8.csv,5937,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5932,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5924,jstrachan,TRUE,added,Merged
+fabric8io_fabric8.csv,5918,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5917,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5914,dhirajsb,TRUE,modified,Merged
+fabric8io_fabric8.csv,5913,garethahealy,TRUE,modified,Merged
+fabric8io_fabric8.csv,5912,jimmidyson,TRUE,modified,Merged
+fabric8io_fabric8.csv,5910,KurtStam,TRUE,modified,Merged
+fabric8io_fabric8.csv,5905,KurtStam,TRUE,modified,Merged
+fabric8io_fabric8.csv,5902,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,5899,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5890,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5889,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5888,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5887,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,5886,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5883,rajdavies,TRUE,modified,Closed
+fabric8io_fabric8.csv,5881,garethahealy,TRUE,modified,Merged
+fabric8io_fabric8.csv,5880,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5875,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5874,oscerd,TRUE,modified,Closed
+fabric8io_fabric8.csv,5873,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5872,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5869,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5868,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5864,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5860,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5858,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5852,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5851,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5848,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5847,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5845,MarWestermann,TRUE,modified,Merged
+fabric8io_fabric8.csv,5842,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5838,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5835,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5832,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5831,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5827,jimmidyson,TRUE,modified,Merged
+fabric8io_fabric8.csv,5826,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5814,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5810,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5805,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5804,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5803,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5802,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5801,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5798,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5797,oscerd,TRUE,modified,Closed
+fabric8io_fabric8.csv,5792,alberttwong,TRUE,modified,Merged
+fabric8io_fabric8.csv,5790,jimmidyson,TRUE,modified,Merged
+fabric8io_fabric8.csv,5789,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5782,alberttwong,TRUE,modified,Closed
+fabric8io_fabric8.csv,5781,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5777,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5774,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5773,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5771,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5765,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5750,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5749,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5746,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,5745,chirino,TRUE,modified,Merged
+fabric8io_fabric8.csv,5739,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5736,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5734,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5733,chirino,TRUE,modified,Merged
+fabric8io_fabric8.csv,5732,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5730,oscerd,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,5729,chirino,TRUE,modified,Merged
+fabric8io_fabric8.csv,5728,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5727,chirino,TRUE,modified,Merged
+fabric8io_fabric8.csv,5726,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5725,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5724,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5723,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5722,chirino,TRUE,modified,Merged
+fabric8io_fabric8.csv,5721,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5716,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5715,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5712,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5711,NULL,TRUE,modified,Merged
+fabric8io_fabric8.csv,5710,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5709,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5707,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5706,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5705,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5702,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,5701,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5694,chirino,TRUE,modified,Merged
+fabric8io_fabric8.csv,5693,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5692,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5690,rawlingsj,TRUE,modified,Closed
+fabric8io_fabric8.csv,5681,MarWestermann,TRUE,modified,Merged
+fabric8io_fabric8.csv,5680,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5679,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5678,KurtStam,TRUE,modified,Closed
+fabric8io_fabric8.csv,5673,sergey-davydov,TRUE,modified,Merged
+fabric8io_fabric8.csv,5672,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5671,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5670,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5669,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5667,rhuss,TRUE,modified,Merged
+fabric8io_fabric8.csv,5666,rhuss,TRUE,modified,Merged
+fabric8io_fabric8.csv,5664,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5663,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5662,jimmidyson,TRUE,modified,Closed
+fabric8io_fabric8.csv,5661,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5658,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5654,oscerd,TRUE,modified,Closed
+fabric8io_fabric8.csv,5652,MarWestermann,TRUE,modified,Merged
+fabric8io_fabric8.csv,5649,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5648,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5647,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5645,MarWestermann,TRUE,modified,Merged
+fabric8io_fabric8.csv,5641,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5639,christian-posta,TRUE,modified,Merged
+fabric8io_fabric8.csv,5638,christian-posta,TRUE,modified,Closed
+fabric8io_fabric8.csv,5634,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5633,rhuss,TRUE,modified,Merged
+fabric8io_fabric8.csv,5632,oscerd,TRUE,modified,Closed
+fabric8io_fabric8.csv,5631,christian-posta,TRUE,modified,Closed
+fabric8io_fabric8.csv,5629,christian-posta,TRUE,modified,Merged
+fabric8io_fabric8.csv,5624,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5622,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5621,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5618,MarWestermann,TRUE,modified,Merged
+fabric8io_fabric8.csv,5616,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5610,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5609,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5608,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5607,rawlingsj,TRUE,modified,Closed
+fabric8io_fabric8.csv,5606,yongk802,TRUE,modified,Merged
+fabric8io_fabric8.csv,5604,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5603,rawlingsj,TRUE,added,Merged
+fabric8io_fabric8.csv,5602,rawlingsj,TRUE,modified,Closed
+fabric8io_fabric8.csv,5601,yongk802,TRUE,modified,Merged
+fabric8io_fabric8.csv,5599,chirino,TRUE,modified,Merged
+fabric8io_fabric8.csv,5596,oscerd,TRUE,modified,Closed
+fabric8io_fabric8.csv,5595,oscerd,TRUE,modified,Closed
+fabric8io_fabric8.csv,5594,yongk802,TRUE,modified,Closed
+fabric8io_fabric8.csv,5593,rhuss,TRUE,modified,Merged
+fabric8io_fabric8.csv,5592,rawlingsj,TRUE,added,Merged
+fabric8io_fabric8.csv,5591,rawlingsj,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,5590,rhuss,TRUE,modified,Merged
+fabric8io_fabric8.csv,5589,rhuss,TRUE,modified,Merged
+fabric8io_fabric8.csv,5588,rhuss,TRUE,modified,Merged
+fabric8io_fabric8.csv,5587,rhuss,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5585,rhuss,TRUE,modified,Merged
+fabric8io_fabric8.csv,5582,christian-posta,TRUE,modified,Merged
+fabric8io_fabric8.csv,5579,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5576,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5575,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5572,jimmidyson,TRUE,modified,Merged
+fabric8io_fabric8.csv,5568,jimmidyson,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,5566,christian-posta,TRUE,modified,Merged
+fabric8io_fabric8.csv,5565,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5564,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5563,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5562,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5553,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5552,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5550,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5549,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5548,christian-posta,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5546,jstrachan,TRUE,removed,Merged
+fabric8io_fabric8.csv,5543,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5542,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5541,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5540,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5539,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5538,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5534,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5530,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5526,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5525,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5523,davsclaus,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,5522,davsclaus,TRUE,modified AND removed,Merged
+fabric8io_fabric8.csv,5521,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,5520,christian-posta,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5519,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5518,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5516,oscerd,TRUE,modified,Closed
+fabric8io_fabric8.csv,5515,yongk802,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5514,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5512,oscerd,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,5511,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5510,oscerd,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5509,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,5508,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5507,rawlingsj,TRUE,added,Merged
+fabric8io_fabric8.csv,5504,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5501,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5500,davsclaus,TRUE,renamed AND modified,Merged
+fabric8io_fabric8.csv,5498,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5497,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5495,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5494,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5492,davsclaus,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,5491,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5490,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5489,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5488,davsclaus,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,5487,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5486,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5485,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5480,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5479,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5477,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5476,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5475,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5474,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5473,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5471,rawlingsj,TRUE,modified,Closed
+fabric8io_fabric8.csv,5470,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5469,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,5467,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5466,rawlingsj,TRUE,modified,Closed
+fabric8io_fabric8.csv,5464,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5461,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5460,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5458,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5457,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,5456,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5453,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5451,rawlingsj,TRUE,modified,Closed
+fabric8io_fabric8.csv,5450,gastaldi,TRUE,modified,Closed
+fabric8io_fabric8.csv,5449,oscerd,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5448,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5447,rawlingsj,TRUE,modified,Closed
+fabric8io_fabric8.csv,5446,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5441,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,5440,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5439,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5437,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5435,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5434,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5432,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5430,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5429,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5428,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5427,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,5426,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5423,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5422,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5418,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5417,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,5415,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5413,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5412,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5408,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,5407,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5406,kramos,TRUE,modified,Closed
+fabric8io_fabric8.csv,5405,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5401,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,5399,mriccia,TRUE,modified,Merged
+fabric8io_fabric8.csv,5398,dhirajsb,TRUE,modified,Merged
+fabric8io_fabric8.csv,5397,dhirajsb,TRUE,modified,Merged
+fabric8io_fabric8.csv,5395,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5394,davsclaus,TRUE,modified AND added AND renamed,Merged
+fabric8io_fabric8.csv,5392,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,5388,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5387,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5386,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5385,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5384,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5383,NULL,TRUE,modified,Merged
+fabric8io_fabric8.csv,5382,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,5380,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5379,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5378,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5376,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5371,KurtStam,TRUE,modified,Merged
+fabric8io_fabric8.csv,5370,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5364,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5363,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5360,rawlingsj,TRUE,modified,Closed
+fabric8io_fabric8.csv,5354,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5353,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,5352,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5351,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5347,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5346,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5345,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5343,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5342,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5341,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,5340,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5339,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5338,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5337,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5335,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5333,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5332,oscerd,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5331,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5329,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5327,rawlingsj,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5323,jstrachan,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,5320,davsclaus,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,5318,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5315,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5313,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5312,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,5308,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5307,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5306,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5305,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5304,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5303,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5301,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5299,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5298,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5297,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5296,jstrachan,TRUE,modified AND removed,Merged
+fabric8io_fabric8.csv,5295,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5294,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5293,oscerd,TRUE,modified,Closed
+fabric8io_fabric8.csv,5292,oscerd,TRUE,modified,Closed
+fabric8io_fabric8.csv,5291,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5289,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5288,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5287,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5286,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5285,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,5284,dhirajsb,TRUE,modified,Merged
+fabric8io_fabric8.csv,5283,dhirajsb,TRUE,modified,Closed
+fabric8io_fabric8.csv,5282,janstey,TRUE,modified,Merged
+fabric8io_fabric8.csv,5281,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5280,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,5279,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5278,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,5277,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,5275,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5273,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5272,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5271,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5270,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5268,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5267,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5266,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5265,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5264,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5263,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,5260,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5252,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5250,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5249,dhirajsb,TRUE,modified,Merged
+fabric8io_fabric8.csv,5248,dhirajsb,TRUE,modified,Merged
+fabric8io_fabric8.csv,5247,rawlingsj,TRUE,modified,Closed
+fabric8io_fabric8.csv,5246,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5245,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5244,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5242,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5240,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5238,NULL,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5235,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5234,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5231,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,5230,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5229,dhirajsb,TRUE,modified,Merged
+fabric8io_fabric8.csv,5228,dhirajsb,TRUE,modified,Closed
+fabric8io_fabric8.csv,5226,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,5225,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5224,iocanel,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5217,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,5216,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5215,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5210,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5209,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5206,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5205,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5203,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5202,davsclaus,TRUE,modified AND removed,Merged
+fabric8io_fabric8.csv,5201,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5200,dhirajsb,TRUE,modified,Closed
+fabric8io_fabric8.csv,5198,dhirajsb,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,5197,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5196,oscerd,TRUE,modified AND renamed AND removed,Merged
+fabric8io_fabric8.csv,5194,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5193,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5192,oscerd,TRUE,modified,Closed
+fabric8io_fabric8.csv,5191,oscerd,TRUE,modified,Closed
+fabric8io_fabric8.csv,5190,oscerd,TRUE,modified,Closed
+fabric8io_fabric8.csv,5185,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5183,janstey,TRUE,modified,Merged
+fabric8io_fabric8.csv,5182,jimmidyson,TRUE,modified,Merged
+fabric8io_fabric8.csv,5180,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5177,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5171,iocanel,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,5170,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5169,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5167,jstrachan,TRUE,removed AND modified,Merged
+fabric8io_fabric8.csv,5164,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5163,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5162,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5156,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5153,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5152,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5149,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5147,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5146,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5145,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,5144,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5143,rawlingsj,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5141,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5138,KurtStam,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5137,KurtStam,TRUE,modified,Merged
+fabric8io_fabric8.csv,5136,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5133,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5132,moix,TRUE,modified,Merged
+fabric8io_fabric8.csv,5131,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5123,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5120,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5118,oscerd,TRUE,modified,Closed
+fabric8io_fabric8.csv,5116,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5115,davsclaus,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,5112,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5111,dhirajsb,TRUE,modified,Merged
+fabric8io_fabric8.csv,5110,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5109,janstey,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,5107,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5106,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5105,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5104,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5099,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5097,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5095,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5094,davsclaus,TRUE,modified AND renamed AND added,Merged
+fabric8io_fabric8.csv,5092,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5086,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5085,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5080,iocanel,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,5077,NULL,TRUE,modified,Merged
+fabric8io_fabric8.csv,5076,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5072,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5068,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5067,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,5066,sergey-davydov,TRUE,modified,Merged
+fabric8io_fabric8.csv,5065,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5064,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5063,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5062,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5060,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5059,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5057,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5055,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5054,rawlingsj,TRUE,modified AND removed,Merged
+fabric8io_fabric8.csv,5051,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5049,iocanel,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,5046,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,5045,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,5039,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5037,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5034,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5033,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5032,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5031,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5030,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5029,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5026,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5024,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5022,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5021,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5019,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5018,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,5016,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,5015,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,5014,oscerd,TRUE,modified,Closed
+fabric8io_fabric8.csv,5013,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,5012,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,5011,oscerd,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,5010,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5009,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,5008,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5007,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,5001,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,4999,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,4998,iocanel,TRUE,modified AND removed,Closed
+fabric8io_fabric8.csv,4997,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,4996,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,4995,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4994,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4992,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4991,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,4990,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,4989,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4986,rhuss,TRUE,modified,Merged
+fabric8io_fabric8.csv,4985,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,4984,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,4983,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,4982,rhuss,TRUE,modified,Merged
+fabric8io_fabric8.csv,4980,rhuss,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,4979,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4978,rawlingsj,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,4976,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4975,rawlingsj,TRUE,modified,Closed
+fabric8io_fabric8.csv,4974,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,4973,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,4972,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,4971,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,4970,oscerd,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,4965,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,4960,davsclaus,TRUE,modified AND removed,Merged
+fabric8io_fabric8.csv,4959,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,4956,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,4955,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,4954,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,4952,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,4950,iocanel,TRUE,added,Merged
+fabric8io_fabric8.csv,4947,davsclaus,TRUE,modified AND renamed,Merged
+fabric8io_fabric8.csv,4946,rhuss,TRUE,modified,Merged
+fabric8io_fabric8.csv,4942,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,4940,iocanel,TRUE,added,Merged
+fabric8io_fabric8.csv,4936,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,4935,rawlingsj,TRUE,modified,Closed
+fabric8io_fabric8.csv,4933,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,4932,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,4931,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4928,rajdavies,TRUE,modified,Merged
+fabric8io_fabric8.csv,4927,rawlingsj,TRUE,modified,Closed
+fabric8io_fabric8.csv,4926,rhuss,TRUE,modified,Merged
+fabric8io_fabric8.csv,4922,rawlingsj,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,4921,KurtStam,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,4920,KurtStam,TRUE,modified,Closed
+fabric8io_fabric8.csv,4919,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,4918,KurtStam,TRUE,modified,Closed
+fabric8io_fabric8.csv,4917,rawlingsj,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,4916,KurtStam,TRUE,modified,Closed
+fabric8io_fabric8.csv,4915,rawlingsj,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,4914,KurtStam,TRUE,modified,Merged
+fabric8io_fabric8.csv,4913,rawlingsj,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,4912,chirino,TRUE,modified,Merged
+fabric8io_fabric8.csv,4908,davsclaus,TRUE,removed AND modified,Closed
+fabric8io_fabric8.csv,4906,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,4904,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,4902,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,4901,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,4900,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,4899,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,4898,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,4897,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,4896,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,4895,rawlingsj,TRUE,modified,Closed
+fabric8io_fabric8.csv,4894,cmoulliard,TRUE,modified,Merged
+fabric8io_fabric8.csv,4893,dhirajsb,TRUE,modified,Merged
+fabric8io_fabric8.csv,4892,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4891,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4886,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,4885,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4883,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,4879,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4878,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4877,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4876,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4873,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,4871,jimmidyson,TRUE,modified,Merged
+fabric8io_fabric8.csv,4868,jimmidyson,TRUE,modified,Merged
+fabric8io_fabric8.csv,4865,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4864,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4863,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4862,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4861,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,4857,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,4855,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,4854,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4851,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,4849,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4848,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,4846,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,4845,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4844,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,4843,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4840,jimmidyson,TRUE,modified,Merged
+fabric8io_fabric8.csv,4836,cmoulliard,TRUE,modified,Closed
+fabric8io_fabric8.csv,4835,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4834,oscerd,TRUE,modified,Closed
+fabric8io_fabric8.csv,4833,cmoulliard,TRUE,modified,Merged
+fabric8io_fabric8.csv,4832,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4830,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,4829,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,4828,jimmidyson,TRUE,modified,Merged
+fabric8io_fabric8.csv,4827,KurtStam,TRUE,modified,Merged
+fabric8io_fabric8.csv,4826,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,4823,jstrachan,TRUE,modified AND removed,Closed
+fabric8io_fabric8.csv,4822,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,4820,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4817,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,4816,KurtStam,TRUE,modified,Merged
+fabric8io_fabric8.csv,4814,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4813,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4808,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,4806,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,4805,rhuss,TRUE,modified,Merged
+fabric8io_fabric8.csv,4801,jimmidyson,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,4798,NULL,TRUE,modified,Merged
+fabric8io_fabric8.csv,4795,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4794,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4792,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,4791,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,4790,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,4789,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,4786,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4782,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4781,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4779,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4777,dhirajsb,TRUE,modified,Merged
+fabric8io_fabric8.csv,4776,jimmidyson,TRUE,modified,Merged
+fabric8io_fabric8.csv,4774,KurtStam,TRUE,modified,Merged
+fabric8io_fabric8.csv,4773,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4772,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4769,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4764,jimmidyson,TRUE,modified,Merged
+fabric8io_fabric8.csv,4763,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4762,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4760,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,4759,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4758,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,4757,KurtStam,TRUE,modified,Merged
+fabric8io_fabric8.csv,4756,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4755,oscerd,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,4754,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4750,jimmidyson,TRUE,modified,Merged
+fabric8io_fabric8.csv,4749,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4748,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4747,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4744,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4743,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4741,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4738,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,4735,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4734,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4733,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,4731,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4730,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,4729,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4727,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4723,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4722,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4720,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4716,KurtStam,TRUE,modified,Merged
+fabric8io_fabric8.csv,4715,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4713,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4712,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,4711,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,4710,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4709,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4708,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4706,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,4705,jimmidyson,TRUE,modified,Merged
+fabric8io_fabric8.csv,4704,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4698,rhuss,TRUE,modified,Closed
+fabric8io_fabric8.csv,4697,rawlingsj,TRUE,modified,Closed
+fabric8io_fabric8.csv,4696,KurtStam,TRUE,modified,Merged
+fabric8io_fabric8.csv,4694,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,4691,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,4690,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4689,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4686,rawlingsj,TRUE,modified,Merged
+fabric8io_fabric8.csv,4684,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,4682,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4681,jimmidyson,TRUE,modified,Closed
+fabric8io_fabric8.csv,4680,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4678,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,4676,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4675,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4674,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4673,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4672,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,4670,jstrachan,TRUE,added,Merged
+fabric8io_fabric8.csv,4669,oscerd,TRUE,modified,Merged
+fabric8io_fabric8.csv,4664,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,2518,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,2513,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,2510,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,2508,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,2505,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,2504,paoloantinori,TRUE,modified,Closed
+fabric8io_fabric8.csv,2501,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,2500,grgrzybek,TRUE,added,Closed
+fabric8io_fabric8.csv,2495,ffang,TRUE,modified,Closed
+fabric8io_fabric8.csv,2494,cmoulliard,TRUE,modified,Closed
+fabric8io_fabric8.csv,2488,tdiesler,TRUE,added,Closed
+fabric8io_fabric8.csv,2487,gashcrumb,TRUE,modified,Closed
+fabric8io_fabric8.csv,2483,grgrzybek,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,2479,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,2477,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,2476,grgrzybek,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2475,jstrachan,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2473,cmoulliard,TRUE,modified,Closed
+fabric8io_fabric8.csv,2470,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,2469,cmoulliard,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2467,tdiesler,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,2458,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,2454,iocanel,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2447,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,2446,gnodet,TRUE,added,Closed
+fabric8io_fabric8.csv,2444,paoloantinori,TRUE,modified,Closed
+fabric8io_fabric8.csv,2443,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,2442,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,2441,dejanb,TRUE,added,Closed
+fabric8io_fabric8.csv,2440,paoloantinori,TRUE,modified,Closed
+fabric8io_fabric8.csv,2439,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,2430,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,2428,luksa,TRUE,modified,Closed
+fabric8io_fabric8.csv,2427,iocanel,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2426,tdiesler,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2424,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,2421,alesj,TRUE,modified,Closed
+fabric8io_fabric8.csv,2420,gnodet,TRUE,modified AND added AND removed,Closed
+fabric8io_fabric8.csv,2418,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,2417,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,2416,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,2414,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,2410,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,2407,paoloantinori,TRUE,modified,Closed
+fabric8io_fabric8.csv,2406,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,2405,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,2400,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,2395,jstrachan,TRUE,modified AND removed,Closed
+fabric8io_fabric8.csv,2394,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,2389,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,2385,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,2381,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,2380,jimmidyson,TRUE,modified,Closed
+fabric8io_fabric8.csv,2379,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,2378,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,2377,gnodet,TRUE,modified,Merged
+fabric8io_fabric8.csv,2376,iocanel,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2375,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,2369,alesj,TRUE,modified,Closed
+fabric8io_fabric8.csv,2368,jstrachan,TRUE,added,Closed
+fabric8io_fabric8.csv,2366,KurtStam,TRUE,modified,Closed
+fabric8io_fabric8.csv,2362,KurtStam,TRUE,modified,Merged
+fabric8io_fabric8.csv,2361,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,2360,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,2353,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,2352,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,2348,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,2347,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,2345,ceekayel,TRUE,modified,Closed
+fabric8io_fabric8.csv,2344,kgeis,TRUE,modified,Merged
+fabric8io_fabric8.csv,2342,NULL,TRUE,modified,Merged
+fabric8io_fabric8.csv,2341,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,2339,kgeis,TRUE,added AND modified AND renamed AND removed,Closed
+fabric8io_fabric8.csv,2336,davsclaus,TRUE,added AND modified AND removed,Merged
+fabric8io_fabric8.csv,2334,davsclaus,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,2332,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,2331,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,2328,cwoodcock,TRUE,modified,Closed
+fabric8io_fabric8.csv,2324,rajdavies,TRUE,modified,Closed
+fabric8io_fabric8.csv,2322,chirino,TRUE,modified,Merged
+fabric8io_fabric8.csv,2320,PiotrKlimczak,TRUE,modified,Closed
+fabric8io_fabric8.csv,2318,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,2316,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,2315,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,2307,gnodet,TRUE,modified,Merged
+fabric8io_fabric8.csv,2304,grgrzybek,TRUE,modified,Merged
+fabric8io_fabric8.csv,2303,noelo,TRUE,modified,Closed
+fabric8io_fabric8.csv,2302,janstey,TRUE,modified,Merged
+fabric8io_fabric8.csv,2300,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,2299,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,2298,ffang,TRUE,modified,Closed
+fabric8io_fabric8.csv,2297,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,2296,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,2292,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,2290,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,2289,kleyer,TRUE,modified,Closed
+fabric8io_fabric8.csv,2287,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,2286,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,2283,noelo,TRUE,modified,Closed
+fabric8io_fabric8.csv,2282,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,2281,jrevillard,TRUE,modified,Closed
+fabric8io_fabric8.csv,2278,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,2272,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,2270,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,2268,davsclaus,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2263,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,2262,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,2261,valdar,TRUE,modified,Closed
+fabric8io_fabric8.csv,2252,alesj,TRUE,modified,Merged
+fabric8io_fabric8.csv,2250,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,2244,alesj,TRUE,modified,Merged
+fabric8io_fabric8.csv,2242,gertv,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,2241,ffang,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,2240,ffang,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,2239,ffang,TRUE,added,Merged
+fabric8io_fabric8.csv,2236,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,2235,janstey,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,2234,ffang,TRUE,added,Closed
+fabric8io_fabric8.csv,2232,jstrachan,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2231,zenlambda,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2228,christian-posta,TRUE,modified,Closed
+fabric8io_fabric8.csv,2224,jstrachan,TRUE,modified AND removed,Closed
+fabric8io_fabric8.csv,2219,iocanel,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,2216,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,2214,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,2212,ffang,TRUE,modified,Merged
+fabric8io_fabric8.csv,2207,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,2206,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,2204,gertv,TRUE,modified AND added AND removed,Closed
+fabric8io_fabric8.csv,2201,iocanel,TRUE,removed AND modified,Closed
+fabric8io_fabric8.csv,2196,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,2194,ffang,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,2192,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,2190,tdiesler,TRUE,removed AND modified,Closed
+fabric8io_fabric8.csv,2186,gashcrumb,TRUE,modified,Closed
+fabric8io_fabric8.csv,2180,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,2179,iocanel,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2178,gashcrumb,TRUE,modified,Closed
+fabric8io_fabric8.csv,2170,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,2162,tdiesler,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2160,kenfinnigan,TRUE,modified,Closed
+fabric8io_fabric8.csv,2152,jstrachan,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2147,jstrachan,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2145,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,2138,tdiesler,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2129,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,2128,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,2123,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,2122,hekonsek,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,2121,tdiesler,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2118,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,2112,KurtStam,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,2111,KurtStam,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2109,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,2101,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,2100,grgrzybek,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,2097,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,2095,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,2086,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,2085,alesj,TRUE,added,Closed
+fabric8io_fabric8.csv,2084,kenfinnigan,TRUE,modified,Closed
+fabric8io_fabric8.csv,2082,bibryam,TRUE,modified,Closed
+fabric8io_fabric8.csv,2081,iocanel,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2079,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,2078,jstrachan,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2076,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,2075,kenfinnigan,TRUE,modified,Merged
+fabric8io_fabric8.csv,2073,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,2068,jstrachan,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2062,paoloantinori,TRUE,modified,Closed
+fabric8io_fabric8.csv,2059,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,2050,jstrachan,TRUE,modified AND renamed,Merged
+fabric8io_fabric8.csv,2048,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,2045,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,2044,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,2042,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,2038,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,2036,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,2035,alesj,TRUE,modified,Closed
+fabric8io_fabric8.csv,2030,grgrzybek,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2027,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,2015,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,2013,tdiesler,TRUE,modified AND renamed,Closed
+fabric8io_fabric8.csv,2012,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,2009,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,2006,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,2005,hekonsek,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,2003,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,1999,grgrzybek,TRUE,renamed,Closed
+fabric8io_fabric8.csv,1997,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,1995,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1991,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1990,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1986,davsclaus,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1985,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1984,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1982,brozow,TRUE,modified,Closed
+fabric8io_fabric8.csv,1980,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1978,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1977,davsclaus,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1974,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1973,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,1970,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1967,chirino,TRUE,modified,Closed
+fabric8io_fabric8.csv,1964,hekonsek,TRUE,modified,Merged
+fabric8io_fabric8.csv,1962,NULL,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,1951,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1950,jstrachan,TRUE,modified AND renamed AND added,Closed
+fabric8io_fabric8.csv,1949,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,1943,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,1942,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1936,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,1930,dejanb,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1929,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1927,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,1925,hekonsek,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1922,jstrachan,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,1910,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1909,tdiesler,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1900,rajdavies,TRUE,modified,Closed
+fabric8io_fabric8.csv,1896,chirino,TRUE,modified,Closed
+fabric8io_fabric8.csv,1893,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,1881,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,1874,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1872,tdiesler,TRUE,modified AND added AND renamed AND removed,Closed
+fabric8io_fabric8.csv,1868,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1867,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,1863,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1859,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,1854,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1849,gnodet,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,1848,kenfinnigan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1844,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1842,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1840,jstrachan,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1838,chirino,TRUE,modified AND added AND renamed,Closed
+fabric8io_fabric8.csv,1837,davsclaus,TRUE,modified AND renamed,Closed
+fabric8io_fabric8.csv,1835,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1834,rawlingsj,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1832,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1831,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1830,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1826,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,1825,theute,TRUE,modified,Closed
+fabric8io_fabric8.csv,1824,WillemJiang,TRUE,modified,Closed
+fabric8io_fabric8.csv,1818,rajdavies,TRUE,modified,Closed
+fabric8io_fabric8.csv,1817,hekonsek,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1815,davsclaus,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1814,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1812,theute,TRUE,modified,Closed
+fabric8io_fabric8.csv,1806,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,1804,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1803,zmhassan,TRUE,modified,Merged
+fabric8io_fabric8.csv,1800,zmhassan,TRUE,added AND modified AND removed,Closed
+fabric8io_fabric8.csv,1797,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1793,cpansegrouw,TRUE,modified,Closed
+fabric8io_fabric8.csv,1792,cpansegrouw,TRUE,modified,Merged
+fabric8io_fabric8.csv,1790,ffang,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1787,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1786,NULL,TRUE,modified,Closed
+fabric8io_fabric8.csv,1785,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1783,WillemJiang,TRUE,modified,Closed
+fabric8io_fabric8.csv,1781,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1778,christian-posta,TRUE,modified,Merged
+fabric8io_fabric8.csv,1777,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1773,gnodet,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1772,luksa,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1767,ffang,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1766,hekonsek,TRUE,modified AND renamed AND added,Closed
+fabric8io_fabric8.csv,1761,hekonsek,TRUE,renamed,Closed
+fabric8io_fabric8.csv,1760,davsclaus,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1759,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1757,grgrzybek,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1754,paoloantinori,TRUE,modified,Merged
+fabric8io_fabric8.csv,1753,jstrachan,TRUE,modified AND removed AND added AND renamed,Closed
+fabric8io_fabric8.csv,1751,gnodet,TRUE,modified,Merged
+fabric8io_fabric8.csv,1748,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,1746,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1744,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1743,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1742,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1741,dejanb,TRUE,modified,Closed
+fabric8io_fabric8.csv,1738,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1731,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1727,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,1719,jstrachan,TRUE,modified AND removed AND renamed AND added,Merged
+fabric8io_fabric8.csv,1709,davsclaus,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1706,davsclaus,TRUE,added AND removed AND modified AND renamed,Closed
+fabric8io_fabric8.csv,1703,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1702,gashcrumb,TRUE,modified AND added AND removed AND renamed,Merged
+fabric8io_fabric8.csv,1698,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1697,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1694,davsclaus,TRUE,modified AND removed,Closed
+fabric8io_fabric8.csv,1693,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1688,jstrachan,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,1685,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1684,davsclaus,TRUE,modified AND renamed AND removed,Closed
+fabric8io_fabric8.csv,1683,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1682,gashcrumb,TRUE,modified,Merged
+fabric8io_fabric8.csv,1679,davsclaus,TRUE,modified AND added AND renamed,Closed
+fabric8io_fabric8.csv,1678,jstrachan,TRUE,added AND modified AND removed,Closed
+fabric8io_fabric8.csv,1675,davsclaus,TRUE,modified AND removed,Merged
+fabric8io_fabric8.csv,1673,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1669,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,1667,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1666,jstrachan,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,1664,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1661,jstrachan,TRUE,modified AND renamed AND added,Closed
+fabric8io_fabric8.csv,1660,gashcrumb,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,1658,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1656,iocanel,TRUE,modified AND added AND renamed AND removed,Merged
+fabric8io_fabric8.csv,1652,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1651,jstrachan,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,1649,jstrachan,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,1647,davsclaus,TRUE,modified AND renamed AND added,Closed
+fabric8io_fabric8.csv,1643,jstrachan,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1636,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1635,davsclaus,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,1632,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1627,danbev,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1626,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1624,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1623,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1605,davsclaus,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,1595,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1593,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1589,jstrachan,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1580,jstrachan,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,1578,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,1577,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1576,christian-posta,TRUE,modified,Merged
+fabric8io_fabric8.csv,1561,hekonsek,TRUE,modified,Merged
+fabric8io_fabric8.csv,1557,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1552,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1551,NULL,TRUE,modified,Merged
+fabric8io_fabric8.csv,1550,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1549,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1543,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1542,christian-posta,TRUE,modified,Closed
+fabric8io_fabric8.csv,1541,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1540,paoloantinori,TRUE,modified,Closed
+fabric8io_fabric8.csv,1539,paoloantinori,TRUE,modified,Closed
+fabric8io_fabric8.csv,1536,luksa,TRUE,modified,Closed
+fabric8io_fabric8.csv,1534,hekonsek,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1533,paoloantinori,TRUE,modified,Merged
+fabric8io_fabric8.csv,1529,hekonsek,TRUE,added,Closed
+fabric8io_fabric8.csv,1528,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1521,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1520,hekonsek,TRUE,modified,Merged
+fabric8io_fabric8.csv,1519,hekonsek,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1504,davsclaus,TRUE,modified AND renamed AND added AND removed,Closed
+fabric8io_fabric8.csv,1502,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1489,hekonsek,TRUE,modified AND added AND renamed AND removed,Closed
+fabric8io_fabric8.csv,1488,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1487,gashcrumb,TRUE,modified AND added AND renamed AND removed,Closed
+fabric8io_fabric8.csv,1485,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1484,cmoulliard,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1483,iocanel,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,1482,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1471,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1470,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1469,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1468,danbev,TRUE,modified,Closed
+fabric8io_fabric8.csv,1466,grgrzybek,TRUE,modified,Merged
+fabric8io_fabric8.csv,1457,hekonsek,TRUE,modified,Merged
+fabric8io_fabric8.csv,1455,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,1448,hekonsek,TRUE,modified AND added AND renamed AND removed,Merged
+fabric8io_fabric8.csv,1446,davsclaus,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,1444,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,1440,danbev,TRUE,modified,Merged
+fabric8io_fabric8.csv,1437,hekonsek,TRUE,modified,Merged
+fabric8io_fabric8.csv,1435,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,1434,jstrachan,TRUE,modified AND added AND renamed,Closed
+fabric8io_fabric8.csv,1426,danbev,TRUE,modified,Closed
+fabric8io_fabric8.csv,1420,danbev,TRUE,modified AND renamed AND added,Merged
+fabric8io_fabric8.csv,1415,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1414,jstrachan,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1410,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1408,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1407,jrevillard,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1406,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1405,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1394,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1393,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1391,jstrachan,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,1390,gashcrumb,TRUE,modified,Closed
+fabric8io_fabric8.csv,1389,cmoulliard,TRUE,modified,Closed
+fabric8io_fabric8.csv,1382,davsclaus,TRUE,removed AND modified,Merged
+fabric8io_fabric8.csv,1377,jstrachan,TRUE,modified AND removed,Merged
+fabric8io_fabric8.csv,1376,davsclaus,TRUE,modified AND removed,Closed
+fabric8io_fabric8.csv,1374,davsclaus,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1372,davsclaus,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1371,jrevillard,TRUE,modified,Closed
+fabric8io_fabric8.csv,1368,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1363,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1362,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1361,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1355,christian-posta,TRUE,modified,Merged
+fabric8io_fabric8.csv,1350,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1343,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1342,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1340,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1339,NULL,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1338,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1337,hekonsek,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,1333,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1331,tenfourty,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1329,davsclaus,TRUE,modified AND added AND renamed,Merged
+fabric8io_fabric8.csv,1325,jstrachan,TRUE,modified AND added AND renamed,Merged
+fabric8io_fabric8.csv,1324,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,1321,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1320,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1318,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1317,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1314,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1312,hekonsek,TRUE,modified,Merged
+fabric8io_fabric8.csv,1311,gashcrumb,TRUE,modified,Closed
+fabric8io_fabric8.csv,1307,hekonsek,TRUE,modified,Merged
+fabric8io_fabric8.csv,1304,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1302,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1298,grgrzybek,TRUE,modified,Merged
+fabric8io_fabric8.csv,1296,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1295,jrevillard,TRUE,modified,Merged
+fabric8io_fabric8.csv,1294,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1293,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1292,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1291,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1289,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1287,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1286,grgrzybek,TRUE,modified,Merged
+fabric8io_fabric8.csv,1283,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1282,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1278,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1275,hekonsek,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1274,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1272,davsclaus,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,1271,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,1270,gashcrumb,TRUE,modified,Closed
+fabric8io_fabric8.csv,1265,davsclaus,TRUE,modified AND renamed,Closed
+fabric8io_fabric8.csv,1262,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1259,rawlingsj,TRUE,modified AND added AND renamed AND removed,Closed
+fabric8io_fabric8.csv,1256,jstrachan,TRUE,modified AND added AND removed,Closed
+fabric8io_fabric8.csv,1255,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1254,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1251,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1250,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1246,cmoulliard,TRUE,modified,Closed
+fabric8io_fabric8.csv,1245,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1244,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1241,hekonsek,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,1240,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1225,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1224,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,1223,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1222,hekonsek,TRUE,modified,Merged
+fabric8io_fabric8.csv,1221,hekonsek,TRUE,modified AND added AND renamed AND removed,Merged
+fabric8io_fabric8.csv,1220,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,1219,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1211,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1210,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1209,jrevillard,TRUE,modified,Closed
+fabric8io_fabric8.csv,1208,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1207,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1198,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1193,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1190,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1183,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1182,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1178,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1175,NULL,TRUE,modified,Closed
+fabric8io_fabric8.csv,1170,davsclaus,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1169,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1164,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1160,hekonsek,TRUE,modified,Merged
+fabric8io_fabric8.csv,1158,hekonsek,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1154,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1153,jstrachan,TRUE,added,Closed
+fabric8io_fabric8.csv,1152,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1151,grgrzybek,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1150,umeetiusbaar,TRUE,modified,Merged
+fabric8io_fabric8.csv,1149,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,1146,grgrzybek,TRUE,modified,Merged
+fabric8io_fabric8.csv,1145,ffang,TRUE,modified AND removed,Merged
+fabric8io_fabric8.csv,1143,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1140,ffang,TRUE,modified,Merged
+fabric8io_fabric8.csv,1138,ffang,TRUE,modified,Closed
+fabric8io_fabric8.csv,1136,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1135,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1128,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,1117,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1116,dejanb,TRUE,modified,Closed
+fabric8io_fabric8.csv,1115,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,1114,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1111,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1109,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1105,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1104,askannon,TRUE,modified,Merged
+fabric8io_fabric8.csv,1103,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1099,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1097,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1095,davsclaus,TRUE,modified AND added AND removed,Closed
+fabric8io_fabric8.csv,1094,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,1089,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,1088,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,1084,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,1083,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,1078,davsclaus,TRUE,modified AND removed,Closed
+fabric8io_fabric8.csv,1077,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1075,tdiesler,TRUE,removed,Merged
+fabric8io_fabric8.csv,1074,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1073,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1071,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1070,davsclaus,TRUE,modified AND removed AND renamed AND added,Closed
+fabric8io_fabric8.csv,1069,gashcrumb,TRUE,modified,Closed
+fabric8io_fabric8.csv,1061,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1060,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1058,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1057,jstrachan,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,1056,gashcrumb,TRUE,modified,Closed
+fabric8io_fabric8.csv,1055,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1051,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,1050,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,1049,gnodet,TRUE,modified,Merged
+fabric8io_fabric8.csv,1048,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1038,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,1034,davsclaus,TRUE,added AND removed AND modified,Merged
+fabric8io_fabric8.csv,1018,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1013,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,1009,NULL,TRUE,modified,Merged
+fabric8io_fabric8.csv,1007,janstey,TRUE,modified,Merged
+fabric8io_fabric8.csv,1006,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,1003,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,1002,grgrzybek,TRUE,added,Closed
+fabric8io_fabric8.csv,1001,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,1000,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,999,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,998,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,995,chirino,TRUE,modified,Closed
+fabric8io_fabric8.csv,994,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,993,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,992,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,989,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,986,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,984,janstey,TRUE,modified,Merged
+fabric8io_fabric8.csv,983,gnodet,TRUE,modified,Merged
+fabric8io_fabric8.csv,981,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,974,tdiesler,TRUE,modified AND removed,Merged
+fabric8io_fabric8.csv,972,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,969,janstey,TRUE,renamed,Closed
+fabric8io_fabric8.csv,967,davsclaus,TRUE,modified AND renamed,Merged
+fabric8io_fabric8.csv,966,davsclaus,TRUE,renamed AND modified,Closed
+fabric8io_fabric8.csv,953,jstrachan,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,951,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,949,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,948,grgrzybek,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,946,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,945,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,939,jstrachan,TRUE,modified AND added AND removed,Merged
+fabric8io_fabric8.csv,938,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,936,iocanel,TRUE,modified AND added AND removed,Closed
+fabric8io_fabric8.csv,934,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,933,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,932,gnodet,TRUE,modified,Merged
+fabric8io_fabric8.csv,930,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,929,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,928,gashcrumb,TRUE,modified,Merged
+fabric8io_fabric8.csv,923,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,922,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,920,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,917,gashcrumb,TRUE,modified,Closed
+fabric8io_fabric8.csv,916,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,915,geertschuring,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,914,tdiesler,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,913,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,911,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,910,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,909,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,908,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,906,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,905,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,904,janstey,TRUE,modified,Merged
+fabric8io_fabric8.csv,903,janstey,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,900,janstey,TRUE,modified,Merged
+fabric8io_fabric8.csv,899,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,898,janstey,TRUE,modified,Merged
+fabric8io_fabric8.csv,897,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,894,iocanel,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,888,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,887,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,885,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,884,davsclaus,TRUE,modified AND added AND renamed,Closed
+fabric8io_fabric8.csv,882,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,881,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,879,NULL,TRUE,modified,Closed
+fabric8io_fabric8.csv,872,cmoulliard,TRUE,modified,Merged
+fabric8io_fabric8.csv,870,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,865,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,863,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,861,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,860,geertschuring,TRUE,modified,Merged
+fabric8io_fabric8.csv,853,cmoulliard,TRUE,modified,Closed
+fabric8io_fabric8.csv,851,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,850,grgrzybek,TRUE,modified,Merged
+fabric8io_fabric8.csv,846,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,843,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,841,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,827,dejanb,TRUE,modified AND added AND removed,Merged
+fabric8io_fabric8.csv,826,chirino,TRUE,modified,Merged
+fabric8io_fabric8.csv,815,jstrachan,TRUE,modified AND added AND renamed,Closed
+fabric8io_fabric8.csv,812,grgrzybek,TRUE,modified,Merged
+fabric8io_fabric8.csv,809,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,808,janstey,TRUE,modified,Merged
+fabric8io_fabric8.csv,806,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,805,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,804,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,801,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,795,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,792,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,791,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,790,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,788,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,787,lhein,TRUE,modified,Closed
+fabric8io_fabric8.csv,781,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,780,dejanb,TRUE,modified,Closed
+fabric8io_fabric8.csv,778,grgrzybek,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,777,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,774,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,769,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,768,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,766,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,764,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,761,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,760,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,758,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,757,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,756,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,754,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,753,gertv,TRUE,modified,Closed
+fabric8io_fabric8.csv,751,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,750,gashcrumb,TRUE,modified,Closed
+fabric8io_fabric8.csv,749,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,746,grgrzybek,TRUE,modified,Closed
+fabric8io_fabric8.csv,745,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,741,tdiesler,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,738,davsclaus,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,737,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,735,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,734,grgrzybek,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,733,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,726,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,723,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,721,tabish121,TRUE,added AND modified AND removed,Closed
+fabric8io_fabric8.csv,720,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,719,ffang,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,718,gertv,TRUE,modified,Closed
+fabric8io_fabric8.csv,717,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,712,hekonsek,TRUE,modified,Closed
+fabric8io_fabric8.csv,711,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,707,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,706,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,704,hekonsek,TRUE,modified,Merged
+fabric8io_fabric8.csv,701,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,700,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,697,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,695,gashcrumb,TRUE,removed AND modified,Closed
+fabric8io_fabric8.csv,694,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,693,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,691,janstey,TRUE,modified,Merged
+fabric8io_fabric8.csv,689,janstey,TRUE,modified,Merged
+fabric8io_fabric8.csv,687,iocanel,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,681,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,679,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,677,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,676,davsclaus,TRUE,modified,Closed
+fabric8io_fabric8.csv,672,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,663,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,661,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,660,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,658,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,655,iocanel,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,653,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,652,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,651,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,649,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,647,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,643,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,635,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,633,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,628,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,626,tdiesler,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,623,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,618,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,616,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,614,davsclaus,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,610,punkhorn,TRUE,modified,Closed
+fabric8io_fabric8.csv,606,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,603,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,592,dejanb,TRUE,modified,Closed
+fabric8io_fabric8.csv,590,NULL,TRUE,modified,Closed
+fabric8io_fabric8.csv,585,iocanel,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,579,lhein,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,577,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,576,tdiesler,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,575,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,573,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,572,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,567,dejanb,TRUE,modified,Closed
+fabric8io_fabric8.csv,562,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,556,dejanb,TRUE,modified,Closed
+fabric8io_fabric8.csv,554,lhein,TRUE,modified,Closed
+fabric8io_fabric8.csv,551,gnodet,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,550,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,548,janstey,TRUE,renamed AND added,Merged
+fabric8io_fabric8.csv,547,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,544,dejanb,TRUE,modified,Closed
+fabric8io_fabric8.csv,527,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,517,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,513,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,507,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,504,gnodet,TRUE,modified,Merged
+fabric8io_fabric8.csv,503,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,501,dejanb,TRUE,modified,Closed
+fabric8io_fabric8.csv,500,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,499,iocanel,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,498,fbolton,TRUE,modified,Closed
+fabric8io_fabric8.csv,496,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,492,gnodet,TRUE,modified,Merged
+fabric8io_fabric8.csv,491,lhein,TRUE,modified,Closed
+fabric8io_fabric8.csv,490,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,488,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,486,gnodet,TRUE,modified AND renamed,Closed
+fabric8io_fabric8.csv,483,gnodet,TRUE,modified,Merged
+fabric8io_fabric8.csv,482,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,481,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,480,janstey,TRUE,modified,Merged
+fabric8io_fabric8.csv,473,dejanb,TRUE,modified,Merged
+fabric8io_fabric8.csv,472,tabish121,TRUE,modified,Merged
+fabric8io_fabric8.csv,471,ffang,TRUE,modified,Merged
+fabric8io_fabric8.csv,468,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,467,gertv,TRUE,modified,Closed
+fabric8io_fabric8.csv,465,dejanb,TRUE,modified AND renamed AND added AND removed,Closed
+fabric8io_fabric8.csv,464,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,461,gertv,TRUE,modified,Closed
+fabric8io_fabric8.csv,460,lhein,TRUE,modified AND added AND removed AND renamed,Merged
+fabric8io_fabric8.csv,459,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,453,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,436,ffang,TRUE,modified,Closed
+fabric8io_fabric8.csv,434,jstrachan,TRUE,modified AND removed,Closed
+fabric8io_fabric8.csv,432,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,431,lhein,TRUE,modified,Merged
+fabric8io_fabric8.csv,428,ffang,TRUE,modified,Merged
+fabric8io_fabric8.csv,426,janstey,TRUE,modified,Merged
+fabric8io_fabric8.csv,424,gnodet,TRUE,modified,Merged
+fabric8io_fabric8.csv,422,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,421,jstrachan,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,420,jstrachan,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,419,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,418,gnodet,TRUE,modified,Merged
+fabric8io_fabric8.csv,415,janstey,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,414,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,412,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,410,ffang,TRUE,modified,Closed
+fabric8io_fabric8.csv,409,ffang,TRUE,modified,Merged
+fabric8io_fabric8.csv,408,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,404,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,403,ffang,TRUE,modified,Merged
+fabric8io_fabric8.csv,402,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,399,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,398,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,397,jstrachan,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,395,WillemJiang,TRUE,modified,Closed
+fabric8io_fabric8.csv,394,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,393,tdiesler,TRUE,modified AND renamed,Closed
+fabric8io_fabric8.csv,391,gnodet,TRUE,modified,Merged
+fabric8io_fabric8.csv,389,gnodet,TRUE,modified,Merged
+fabric8io_fabric8.csv,388,gashcrumb,TRUE,modified,Closed
+fabric8io_fabric8.csv,387,gashcrumb,TRUE,modified,Merged
+fabric8io_fabric8.csv,384,gashcrumb,TRUE,modified,Closed
+fabric8io_fabric8.csv,383,dejanb,TRUE,modified,Closed
+fabric8io_fabric8.csv,382,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,381,ffang,TRUE,modified,Closed
+fabric8io_fabric8.csv,380,gashcrumb,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,379,janstey,TRUE,modified,Merged
+fabric8io_fabric8.csv,378,gnodet,TRUE,modified AND removed AND renamed,Closed
+fabric8io_fabric8.csv,371,gashcrumb,TRUE,modified,Closed
+fabric8io_fabric8.csv,370,jstrachan,TRUE,modified AND removed AND renamed,Closed
+fabric8io_fabric8.csv,365,gashcrumb,TRUE,modified,Merged
+fabric8io_fabric8.csv,364,dejanb,TRUE,modified,Closed
+fabric8io_fabric8.csv,362,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,361,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,360,chirino,TRUE,modified,Closed
+fabric8io_fabric8.csv,359,gertv,TRUE,modified,Closed
+fabric8io_fabric8.csv,358,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,357,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,355,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,353,gertv,TRUE,modified,Merged
+fabric8io_fabric8.csv,352,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,351,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,350,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,349,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,346,WillemJiang,TRUE,modified,Closed
+fabric8io_fabric8.csv,345,ffang,TRUE,modified,Merged
+fabric8io_fabric8.csv,342,WillemJiang,TRUE,modified,Merged
+fabric8io_fabric8.csv,340,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,335,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,333,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,331,WillemJiang,TRUE,modified,Closed
+fabric8io_fabric8.csv,328,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,326,christian-posta,TRUE,modified,Closed
+fabric8io_fabric8.csv,325,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,324,dejanb,TRUE,modified,Merged
+fabric8io_fabric8.csv,323,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,322,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,320,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,319,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,317,christian-posta,TRUE,modified,Merged
+fabric8io_fabric8.csv,315,WillemJiang,TRUE,modified,Merged
+fabric8io_fabric8.csv,314,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,313,ffang,TRUE,modified,Merged
+fabric8io_fabric8.csv,312,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,309,janstey,TRUE,modified,Merged
+fabric8io_fabric8.csv,308,janstey,TRUE,modified,Merged
+fabric8io_fabric8.csv,307,janstey,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,306,dejanb,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,305,iocanel,TRUE,added,Merged
+fabric8io_fabric8.csv,304,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,303,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,300,janstey,TRUE,modified,Merged
+fabric8io_fabric8.csv,299,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,298,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,296,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,295,ffang,TRUE,modified,Closed
+fabric8io_fabric8.csv,294,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,293,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,292,jstrachan,TRUE,modified AND removed AND added AND renamed,Closed
+fabric8io_fabric8.csv,291,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,290,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,288,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,287,gnodet,TRUE,modified,Merged
+fabric8io_fabric8.csv,286,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,285,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,284,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,282,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,281,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,280,ffang,TRUE,modified,Closed
+fabric8io_fabric8.csv,279,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,278,ffang,TRUE,modified,Closed
+fabric8io_fabric8.csv,276,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,275,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,274,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,273,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,272,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,271,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,270,lhein,TRUE,modified,Closed
+fabric8io_fabric8.csv,268,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,267,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,266,gnodet,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,265,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,263,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,261,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,260,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,259,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,258,gnodet,TRUE,modified,Closed
+fabric8io_fabric8.csv,255,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,254,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,253,jstrachan,TRUE,renamed AND modified AND added AND removed,Merged
+fabric8io_fabric8.csv,252,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,251,lhein,TRUE,modified,Closed
+fabric8io_fabric8.csv,250,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,248,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,247,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,246,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,244,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,242,gnodet,TRUE,modified,Merged
+fabric8io_fabric8.csv,239,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,237,iocanel,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,234,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,232,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,229,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,228,janstey,TRUE,modified,Merged
+fabric8io_fabric8.csv,227,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,226,davsclaus,TRUE,modified,Merged
+fabric8io_fabric8.csv,225,tdiesler,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,223,gnodet,TRUE,renamed AND added AND modified,Merged
+fabric8io_fabric8.csv,222,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,220,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,219,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,218,jstrachan,TRUE,modified,Closed
+fabric8io_fabric8.csv,217,janstey,TRUE,modified,Closed
+fabric8io_fabric8.csv,216,NULL,TRUE,modified,Closed
+fabric8io_fabric8.csv,214,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,213,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,212,jstrachan,TRUE,added AND modified,Closed
+fabric8io_fabric8.csv,210,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,209,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,208,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,207,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,205,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,204,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,203,jstrachan,TRUE,renamed,Merged
+fabric8io_fabric8.csv,201,tdiesler,TRUE,renamed AND added AND modified,Merged
+fabric8io_fabric8.csv,200,jstrachan,TRUE,modified,Merged
+fabric8io_fabric8.csv,195,iocanel,TRUE,modified AND added,Merged
+fabric8io_fabric8.csv,194,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,193,iocanel,TRUE,modified AND removed AND added,Closed
+fabric8io_fabric8.csv,192,iocanel,TRUE,modified,Closed
+fabric8io_fabric8.csv,190,tdiesler,TRUE,modified,Closed
+fabric8io_fabric8.csv,172,tdiesler,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,171,tdiesler,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,170,tdiesler,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,169,tdiesler,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,168,tdiesler,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,167,tdiesler,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,166,tdiesler,TRUE,modified AND added,Closed
+fabric8io_fabric8.csv,155,iocanel,TRUE,modified AND added AND renamed,Closed
+fabric8io_fabric8.csv,154,iocanel,TRUE,modified AND added AND renamed,Closed
+fabric8io_fabric8.csv,127,iocanel,TRUE,modified,Merged
+fabric8io_fabric8.csv,71,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,66,tdiesler,TRUE,modified,Merged
+fabric8io_fabric8.csv,17,antoinesd,TRUE,modified,Merged
+fabric8io_fabric8.csv,16,marvec,TRUE,modified,Merged
+fabric8io_fabric8.csv,12,stevenpost,TRUE,added AND modified,Merged
+fabric8io_fabric8.csv,11,vaskoz,TRUE,added AND removed,Merged
+fabric8io_fabric8.csv,10,vaskoz,TRUE,modified,Merged
+fabric8io_fabric8.csv,9,vaskoz,TRUE,modified,Closed
+fabric8io_fabric8.csv,8,balent,TRUE,modified,Merged
+fabric8io_fabric8.csv,5,scranton,TRUE,modified,Merged
+fabric8io_fabric8.csv,2,dhirajsb,TRUE,modified,Closed
